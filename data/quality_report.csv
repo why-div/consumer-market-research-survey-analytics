@@ -1,0 +1,9 @@
+metric,value
+raw_rows,2008
+duplicate_rows,8
+invalid_rows,6
+straight_line_rows,14
+fast_completion_flags,2
+missing_cells_before_cleaning,75
+clean_rows_removed,28
+final_rows,1980

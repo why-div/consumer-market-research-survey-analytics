@@ -1,0 +1,1981 @@
+response_id,age_group,income_range,occupation,city_tier,preferred_platform,shopping_frequency,monthly_online_spend_inr,price_sensitivity,discount_importance,delivery_satisfaction,product_quality,reviews_importance,return_experience,customer_support,overall_satisfaction,repeat_purchase_intent,switching_intent,recommendation_score,completion_time_sec
+10001,35-44,10-20L,Government,Tier 2,Flipkart,3-5/month,9051.0,2,4,5.0,4,4,4,3,5.0,5,2,10,323
+10002,25-34,3-6L,Private Sector,Tier 1,Other,3-5/month,6410.0,3,4,3.0,5,4,4,4,5.0,5,2,8,237
+10003,45-54,20L+,Self-employed,Tier 2,Amazon,1-2/month,6885.0,3,4,3.0,3,4,4,2,2.0,2,3,6,411
+10004,35-44,6-10L,Private Sector,Tier 1,Amazon,Rarely,4276.0,4,3,3.0,3,5,4,4,5.0,5,3,8,295
+10005,18-24,<3L,Private Sector,Tier 1,Myntra,1-2/month,3763.0,4,4,3.0,4,4,3,4,3.0,5,4,5,349
+10006,55+,10-20L,Student,Tier 2,Flipkart,1-2/month,6632.0,3,3,4.0,3,4,4,3,4.0,4,2,7,456
+10007,35-44,6-10L,Private Sector,Tier 2,Flipkart,1-2/month,3639.0,3,3,4.0,5,4,3,5,4.0,5,2,10,414
+10008,35-44,<3L,Student,Tier 3,Myntra,6+/month,9866.0,5,3,4.0,4,4,4,4,3.0,3,4,4,301
+10009,18-24,<3L,Student,Tier 2,Myntra,1-2/month,4569.0,4,4,4.0,4,4,4,3,3.0,3,3,6,459
+10010,25-34,6-10L,Private Sector,Tier 3,Flipkart,1-2/month,4727.0,4,3,4.0,4,3,3,3,3.0,2,2,7,423
+10011,25-34,<3L,Private Sector,Tier 2,Other,3-5/month,8212.0,4,4,4.0,4,3,3,5,4.0,4,2,10,293
+10013,35-44,<3L,Other,Tier 1,Flipkart,Rarely,3336.0,3,4,5.0,4,5,3,4,4.0,4,2,8,455
+10014,45-54,3-6L,Student,Tier 2,Amazon,1-2/month,4767.0,2,4,4.0,4,5,4,2,4.0,5,2,9,434
+10015,25-34,3-6L,Private Sector,Tier 1,Amazon,6+/month,10727.0,4,3,3.0,3,4,4,5,4.0,5,2,8,217
+10016,18-24,6-10L,Private Sector,Tier 1,Amazon,Rarely,6027.0,4,4,4.0,3,3,4,3,4.0,4,2,8,264
+10017,25-34,3-6L,Private Sector,Tier 1,Myntra,3-5/month,9726.0,4,4,4.0,5,4,4,5,5.0,4,3,10,426
+10018,18-24,<3L,Private Sector,Tier 3,Flipkart,3-5/month,7521.0,3,4,4.0,3,3,4,3,3.0,4,4,4,248
+10019,45-54,6-10L,Student,Tier 2,Amazon,1-2/month,6929.0,3,4,4.0,4,3,3,4,3.0,5,3,7,436
+10020,35-44,3-6L,Government,Tier 3,Flipkart,3-5/month,9045.0,4,3,3.0,4,4,4,3,4.0,4,3,9,544
+10021,35-44,6-10L,Private Sector,Tier 3,Amazon,1-2/month,6174.0,5,3,5.0,4,4,3,3,4.0,5,4,7,395
+10022,25-34,<3L,Student,Tier 3,Amazon,1-2/month,6063.0,3,3,4.0,5,5,5,4,5.0,5,1,10,272
+10023,55+,<3L,Private Sector,Tier 1,Other,1-2/month,5363.0,4,4,4.0,4,4,4,2,4.0,3,2,5,377
+10024,45-54,3-6L,Self-employed,Tier 3,Amazon,6+/month,10930.0,4,4,4.0,4,3,3,5,5.0,4,2,10,458
+10025,35-44,3-6L,Self-employed,Tier 3,Amazon,1-2/month,5615.0,4,4,3.0,4,4,4,3,4.0,4,3,10,369
+10026,18-24,3-6L,Other,Tier 3,Flipkart,Rarely,2561.0,5,5,5.0,3,4,3,3,4.0,4,3,8,406
+10027,25-34,10-20L,Government,Tier 1,Amazon,6+/month,12363.0,3,4,3.0,3,4,4,4,3.0,3,4,5,284
+10029,18-24,6-10L,Private Sector,Tier 3,Other,6+/month,9987.0,4,4,3.0,5,3,3,3,3.0,2,2,7,446
+10030,35-44,6-10L,Self-employed,Tier 1,Flipkart,3-5/month,8324.0,3,4,3.0,4,4,3,3,4.0,2,2,10,292
+10031,35-44,<3L,Private Sector,Tier 1,Flipkart,3-5/month,5847.0,5,4,3.0,4,4,5,3,4.0,5,3,8,114
+10032,55+,6-10L,Private Sector,Tier 2,Amazon,3-5/month,8144.0,4,4,3.0,4,5,4,3,4.0,4,1,9,331
+10033,25-34,3-6L,Government,Tier 1,Flipkart,3-5/month,7625.0,3,3,5.0,3,4,3,4,5.0,5,1,7,390
+10034,25-34,3-6L,Private Sector,Tier 1,Amazon,Rarely,4365.0,5,3,3.0,5,5,3,3,3.0,3,3,7,461
+10035,25-34,<3L,Student,Tier 3,Amazon,6+/month,9336.0,5,5,5.0,5,4,4,4,4.0,4,2,7,516
+10036,18-24,10-20L,Private Sector,Tier 3,Myntra,6+/month,12909.0,4,3,4.0,5,4,3,4,3.0,3,2,6,368
+10037,18-24,20L+,Private Sector,Tier 3,Flipkart,6+/month,12670.0,1,4,3.0,5,5,3,4,3.0,4,3,9,423
+10038,25-34,<3L,Self-employed,Tier 1,Flipkart,3-5/month,7247.0,4,3,4.0,4,3,4,3,4.0,4,2,5,371
+10039,18-24,6-10L,Private Sector,Tier 1,Amazon,1-2/month,4873.0,4,4,4.0,5,4,4,3,3.0,4,4,4,394
+10040,35-44,10-20L,Self-employed,Tier 1,Myntra,3-5/month,8640.0,3,4,3.0,3,5,3,4,5.0,5,2,10,342
+10041,25-34,3-6L,Private Sector,Tier 2,Amazon,Rarely,5188.0,4,4,3.0,4,4,3,3,4.0,4,3,8,397
+10042,45-54,10-20L,Self-employed,Tier 1,Amazon,1-2/month,7473.0,3,4,4.0,4,4,3,4,4.0,5,2,7,291
+10043,35-44,6-10L,Student,Tier 2,Myntra,3-5/month,7432.0,4,4,4.0,5,4,3,3,4.0,4,2,9,548
+10044,25-34,10-20L,Other,Tier 3,Flipkart,3-5/month,8309.0,3,5,4.0,3,4,3,4,5.0,5,1,10,133
+10045,45-54,20L+,Private Sector,Tier 2,Other,1-2/month,6360.0,4,4,3.0,3,5,4,2,4.0,5,3,7,414
+10046,45-54,<3L,Private Sector,Tier 1,Amazon,1-2/month,4059.0,5,3,4.0,4,5,5,3,4.0,5,3,7,390
+10047,25-34,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,6241.0,4,4,3.0,4,4,5,4,3.0,2,2,7,395
+10048,25-34,6-10L,Private Sector,Tier 1,Other,1-2/month,5826.0,4,4,2.0,3,5,5,3,3.0,3,2,7,248
+10049,35-44,<3L,Private Sector,Tier 1,Flipkart,6+/month,10720.0,5,4,4.0,4,4,3,4,4.0,2,2,9,201
+10050,18-24,3-6L,Government,Tier 2,Flipkart,3-5/month,6793.0,4,3,4.0,5,5,5,2,4.0,5,3,7,418
+10051,18-24,20L+,Other,Tier 1,Amazon,Rarely,6068.0,3,4,4.0,5,3,4,2,4.0,4,1,9,487
+10052,18-24,<3L,Government,Tier 2,Myntra,Rarely,3352.0,5,3,5.0,4,5,4,2,5.0,5,3,10,381
+10053,35-44,3-6L,Private Sector,Tier 3,Other,3-5/month,8450.0,4,2,3.0,4,4,4,4,3.0,2,3,7,437
+10054,35-44,10-20L,Private Sector,Tier 1,Flipkart,1-2/month,6050.0,5,3,3.0,5,2,3,4,3.0,3,3,6,316
+10055,35-44,3-6L,Self-employed,Tier 1,Other,3-5/month,6982.0,4,3,4.0,4,5,4,5,3.0,3,3,6,391
+10056,35-44,3-6L,Self-employed,Tier 1,Flipkart,1-2/month,4539.0,3,3,4.0,4,4,4,5,4.0,5,3,7,476
+10057,25-34,20L+,Private Sector,Tier 1,Flipkart,Rarely,5126.0,5,1,2.0,5,4,2,4,3.0,4,3,5,330
+10058,25-34,3-6L,Other,Tier 2,Amazon,1-2/month,5776.0,2,3,4.0,4,4,4,3,3.0,3,2,6,473
+10059,18-24,<3L,Private Sector,Tier 3,Flipkart,3-5/month,6728.0,4,4,4.0,3,4,4,3,4.0,3,2,9,205
+10060,18-24,<3L,Self-employed,Tier 3,Other,6+/month,10199.0,3,3,2.0,3,3,4,4,3.0,1,2,5,302
+10061,35-44,20L+,Other,Tier 2,Flipkart,6+/month,13897.0,4,4,4.0,4,4,4,5,4.0,3,3,8,412
+10062,25-34,3-6L,Government,Tier 1,Amazon,1-2/month,6499.0,4,5,3.0,4,4,3,3,3.0,2,4,6,541
+10063,25-34,6-10L,Student,Tier 1,Flipkart,3-5/month,6668.0,3,4,3.0,4,4,4,5,4.0,4,3,10,361
+10064,35-44,<3L,Private Sector,Tier 1,Myntra,Rarely,4133.0,4,5,3.0,5,4,4,2,4.0,4,2,9,262
+10065,35-44,3-6L,Student,Tier 1,Other,3-5/month,7703.0,3,5,4.0,4,5,3,4,4.0,4,1,9,539
+10066,25-34,20L+,Self-employed,Tier 3,Amazon,6+/month,12335.0,3,3,5.0,4,4,3,3,4.0,3,1,10,348
+10067,25-34,6-10L,Private Sector,Tier 2,Amazon,1-2/month,6245.0,3,4,4.0,3,4,4,3,2.0,3,3,4,423
+10068,25-34,20L+,Government,Tier 1,Amazon,6+/month,11196.0,2,4,2.0,5,4,4,4,4.0,3,2,10,328
+10069,18-24,3-6L,Self-employed,Tier 1,Amazon,1-2/month,6616.0,4,3,4.0,4,4,4,3,3.0,3,4,7,374
+10070,25-34,6-10L,Student,Tier 1,Other,Rarely,5313.0,4,3,4.0,3,3,5,4,3.0,4,4,7,307
+10071,18-24,10-20L,Private Sector,Tier 3,Flipkart,1-2/month,5821.0,3,4,3.0,4,5,4,4,3.0,3,3,5,574
+10072,25-34,3-6L,Government,Tier 1,Flipkart,6+/month,10273.0,2,3,4.0,3,5,5,4,4.0,4,1,8,473
+10073,45-54,3-6L,Private Sector,Tier 1,Amazon,1-2/month,3767.0,4,3,5.0,4,5,4,5,5.0,3,1,7,528
+10074,18-24,10-20L,Student,Tier 1,Flipkart,3-5/month,8517.0,4,3,3.0,4,5,3,4,4.0,2,3,8,285
+10075,18-24,3-6L,Student,Tier 3,Other,1-2/month,4866.0,4,4,2.0,3,4,3,3,2.0,2,4,4,187
+10076,25-34,6-10L,Private Sector,Tier 2,Flipkart,3-5/month,6957.0,4,4,2.0,3,2,4,3,3.0,4,3,6,332
+10077,25-34,20L+,Government,Tier 2,Amazon,3-5/month,10149.0,4,4,3.0,3,3,1,5,4.0,4,2,6,599
+10078,35-44,<3L,Private Sector,Tier 1,Amazon,1-2/month,5799.0,5,3,4.0,3,4,4,5,3.0,5,3,8,329
+10079,25-34,3-6L,Student,Tier 1,Other,3-5/month,7475.0,5,3,3.0,3,4,4,4,3.0,2,2,8,460
+10080,35-44,<3L,Private Sector,Tier 3,Other,3-5/month,6575.0,5,4,3.0,3,4,3,4,2.0,2,5,8,263
+10081,35-44,3-6L,Private Sector,Tier 1,Amazon,1-2/month,5691.0,2,3,4.0,3,2,4,4,3.0,3,4,9,281
+10082,25-34,3-6L,Private Sector,Tier 1,Flipkart,1-2/month,5282.0,2,3,4.0,4,4,3,5,4.0,5,1,8,352
+10083,45-54,6-10L,Government,Tier 2,Amazon,Rarely,3876.0,3,2,4.0,4,3,5,3,4.0,4,1,10,560
+10084,18-24,<3L,Private Sector,Tier 1,Flipkart,6+/month,9563.0,4,4,4.0,5,3,3,4,4.0,3,3,9,465
+10085,18-24,6-10L,Private Sector,Tier 1,Amazon,3-5/month,7883.0,3,5,3.0,5,5,3,3,4.0,5,2,9,165
+10086,18-24,3-6L,Other,Tier 3,Myntra,3-5/month,7723.0,4,3,3.0,4,3,4,3,4.0,4,3,8,423
+10087,35-44,3-6L,Private Sector,Tier 2,Other,3-5/month,7508.0,3,5,3.0,4,3,4,5,3.0,3,4,8,251
+10088,25-34,3-6L,Private Sector,Tier 1,Amazon,3-5/month,7689.0,3,4,3.0,4,4,3,4,4.0,4,1,10,295
+10089,18-24,6-10L,Student,Tier 1,Flipkart,1-2/month,4578.0,3,2,2.0,4,5,3,4,3.0,3,4,9,408
+10090,25-34,3-6L,Student,Tier 2,Amazon,1-2/month,5899.0,4,3,3.0,4,4,4,1,4.0,4,2,9,493
+10091,18-24,3-6L,Student,Tier 1,Amazon,3-5/month,7503.0,4,3,5.0,4,5,5,3,4.0,4,3,9,488
+10092,35-44,10-20L,Self-employed,Tier 1,Amazon,Rarely,7797.0,3,3,4.0,3,3,4,4,3.0,3,3,7,391
+10093,25-34,6-10L,Self-employed,Tier 2,Amazon,Rarely,4501.0,3,4,4.0,4,3,4,3,4.0,3,3,8,393
+10094,25-34,3-6L,Student,Tier 2,Other,3-5/month,7791.0,4,5,4.0,4,3,4,4,4.0,4,1,9,488
+10095,25-34,10-20L,Student,Tier 3,Amazon,6+/month,14646.0,3,2,5.0,5,3,4,4,5.0,5,2,10,210
+10096,35-44,3-6L,Private Sector,Tier 1,Myntra,3-5/month,7675.0,4,3,3.0,4,4,4,3,3.0,2,2,5,534
+10097,25-34,<3L,Private Sector,Tier 1,Amazon,Rarely,3489.0,3,3,3.0,3,3,4,3,2.0,3,4,6,290
+10098,18-24,6-10L,Private Sector,Tier 2,Flipkart,6+/month,10562.0,2,3,5.0,5,3,4,3,4.0,4,3,9,385
+10099,18-24,<3L,Government,Tier 2,Flipkart,Rarely,4925.0,4,4,4.0,2,4,3,3,5.0,4,1,10,313
+10100,55+,3-6L,Self-employed,Tier 1,Other,1-2/month,4257.0,4,4,3.0,5,5,3,5,5.0,5,1,10,250
+10101,45-54,10-20L,Private Sector,Tier 2,Amazon,6+/month,12484.0,2,2,4.0,3,5,4,3,4.0,4,2,10,404
+10102,35-44,<3L,Government,Tier 1,Amazon,3-5/month,6424.0,5,4,3.0,4,5,5,2,4.0,3,2,8,382
+10103,25-34,10-20L,Private Sector,Tier 3,Myntra,6+/month,11930.0,5,3,3.0,4,3,3,5,3.0,5,3,6,350
+10104,55+,20L+,Private Sector,Tier 3,Flipkart,3-5/month,8168.0,2,3,3.0,5,4,4,3,5.0,5,2,9,345
+10105,35-44,6-10L,Self-employed,Tier 1,Flipkart,3-5/month,9359.0,4,5,4.0,4,4,3,4,4.0,3,3,8,505
+10106,35-44,6-10L,Student,Tier 3,Amazon,1-2/month,5700.0,2,4,4.0,2,4,4,3,4.0,4,2,10,568
+10107,25-34,6-10L,Government,Tier 3,Amazon,1-2/month,4856.0,4,4,5.0,4,4,4,4,5.0,5,1,9,479
+10108,25-34,20L+,Government,Tier 1,Myntra,6+/month,13877.0,2,3,4.0,4,3,5,3,3.0,2,2,7,386
+10109,18-24,3-6L,Self-employed,Tier 1,Flipkart,6+/month,10346.0,4,4,3.0,2,4,3,4,2.0,3,4,5,204
+10110,45-54,<3L,Private Sector,Tier 2,Flipkart,1-2/month,4951.0,3,4,5.0,4,4,5,3,4.0,5,2,8,420
+10111,25-34,6-10L,Private Sector,Tier 1,Amazon,1-2/month,6707.0,3,4,5.0,3,5,5,3,5.0,5,1,8,424
+10112,18-24,6-10L,Self-employed,Tier 1,Amazon,1-2/month,6377.0,3,4,4.0,4,5,4,4,3.0,3,2,7,433
+10113,25-34,<3L,Self-employed,Tier 1,Other,1-2/month,2673.0,4,4,2.0,4,4,4,3,3.0,4,3,6,252
+10114,35-44,6-10L,Private Sector,Tier 3,Flipkart,6+/month,12076.0,5,3,3.0,5,4,4,2,4.0,3,2,10,441
+10115,18-24,<3L,Self-employed,Tier 1,Amazon,Rarely,3459.0,4,3,3.0,4,4,4,3,3.0,5,3,6,508
+10116,45-54,10-20L,Private Sector,Tier 2,Other,1-2/month,6304.0,5,4,4.0,4,3,5,5,4.0,3,2,8,267
+10117,35-44,3-6L,Private Sector,Tier 1,Flipkart,6+/month,10702.0,3,4,3.0,4,3,3,2,4.0,3,2,8,425
+10118,35-44,<3L,Self-employed,Tier 1,Amazon,3-5/month,5401.0,5,4,5.0,3,3,3,4,3.0,3,4,7,283
+10119,25-34,<3L,Private Sector,Tier 3,Amazon,1-2/month,4823.0,3,5,3.0,4,4,3,3,4.0,3,1,10,350
+10120,35-44,3-6L,Private Sector,Tier 1,Flipkart,1-2/month,4072.0,3,4,3.0,4,5,2,5,4.0,4,1,7,270
+10121,35-44,3-6L,Other,Tier 1,Amazon,Rarely,3943.0,3,4,4.0,4,5,4,3,4.0,4,2,9,327
+10122,35-44,<3L,Self-employed,Tier 1,Flipkart,1-2/month,4791.0,5,3,4.0,4,5,4,4,4.0,4,2,6,327
+10123,18-24,3-6L,Self-employed,Tier 2,Flipkart,Rarely,5167.0,4,5,2.0,3,4,3,4,2.0,1,1,7,399
+10124,25-34,<3L,Private Sector,Tier 1,Amazon,Rarely,2812.0,2,4,2.0,4,3,4,3,3.0,3,4,6,445
+10125,18-24,3-6L,Other,Tier 1,Other,1-2/month,6606.0,3,5,3.0,4,4,2,3,4.0,3,3,6,476
+10126,25-34,3-6L,Student,Tier 1,Amazon,1-2/month,6152.0,3,5,5.0,4,3,4,3,4.0,5,3,6,298
+10127,25-34,3-6L,Private Sector,Tier 1,Amazon,Rarely,3814.0,4,3,5.0,4,4,3,3,4.0,5,2,10,394
+10128,18-24,3-6L,Private Sector,Tier 1,Flipkart,6+/month,9802.0,4,3,3.0,3,4,4,3,3.0,3,3,4,256
+10129,18-24,<3L,Self-employed,Tier 2,Flipkart,Rarely,2251.0,4,2,4.0,4,4,4,4,4.0,4,2,9,349
+10130,35-44,<3L,Self-employed,Tier 1,Flipkart,1-2/month,4895.0,4,5,3.0,4,4,4,4,4.0,4,3,8,364
+10131,18-24,3-6L,Government,Tier 1,Flipkart,6+/month,10136.0,4,4,4.0,5,3,3,4,3.0,3,3,6,272
+10132,45-54,10-20L,Private Sector,Tier 2,Other,Rarely,6579.0,2,4,5.0,4,5,4,4,4.0,4,2,7,413
+10133,35-44,20L+,Private Sector,Tier 2,Myntra,1-2/month,6638.0,3,2,5.0,4,3,5,4,3.0,3,3,5,345
+10134,25-34,10-20L,Private Sector,Tier 1,Myntra,3-5/month,7989.0,3,3,4.0,4,4,3,5,3.0,5,4,6,375
+10135,35-44,6-10L,Private Sector,Tier 1,Amazon,3-5/month,8360.0,3,4,3.0,3,4,5,3,3.0,2,3,8,476
+10136,18-24,6-10L,Student,Tier 1,Amazon,1-2/month,5333.0,4,4,4.0,3,5,3,4,5.0,2,1,9,319
+10137,55+,3-6L,Private Sector,Tier 3,Flipkart,3-5/month,7508.0,4,4,5.0,4,3,4,2,4.0,4,3,9,441
+10138,25-34,10-20L,Self-employed,Tier 1,Amazon,3-5/month,9687.0,3,4,4.0,3,3,4,2,4.0,2,3,8,497
+10139,35-44,10-20L,Government,Tier 1,Myntra,1-2/month,6706.0,2,3,2.0,4,5,3,5,4.0,3,2,9,491
+10140,18-24,10-20L,Self-employed,Tier 1,Amazon,Rarely,5609.0,4,4,4.0,5,4,5,3,4.0,3,2,9,342
+10141,25-34,10-20L,Private Sector,Tier 1,Amazon,Rarely,5685.0,4,4,4.0,5,4,4,4,5.0,4,1,9,268
+10142,25-34,3-6L,Private Sector,Tier 1,Amazon,3-5/month,5976.0,4,3,2.0,4,4,3,2,3.0,2,3,5,293
+10143,55+,10-20L,Student,Tier 1,Amazon,1-2/month,6953.0,4,5,4.0,5,5,5,2,5.0,5,1,10,209
+10144,35-44,10-20L,Private Sector,Tier 2,Amazon,Rarely,5644.0,3,4,4.0,3,4,3,3,4.0,4,2,7,425
+10145,25-34,3-6L,Private Sector,Tier 2,Flipkart,1-2/month,6104.0,4,4,5.0,5,4,3,4,5.0,5,1,10,431
+10146,25-34,10-20L,Private Sector,Tier 2,Flipkart,6+/month,12645.0,3,4,3.0,3,3,4,3,4.0,4,3,8,371
+10147,25-34,<3L,Student,Tier 2,Amazon,Rarely,3368.0,3,5,4.0,5,4,4,3,4.0,5,4,7,229
+10148,25-34,20L+,Government,Tier 1,Amazon,Rarely,7079.0,4,2,5.0,5,3,4,3,5.0,5,1,10,325
+10149,25-34,10-20L,Private Sector,Tier 3,Myntra,1-2/month,6337.0,2,4,4.0,3,4,3,4,3.0,5,3,9,491
+10150,18-24,<3L,Private Sector,Tier 2,Amazon,3-5/month,7072.0,4,4,3.0,5,3,3,4,5.0,5,2,10,418
+10151,45-54,6-10L,Private Sector,Tier 3,Flipkart,1-2/month,5670.0,3,4,3.0,4,4,5,3,4.0,3,3,8,434
+10152,45-54,<3L,Private Sector,Tier 2,Flipkart,6+/month,10566.0,3,4,4.0,3,5,4,4,4.0,5,2,10,674
+10153,18-24,10-20L,Private Sector,Tier 1,Flipkart,Rarely,5161.0,3,3,4.0,4,4,3,3,3.0,3,3,4,391
+10154,25-34,10-20L,Private Sector,Tier 1,Other,1-2/month,8083.0,3,3,3.0,3,4,3,3,3.0,3,3,5,155
+10155,18-24,6-10L,Private Sector,Tier 1,Flipkart,1-2/month,7766.0,4,4,5.0,4,4,5,3,4.0,4,2,7,255
+10156,35-44,10-20L,Student,Tier 1,Other,1-2/month,7387.0,3,3,3.0,3,4,3,4,3.0,4,4,9,389
+10157,25-34,<3L,Self-employed,Tier 2,Other,1-2/month,6037.0,3,3,2.0,4,4,4,3,2.0,1,3,7,362
+10158,35-44,3-6L,Student,Tier 1,Amazon,3-5/month,6115.0,5,3,4.0,5,4,5,4,5.0,5,2,7,344
+10159,35-44,3-6L,Private Sector,Tier 1,Amazon,1-2/month,4021.0,4,4,4.0,4,3,4,5,4.0,5,3,8,345
+10160,35-44,<3L,Student,Tier 3,Amazon,3-5/month,6561.0,4,5,4.0,4,4,3,4,4.0,4,3,6,285
+10161,18-24,3-6L,Private Sector,Tier 2,Amazon,Rarely,4237.0,5,2,4.0,4,3,3,4,3.0,2,3,7,396
+10162,45-54,3-6L,Private Sector,Tier 2,Flipkart,3-5/month,7322.0,5,5,5.0,3,4,5,3,4.0,2,4,10,492
+10163,18-24,3-6L,Self-employed,Tier 1,Amazon,1-2/month,3822.0,4,4,3.0,3,3,3,4,2.0,4,2,7,525
+10164,18-24,3-6L,Private Sector,Tier 2,Amazon,3-5/month,8536.0,3,4,4.0,3,5,3,2,5.0,5,1,10,522
+10165,25-34,10-20L,Private Sector,Tier 3,Amazon,Rarely,7439.0,2,3,5.0,4,2,4,5,4.0,5,3,6,269
+10166,25-34,3-6L,Private Sector,Tier 2,Flipkart,6+/month,11953.0,4,4,2.0,4,5,3,4,3.0,4,2,6,358
+10167,45-54,10-20L,Student,Tier 2,Flipkart,6+/month,13077.0,4,4,4.0,4,3,4,3,5.0,4,1,10,330
+10168,45-54,3-6L,Private Sector,Tier 2,Other,3-5/month,7704.0,4,3,5.0,4,3,2,4,4.0,2,2,10,416
+10169,25-34,3-6L,Private Sector,Tier 1,Amazon,6+/month,10041.0,1,3,5.0,3,4,3,3,4.0,4,1,6,352
+10170,55+,6-10L,Private Sector,Tier 2,Amazon,Rarely,4915.0,4,5,4.0,5,4,4,4,5.0,5,2,10,339
+10171,25-34,3-6L,Other,Tier 3,Other,1-2/month,7195.0,4,3,4.0,3,4,4,4,4.0,4,3,9,498
+10172,25-34,3-6L,Government,Tier 1,Flipkart,1-2/month,4983.0,3,4,3.0,4,5,3,4,4.0,3,2,10,369
+10173,25-34,6-10L,Other,Tier 1,Flipkart,6+/month,11041.0,4,3,5.0,4,3,3,3,3.0,4,4,7,372
+10174,55+,<3L,Private Sector,Tier 1,Flipkart,1-2/month,5647.0,4,3,3.0,4,4,4,3,4.0,4,1,10,399
+10175,18-24,3-6L,Self-employed,Tier 1,Amazon,1-2/month,6356.0,3,5,3.0,3,4,3,4,4.0,5,2,9,424
+10176,18-24,6-10L,Private Sector,Tier 3,Other,3-5/month,7387.0,4,3,4.0,5,4,5,3,5.0,5,3,9,425
+10177,25-34,3-6L,Private Sector,Tier 2,Flipkart,Rarely,3965.0,3,3,3.0,5,3,4,1,3.0,4,4,7,507
+10178,55+,10-20L,Other,Tier 1,Flipkart,3-5/month,8348.0,3,3,4.0,4,4,3,3,3.0,4,4,8,238
+10179,45-54,3-6L,Government,Tier 1,Flipkart,1-2/month,5363.0,4,3,4.0,4,4,3,5,4.0,5,2,8,391
+10180,35-44,20L+,Self-employed,Tier 1,Amazon,3-5/month,10443.0,2,3,5.0,3,5,3,4,3.0,3,3,3,350
+10181,45-54,10-20L,Government,Tier 1,Amazon,6+/month,11376.0,3,4,4.0,5,3,2,3,2.0,1,3,5,331
+10182,45-54,20L+,Student,Tier 2,Myntra,3-5/month,10431.0,4,4,3.0,3,4,4,3,3.0,3,4,7,432
+10183,25-34,10-20L,Government,Tier 3,Flipkart,1-2/month,6691.0,4,3,4.0,4,5,3,4,5.0,5,3,10,483
+10184,25-34,<3L,Private Sector,Tier 2,Amazon,Rarely,5644.0,4,3,3.0,4,4,4,2,3.0,2,3,6,304
+10185,35-44,6-10L,Self-employed,Tier 1,Amazon,Rarely,5137.0,2,4,5.0,4,4,4,3,5.0,4,1,10,520
+10186,35-44,<3L,Self-employed,Tier 2,Other,Rarely,3463.0,3,4,4.0,4,4,4,4,4.0,4,4,4,224
+10187,25-34,10-20L,Student,Tier 2,Amazon,3-5/month,9317.0,3,3,4.0,3,4,4,5,4.0,4,3,8,416
+10188,18-24,6-10L,Student,Tier 1,Amazon,1-2/month,5647.0,3,5,2.0,4,5,5,3,4.0,4,2,8,275
+10189,35-44,3-6L,Student,Tier 2,Flipkart,1-2/month,3684.0,3,4,2.0,4,4,5,5,5.0,2,2,10,299
+10190,25-34,10-20L,Private Sector,Tier 2,Myntra,1-2/month,6384.0,5,4,3.0,5,3,4,3,3.0,2,2,7,366
+10191,55+,<3L,Student,Tier 3,Flipkart,6+/month,9919.0,4,5,5.0,5,4,4,1,5.0,5,2,10,322
+10192,18-24,6-10L,Government,Tier 1,Myntra,Rarely,3417.0,4,5,3.0,4,4,3,4,3.0,3,3,7,88
+10193,18-24,6-10L,Private Sector,Tier 1,Amazon,1-2/month,5884.0,4,4,4.0,4,4,3,4,3.0,3,3,7,418
+10194,45-54,<3L,Self-employed,Tier 2,Other,1-2/month,2790.0,4,4,3.0,5,4,5,4,5.0,4,2,10,434
+10195,18-24,6-10L,Private Sector,Tier 1,Other,Rarely,4537.0,5,4,4.0,3,3,4,4,3.0,3,1,5,345
+10196,18-24,10-20L,Private Sector,Tier 1,Flipkart,6+/month,12319.0,2,3,4.0,4,4,4,4,4.0,4,2,7,337
+10197,35-44,<3L,Student,Tier 2,Flipkart,Rarely,3637.0,3,2,5.0,2,4,3,3,5.0,4,2,10,325
+10198,45-54,6-10L,Self-employed,Tier 1,Amazon,3-5/month,7780.0,3,4,4.0,4,4,5,3,5.0,4,2,10,197
+10199,18-24,3-6L,Student,Tier 2,Flipkart,3-5/month,7423.0,5,4,4.0,4,5,3,3,3.0,3,3,6,187
+10200,25-34,6-10L,Student,Tier 3,Amazon,3-5/month,7444.0,4,4,5.0,3,3,3,3,3.0,5,3,7,436
+10201,35-44,<3L,Student,Tier 2,Amazon,3-5/month,6860.0,3,4,3.0,5,3,3,2,3.0,3,3,8,461
+10202,55+,20L+,Self-employed,Tier 2,Other,3-5/month,9502.0,2,4,5.0,3,5,5,2,5.0,5,2,10,417
+10203,25-34,10-20L,Student,Tier 2,Amazon,1-2/month,5790.0,4,2,5.0,4,3,3,3,3.0,3,4,6,396
+10204,18-24,<3L,Private Sector,Tier 1,Flipkart,1-2/month,4891.0,4,3,4.0,4,4,3,2,3.0,3,3,7,434
+10205,18-24,3-6L,Self-employed,Tier 1,Amazon,3-5/month,7735.0,5,2,4.0,5,5,5,2,5.0,4,4,10,428
+10206,18-24,6-10L,Self-employed,Tier 2,Amazon,3-5/month,8000.0,3,4,4.0,3,4,4,3,2.0,4,3,6,285
+10207,18-24,6-10L,Student,Tier 1,Amazon,1-2/month,8129.0,4,3,3.0,4,5,3,3,3.0,4,3,6,381
+10208,35-44,3-6L,Student,Tier 1,Amazon,1-2/month,5173.0,4,3,3.0,4,4,3,3,3.0,2,5,5,332
+10209,18-24,<3L,Private Sector,Tier 1,Flipkart,1-2/month,4399.0,3,4,3.0,4,4,2,1,3.0,3,3,8,333
+10210,25-34,<3L,Student,Tier 3,Other,1-2/month,4270.0,4,4,4.0,4,4,4,5,3.0,4,4,8,468
+10211,35-44,20L+,Government,Tier 1,Flipkart,Rarely,5276.0,2,2,4.0,4,3,4,2,4.0,2,2,10,510
+10212,35-44,3-6L,Private Sector,Tier 2,Other,1-2/month,5917.0,4,5,4.0,3,4,5,3,4.0,4,2,6,137
+10213,18-24,10-20L,Private Sector,Tier 1,Flipkart,Rarely,4882.0,4,3,4.0,5,4,2,2,3.0,4,4,7,336
+10214,45-54,6-10L,Student,Tier 2,Flipkart,3-5/month,7639.0,4,3,3.0,4,4,3,5,5.0,4,2,9,331
+10215,35-44,10-20L,Private Sector,Tier 1,Amazon,3-5/month,8316.0,4,3,3.0,4,5,4,4,4.0,4,1,8,470
+10216,35-44,<3L,Student,Tier 1,Amazon,3-5/month,5964.0,4,4,4.0,5,4,5,3,4.0,5,3,6,222
+10217,18-24,<3L,Government,Tier 2,Myntra,3-5/month,5274.0,5,4,3.0,3,4,4,3,4.0,3,2,6,76
+10218,18-24,10-20L,Student,Tier 2,Flipkart,Rarely,5083.0,4,4,3.0,4,5,4,4,4.0,5,4,9,438
+10219,45-54,20L+,Other,Tier 1,Amazon,Rarely,6936.0,4,3,5.0,3,4,3,2,4.0,4,4,7,451
+10220,25-34,3-6L,Government,Tier 1,Myntra,3-5/month,7677.0,5,5,3.0,5,4,2,4,3.0,3,5,5,191
+10221,25-34,3-6L,Student,Tier 1,Amazon,3-5/month,8905.0,3,3,5.0,5,4,4,3,5.0,5,2,10,348
+10223,35-44,3-6L,Private Sector,Tier 2,Amazon,3-5/month,7972.0,4,5,5.0,4,4,3,4,4.0,5,3,8,258
+10224,55+,<3L,Student,Tier 1,Other,3-5/month,8544.0,3,5,4.0,4,4,3,3,4.0,5,2,6,370
+10225,25-34,10-20L,Student,Tier 2,Amazon,3-5/month,8713.0,2,5,4.0,4,4,3,2,3.0,4,5,7,408
+10226,45-54,3-6L,Self-employed,Tier 1,Amazon,3-5/month,7557.0,3,4,5.0,4,3,3,3,5.0,5,3,6,224
+10227,18-24,6-10L,Private Sector,Tier 2,Flipkart,3-5/month,8140.0,3,4,3.0,4,4,5,2,3.0,5,3,4,306
+10228,25-34,<3L,Student,Tier 1,Amazon,Rarely,4939.0,4,2,4.0,3,5,3,4,4.0,3,3,9,199
+10229,35-44,<3L,Private Sector,Tier 2,Other,Rarely,3552.0,3,4,3.0,4,4,3,3,4.0,2,2,6,344
+10230,18-24,6-10L,Private Sector,Tier 1,Flipkart,1-2/month,5367.0,4,4,2.0,4,5,4,3,3.0,3,2,6,285
+10231,18-24,3-6L,Other,Tier 3,Amazon,1-2/month,5829.0,4,4,3.0,4,4,4,2,4.0,5,1,6,380
+10232,25-34,6-10L,Student,Tier 2,Amazon,3-5/month,7415.0,4,4,5.0,4,4,3,5,3.0,1,3,7,420
+10233,55+,<3L,Government,Tier 3,Other,1-2/month,5130.0,5,5,4.0,4,4,4,3,4.0,4,3,10,492
+10234,35-44,20L+,Self-employed,Tier 1,Flipkart,1-2/month,7622.0,3,3,5.0,4,4,3,5,3.0,3,3,6,582
+10235,55+,10-20L,Student,Tier 1,Other,3-5/month,8630.0,3,3,5.0,4,3,3,4,4.0,5,2,8,380
+10236,45-54,10-20L,Student,Tier 1,Amazon,1-2/month,7109.0,4,3,5.0,5,5,5,4,4.0,5,3,7,330
+10237,25-34,<3L,Private Sector,Tier 1,Other,3-5/month,5511.0,4,3,5.0,4,5,3,4,4.0,3,3,7,324
+10238,35-44,3-6L,Self-employed,Tier 2,Flipkart,1-2/month,5447.0,4,4,5.0,4,4,4,4,4.0,3,1,7,268
+10239,18-24,3-6L,Private Sector,Tier 3,Flipkart,1-2/month,4884.0,3,4,4.0,4,4,4,4,5.0,4,2,10,403
+10240,18-24,6-10L,Government,Tier 2,Amazon,1-2/month,8526.0,3,4,4.0,2,4,4,4,4.0,5,2,6,313
+10241,45-54,3-6L,Self-employed,Tier 2,Amazon,1-2/month,5440.0,4,3,4.0,5,5,4,2,5.0,5,2,9,409
+10242,45-54,<3L,Self-employed,Tier 1,Other,Rarely,3013.0,5,4,4.0,4,4,5,4,3.0,3,4,7,271
+10243,18-24,3-6L,Private Sector,Tier 1,Other,1-2/month,4060.0,4,2,4.0,5,4,4,4,5.0,5,3,10,316
+10244,25-34,3-6L,Private Sector,Tier 2,Amazon,1-2/month,6475.0,5,4,4.0,3,3,4,4,5.0,4,2,10,401
+10245,35-44,3-6L,Government,Tier 1,Other,1-2/month,4985.0,4,4,3.0,3,4,3,5,4.0,5,3,8,348
+10246,45-54,<3L,Private Sector,Tier 1,Amazon,3-5/month,6138.0,4,3,3.0,4,4,4,5,3.0,4,4,6,178
+10247,35-44,3-6L,Self-employed,Tier 3,Amazon,Rarely,4503.0,3,4,4.0,4,5,4,4,4.0,5,1,10,359
+10248,25-34,6-10L,Student,Tier 3,Amazon,1-2/month,6535.0,3,3,3.0,4,5,3,3,4.0,5,2,7,284
+10249,25-34,3-6L,Student,Tier 2,Amazon,Rarely,4771.0,3,5,3.0,4,3,2,2,3.0,4,3,5,472
+10250,25-34,3-6L,Self-employed,Tier 1,Amazon,6+/month,10818.0,3,3,4.0,3,3,4,4,5.0,5,1,10,452
+10251,35-44,6-10L,Private Sector,Tier 3,Amazon,3-5/month,8293.0,1,4,4.0,3,4,3,5,3.0,3,2,7,143
+10252,45-54,10-20L,Student,Tier 1,Amazon,6+/month,12309.0,2,3,5.0,4,3,4,2,4.0,5,2,9,436
+10253,25-34,3-6L,Student,Tier 1,Flipkart,6+/month,11103.0,5,3,4.0,3,5,4,4,3.0,3,3,8,397
+10254,18-24,6-10L,Private Sector,Tier 1,Myntra,1-2/month,6332.0,4,4,5.0,3,3,4,3,4.0,4,2,8,219
+10255,18-24,20L+,Self-employed,Tier 3,Flipkart,3-5/month,10435.0,3,3,4.0,4,4,3,2,5.0,5,3,7,443
+10256,35-44,6-10L,Student,Tier 3,Amazon,1-2/month,6001.0,4,4,4.0,4,4,3,4,4.0,3,3,9,238
+10257,45-54,10-20L,Student,Tier 2,Myntra,6+/month,11365.0,2,4,4.0,5,4,3,4,4.0,3,2,8,469
+10258,18-24,10-20L,Private Sector,Tier 1,Amazon,1-2/month,6470.0,3,3,3.0,4,3,2,3,2.0,3,3,4,299
+10259,18-24,<3L,Other,Tier 2,Myntra,1-2/month,5328.0,5,5,4.0,5,3,4,3,5.0,4,2,8,216
+10260,35-44,3-6L,Private Sector,Tier 1,Flipkart,6+/month,9192.0,3,4,4.0,4,4,2,5,4.0,5,2,8,561
+10261,18-24,6-10L,Other,Tier 3,Amazon,3-5/month,6547.0,2,4,5.0,4,4,4,3,4.0,5,4,6,213
+10262,45-54,20L+,Self-employed,Tier 1,Amazon,6+/month,13576.0,3,4,3.0,5,5,4,4,3.0,2,2,6,283
+10263,25-34,3-6L,Private Sector,Tier 1,Myntra,Rarely,5568.0,5,4,3.0,3,4,3,2,3.0,3,3,6,302
+10264,18-24,<3L,Self-employed,Tier 2,Other,1-2/month,3511.0,4,4,3.0,4,5,4,4,4.0,5,2,8,317
+10266,18-24,<3L,Private Sector,Tier 3,Other,1-2/month,4290.0,5,4,4.0,4,5,3,4,5.0,5,2,10,366
+10267,25-34,10-20L,Private Sector,Tier 1,Other,1-2/month,6365.0,2,3,3.0,3,4,4,5,3.0,5,2,6,455
+10268,18-24,6-10L,Self-employed,Tier 3,Amazon,1-2/month,6225.0,3,3,3.0,4,3,4,3,5.0,5,2,10,395
+10269,18-24,6-10L,Self-employed,Tier 1,Flipkart,3-5/month,6986.0,3,3,3.0,4,4,3,4,4.0,4,3,8,201
+10270,18-24,10-20L,Self-employed,Tier 1,Amazon,1-2/month,5604.0,2,2,3.0,4,4,4,2,3.0,5,4,9,412
+10271,18-24,6-10L,Other,Tier 2,Flipkart,3-5/month,7879.0,3,5,4.0,4,4,1,2,4.0,5,3,7,382
+10272,18-24,6-10L,Private Sector,Tier 1,Amazon,6+/month,11319.0,4,2,5.0,5,3,2,3,5.0,5,1,7,301
+10273,18-24,10-20L,Self-employed,Tier 2,Other,3-5/month,7787.0,4,4,3.0,4,4,4,4,3.0,2,4,8,557
+10274,35-44,10-20L,Self-employed,Tier 1,Flipkart,1-2/month,7311.0,3,3,4.0,4,5,3,5,3.0,4,2,7,418
+10275,35-44,10-20L,Student,Tier 1,Amazon,1-2/month,6224.0,3,4,4.0,3,4,3,5,2.0,3,4,7,449
+10276,25-34,<3L,Student,Tier 2,Amazon,Rarely,3170.0,4,2,3.0,3,4,4,3,4.0,3,2,9,453
+10277,25-34,6-10L,Private Sector,Tier 1,Flipkart,3-5/month,8404.0,4,3,4.0,5,5,3,4,4.0,4,2,10,320
+10278,25-34,3-6L,Self-employed,Tier 2,Myntra,1-2/month,5184.0,4,5,4.0,3,3,3,4,4.0,4,2,8,420
+10279,45-54,10-20L,Private Sector,Tier 2,Other,Rarely,6254.0,3,4,4.0,4,5,2,4,4.0,5,3,10,390
+10280,45-54,6-10L,Government,Tier 1,Amazon,6+/month,10610.0,3,3,2.0,4,5,2,3,3.0,3,2,6,307
+10281,18-24,3-6L,Student,Tier 2,Flipkart,3-5/month,6242.0,4,2,4.0,5,4,4,4,4.0,4,3,9,244
+10282,18-24,<3L,Private Sector,Tier 1,Flipkart,3-5/month,6571.0,4,3,4.0,3,4,3,3,3.0,2,2,8,362
+10283,18-24,3-6L,Private Sector,Tier 1,Amazon,1-2/month,5354.0,5,5,5.0,4,4,4,3,4.0,4,3,10,416
+10284,18-24,6-10L,Student,Tier 1,Flipkart,6+/month,10333.0,5,3,3.0,4,4,3,3,3.0,2,5,8,362
+10285,35-44,3-6L,Self-employed,Tier 3,Amazon,1-2/month,4051.0,4,4,3.0,3,4,4,3,3.0,2,5,1,343
+10286,25-34,<3L,Student,Tier 2,Amazon,1-2/month,4814.0,4,4,4.0,4,4,3,3,4.0,4,1,8,363
+10287,18-24,10-20L,Self-employed,Tier 2,Amazon,6+/month,11418.0,3,3,4.0,5,4,4,3,3.0,3,2,6,333
+10288,25-34,10-20L,Student,Tier 3,Other,6+/month,10793.0,3,4,4.0,4,4,4,4,5.0,5,1,9,507
+10289,25-34,<3L,Other,Tier 1,Amazon,1-2/month,5519.0,5,4,4.0,4,4,3,4,4.0,3,5,8,386
+10290,18-24,3-6L,Private Sector,Tier 3,Amazon,Rarely,3631.0,4,4,3.0,3,2,3,5,4.0,2,2,10,314
+10291,45-54,20L+,Student,Tier 2,Myntra,1-2/month,8285.0,3,3,4.0,3,4,4,4,4.0,3,3,9,188
+10292,18-24,6-10L,Student,Tier 3,Other,3-5/month,8176.0,4,2,3.0,4,4,5,3,4.0,4,3,7,341
+10293,45-54,6-10L,Student,Tier 3,Flipkart,3-5/month,8415.0,3,3,4.0,3,3,5,3,3.0,3,2,4,305
+10294,18-24,3-6L,Private Sector,Tier 3,Amazon,1-2/month,5110.0,3,4,5.0,4,4,3,4,5.0,4,1,10,302
+10295,45-54,3-6L,Self-employed,Tier 1,Flipkart,Rarely,1810.0,4,4,3.0,5,4,3,4,4.0,5,2,7,450
+10296,45-54,<3L,Private Sector,Tier 2,Amazon,3-5/month,5827.0,4,4,4.0,4,5,3,3,4.0,5,4,8,368
+10297,55+,6-10L,Private Sector,Tier 3,Flipkart,3-5/month,8037.0,4,4,3.0,4,4,3,2,4.0,4,3,10,200
+10298,45-54,<3L,Private Sector,Tier 2,Amazon,1-2/month,4978.0,5,4,4.0,3,4,4,3,3.0,3,4,6,419
+10299,35-44,<3L,Private Sector,Tier 1,Amazon,3-5/month,5239.0,4,4,5.0,3,5,3,4,4.0,4,1,8,210
+10300,35-44,6-10L,Government,Tier 3,Amazon,6+/month,11402.0,3,3,4.0,4,4,2,4,4.0,3,2,9,426
+10301,35-44,20L+,Private Sector,Tier 1,Flipkart,1-2/month,6240.0,3,4,4.0,4,4,4,2,4.0,5,3,6,315
+10302,18-24,10-20L,Government,Tier 2,Amazon,3-5/month,9011.0,3,4,5.0,5,5,1,4,4.0,5,1,5,368
+10303,25-34,3-6L,Other,Tier 2,Amazon,3-5/month,7483.0,4,3,4.0,4,4,4,4,4.0,2,2,7,358
+10304,25-34,6-10L,Private Sector,Tier 1,Flipkart,3-5/month,8819.0,4,3,4.0,5,4,3,3,4.0,4,2,7,346
+10305,45-54,3-6L,Student,Tier 2,Myntra,6+/month,11760.0,3,5,4.0,3,4,4,3,3.0,4,4,7,380
+10306,25-34,3-6L,Student,Tier 1,Amazon,3-5/month,7913.0,4,3,2.0,4,4,4,3,3.0,3,3,5,368
+10307,25-34,6-10L,Private Sector,Tier 2,Flipkart,1-2/month,6724.0,3,4,4.0,3,4,4,4,4.0,5,3,9,538
+10308,35-44,3-6L,Private Sector,Tier 3,Flipkart,Rarely,3885.0,5,5,3.0,5,3,3,4,3.0,5,4,3,381
+10309,25-34,6-10L,Other,Tier 1,Amazon,3-5/month,10691.0,4,4,3.0,4,4,3,5,4.0,4,2,8,383
+10310,18-24,10-20L,Private Sector,Tier 2,Other,Rarely,4403.0,2,5,5.0,3,3,3,3,4.0,4,3,9,293
+10311,25-34,20L+,Private Sector,Tier 1,Other,Rarely,5675.0,3,3,3.0,4,4,4,3,4.0,4,2,9,396
+10312,25-34,<3L,Self-employed,Tier 3,Amazon,1-2/month,5461.0,5,5,5.0,5,3,2,2,4.0,4,3,8,263
+10313,18-24,3-6L,Private Sector,Tier 3,Amazon,3-5/month,8177.0,3,4,3.0,5,4,5,4,4.0,3,1,7,469
+10314,25-34,<3L,Self-employed,Tier 1,Amazon,6+/month,10589.0,3,4,3.0,3,4,3,4,3.0,4,2,6,219
+10315,25-34,3-6L,Student,Tier 2,Amazon,3-5/month,8108.0,3,5,4.0,4,3,4,5,4.0,5,4,10,280
+10316,25-34,3-6L,Private Sector,Tier 2,Flipkart,3-5/month,5625.0,4,4,3.0,5,4,2,2,3.0,5,4,6,205
+10317,25-34,<3L,Other,Tier 2,Other,1-2/month,6080.0,3,4,4.0,4,4,3,3,4.0,5,3,10,400
+10318,35-44,10-20L,Self-employed,Tier 2,Other,1-2/month,6416.0,2,3,4.0,4,5,2,4,3.0,1,2,8,320
+10319,25-34,6-10L,Self-employed,Tier 2,Amazon,6+/month,12571.0,4,4,4.0,5,3,4,2,4.0,3,2,5,425
+10320,55+,10-20L,Private Sector,Tier 2,Flipkart,1-2/month,4770.0,3,3,3.0,3,3,3,4,3.0,4,3,6,267
+10321,45-54,<3L,Self-employed,Tier 1,Amazon,3-5/month,7081.0,3,5,4.0,3,5,4,4,3.0,5,3,5,410
+10322,25-34,<3L,Private Sector,Tier 1,Flipkart,1-2/month,4143.0,4,3,4.0,4,4,4,2,3.0,4,5,4,415
+10323,25-34,3-6L,Private Sector,Tier 3,Amazon,1-2/month,5815.0,3,4,5.0,5,4,4,4,4.0,4,3,9,380
+10324,25-34,<3L,Student,Tier 1,Other,3-5/month,7135.0,4,3,4.0,5,3,3,2,3.0,5,3,7,363
+10325,45-54,3-6L,Student,Tier 2,Myntra,1-2/month,5629.0,3,4,3.0,4,4,3,5,5.0,5,2,10,373
+10326,35-44,20L+,Private Sector,Tier 1,Amazon,Rarely,5197.0,3,3,3.0,4,5,4,4,3.0,4,4,5,273
+10327,45-54,3-6L,Student,Tier 3,Flipkart,1-2/month,5249.0,4,3,5.0,5,4,4,3,3.0,2,2,7,258
+10328,25-34,<3L,Self-employed,Tier 2,Flipkart,1-2/month,4488.0,4,4,4.0,4,5,4,2,4.0,4,1,6,412
+10329,35-44,6-10L,Self-employed,Tier 1,Myntra,1-2/month,6396.0,3,3,2.0,4,4,5,4,3.0,5,4,7,325
+10330,25-34,6-10L,Other,Tier 1,Flipkart,6+/month,12340.0,2,4,2.0,5,3,5,5,4.0,4,2,7,403
+10331,35-44,6-10L,Student,Tier 1,Amazon,1-2/month,6085.0,4,3,3.0,5,4,2,3,3.0,4,2,8,507
+10332,18-24,3-6L,Other,Tier 3,Flipkart,3-5/month,6351.0,4,4,4.0,4,3,3,3,3.0,3,1,6,317
+10333,35-44,10-20L,Student,Tier 2,Amazon,3-5/month,8897.0,3,4,4.0,4,4,3,3,5.0,5,2,10,303
+10334,45-54,<3L,Private Sector,Tier 2,Flipkart,Rarely,5900.0,3,5,4.0,5,5,5,5,5.0,5,1,10,329
+10335,18-24,3-6L,Self-employed,Tier 2,Amazon,1-2/month,6781.0,4,4,4.0,5,4,3,2,3.0,3,3,7,364
+10336,35-44,6-10L,Student,Tier 1,Flipkart,6+/month,8773.0,4,3,5.0,3,4,4,5,3.0,3,3,7,418
+10337,18-24,10-20L,Student,Tier 1,Myntra,3-5/month,8857.0,3,4,4.0,3,3,2,3,2.0,2,4,6,357
+10338,35-44,3-6L,Student,Tier 1,Amazon,6+/month,11639.0,5,2,4.0,5,4,2,3,5.0,5,2,8,557
+10339,18-24,6-10L,Private Sector,Tier 1,Amazon,1-2/month,5786.0,4,3,5.0,3,3,5,3,3.0,2,3,7,400
+10340,55+,<3L,Self-employed,Tier 2,Flipkart,3-5/month,6436.0,4,4,2.0,3,3,4,4,4.0,4,3,10,434
+10341,18-24,<3L,Student,Tier 3,Amazon,3-5/month,6610.0,4,3,4.0,4,5,3,3,4.0,4,2,9,356
+10342,55+,<3L,Student,Tier 3,Flipkart,6+/month,10647.0,4,3,4.0,4,4,4,4,3.0,4,3,6,456
+10343,45-54,6-10L,Private Sector,Tier 3,Flipkart,Rarely,3816.0,4,4,4.0,3,4,3,4,4.0,2,3,8,340
+10344,35-44,3-6L,Private Sector,Tier 2,Amazon,6+/month,11870.0,5,4,4.0,4,4,3,3,3.0,4,4,6,299
+10345,35-44,6-10L,Government,Tier 1,Myntra,1-2/month,5900.0,3,4,4.0,4,5,2,4,4.0,5,1,8,446
+10346,45-54,3-6L,Other,Tier 2,Flipkart,3-5/month,6008.0,4,3,4.0,3,4,3,3,4.0,4,2,6,355
+10347,55+,10-20L,Self-employed,Tier 3,Flipkart,3-5/month,9812.0,4,4,4.0,5,3,3,4,4.0,4,2,10,383
+10348,25-34,10-20L,Self-employed,Tier 2,Amazon,3-5/month,7409.0,3,4,5.0,4,4,4,5,3.0,4,3,10,453
+10349,35-44,<3L,Private Sector,Tier 2,Amazon,1-2/month,4150.0,4,4,4.0,5,4,4,3,3.0,5,4,6,373
+10350,18-24,<3L,Self-employed,Tier 2,Amazon,3-5/month,6335.0,3,4,4.0,3,4,4,4,2.0,3,4,6,346
+10351,35-44,<3L,Student,Tier 2,Other,1-2/month,6580.0,2,3,4.0,3,4,4,4,4.0,5,4,10,309
+10352,18-24,10-20L,Student,Tier 3,Other,1-2/month,5983.0,5,4,4.0,4,4,4,3,4.0,5,3,7,461
+10353,25-34,3-6L,Government,Tier 2,Myntra,3-5/month,5561.0,4,5,4.0,5,4,3,4,3.0,4,3,3,328
+10354,35-44,6-10L,Student,Tier 1,Amazon,3-5/month,7626.0,3,5,4.0,3,4,3,4,3.0,3,3,9,355
+10355,25-34,3-6L,Self-employed,Tier 1,Flipkart,1-2/month,5710.0,4,5,4.0,4,3,4,3,4.0,5,3,8,387
+10356,25-34,10-20L,Government,Tier 2,Myntra,3-5/month,9506.0,2,4,4.0,3,5,3,3,3.0,3,3,6,387
+10357,35-44,6-10L,Other,Tier 1,Flipkart,1-2/month,7999.0,3,4,4.0,3,4,4,3,3.0,3,2,7,456
+10358,45-54,6-10L,Private Sector,Tier 3,Amazon,3-5/month,9416.0,3,3,4.0,4,4,3,3,4.0,4,2,8,353
+10359,25-34,20L+,Private Sector,Tier 2,Other,3-5/month,9619.0,2,2,5.0,3,3,5,5,4.0,5,2,10,491
+10360,35-44,<3L,Self-employed,Tier 2,Amazon,3-5/month,6048.0,2,3,5.0,3,4,5,4,4.0,5,3,7,336
+10361,55+,10-20L,Private Sector,Tier 1,Amazon,3-5/month,10262.0,2,3,4.0,3,3,3,2,3.0,3,1,7,395
+10362,18-24,3-6L,Private Sector,Tier 2,Other,3-5/month,6518.0,5,4,3.0,2,3,2,3,1.0,3,5,6,343
+10363,18-24,3-6L,Government,Tier 2,Flipkart,1-2/month,4708.0,3,5,4.0,4,5,3,4,4.0,4,1,10,559
+10364,18-24,10-20L,Other,Tier 1,Amazon,3-5/month,8425.0,4,5,4.0,4,4,3,4,4.0,5,3,10,327
+10365,35-44,6-10L,Self-employed,Tier 3,Flipkart,Rarely,3723.0,4,3,4.0,4,5,4,3,4.0,4,2,8,335
+10367,35-44,3-6L,Private Sector,Tier 1,Amazon,3-5/month,7290.0,3,3,3.0,5,5,3,3,4.0,5,3,5,335
+10368,35-44,3-6L,Private Sector,Tier 1,Myntra,1-2/month,5958.0,4,4,5.0,4,4,3,4,4.0,4,1,8,390
+10369,25-34,3-6L,Student,Tier 2,Amazon,1-2/month,4951.0,3,4,5.0,4,5,2,4,4.0,4,2,8,477
+10371,35-44,3-6L,Private Sector,Tier 3,Flipkart,1-2/month,3857.0,5,3,4.0,3,4,4,5,4.0,5,4,10,378
+10372,25-34,3-6L,Student,Tier 1,Flipkart,Rarely,4389.0,5,5,4.0,4,4,4,3,2.0,4,3,6,338
+10373,25-34,3-6L,Private Sector,Tier 3,Amazon,Rarely,4265.0,2,2,4.0,5,4,4,4,5.0,5,1,10,312
+10374,25-34,3-6L,Student,Tier 2,Amazon,1-2/month,4801.0,3,5,4.0,5,4,4,3,4.0,3,3,8,369
+10375,18-24,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,7079.0,4,4,4.0,4,4,2,4,2.0,3,5,7,361
+10376,18-24,<3L,Student,Tier 1,Flipkart,3-5/month,7200.0,4,4,4.0,4,4,3,4,5.0,5,3,10,471
+10377,55+,10-20L,Government,Tier 1,Flipkart,3-5/month,10051.0,2,2,4.0,3,5,4,4,5.0,4,3,10,269
+10378,25-34,6-10L,Student,Tier 3,Myntra,1-2/month,5248.0,2,3,5.0,4,3,3,3,3.0,3,2,8,498
+10379,25-34,<3L,Self-employed,Tier 1,Amazon,1-2/month,4730.0,5,5,4.0,3,5,2,4,3.0,4,4,7,346
+10380,35-44,6-10L,Student,Tier 2,Flipkart,Rarely,5712.0,3,3,3.0,4,4,4,4,4.0,3,2,6,374
+10381,25-34,10-20L,Private Sector,Tier 2,Flipkart,3-5/month,8101.0,2,4,4.0,5,5,3,4,4.0,4,1,10,259
+10382,55+,3-6L,Private Sector,Tier 3,Flipkart,3-5/month,7486.0,3,4,5.0,3,4,4,4,4.0,3,2,9,413
+10383,35-44,<3L,Private Sector,Tier 2,Amazon,Rarely,3516.0,4,5,4.0,5,4,4,3,4.0,5,1,9,269
+10384,25-34,<3L,Private Sector,Tier 2,Amazon,3-5/month,5670.0,3,4,5.0,4,4,3,3,4.0,4,2,9,395
+10385,25-34,<3L,Self-employed,Tier 1,Amazon,3-5/month,7002.0,4,3,3.0,3,3,5,5,3.0,4,2,7,386
+10386,55+,10-20L,Self-employed,Tier 3,Amazon,1-2/month,6628.0,3,4,4.0,3,5,3,3,4.0,4,3,10,329
+10387,35-44,20L+,Private Sector,Tier 1,Other,3-5/month,9950.0,2,5,3.0,5,3,5,2,5.0,5,1,9,164
+10388,55+,<3L,Student,Tier 1,Flipkart,3-5/month,5782.0,5,4,5.0,4,4,3,3,4.0,3,1,9,565
+10389,18-24,10-20L,Government,Tier 3,Flipkart,Rarely,5509.0,4,3,5.0,3,3,4,3,4.0,4,3,7,260
+10390,45-54,<3L,Private Sector,Tier 1,Flipkart,1-2/month,5894.0,4,5,4.0,4,3,4,5,4.0,3,2,9,386
+10391,35-44,6-10L,Student,Tier 1,Flipkart,3-5/month,10020.0,3,5,5.0,4,4,3,2,4.0,4,2,9,291
+10392,18-24,10-20L,Self-employed,Tier 2,Flipkart,6+/month,13252.0,4,4,5.0,4,4,3,3,5.0,5,1,9,460
+10393,35-44,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,6441.0,4,4,4.0,4,3,3,4,3.0,4,4,7,324
+10394,35-44,<3L,Government,Tier 1,Flipkart,3-5/month,7256.0,5,4,4.0,5,4,3,5,5.0,4,2,9,289
+10395,18-24,6-10L,Private Sector,Tier 2,Amazon,3-5/month,7715.0,3,4,4.0,3,3,5,4,4.0,4,2,8,417
+10396,25-34,20L+,Private Sector,Tier 2,Flipkart,1-2/month,7506.0,3,2,3.0,4,4,3,5,3.0,3,1,7,239
+10397,45-54,3-6L,Student,Tier 2,Flipkart,Rarely,3505.0,4,4,4.0,4,4,5,4,5.0,5,4,10,321
+10398,25-34,<3L,Self-employed,Tier 1,Myntra,1-2/month,3108.0,4,4,5.0,3,2,4,3,5.0,5,3,7,426
+10399,25-34,<3L,Student,Tier 2,Other,6+/month,9840.0,4,4,3.0,5,4,4,4,4.0,5,4,9,503
+10400,25-34,6-10L,Self-employed,Tier 3,Myntra,3-5/month,8800.0,3,3,4.0,3,4,3,2,4.0,3,2,8,269
+10401,25-34,6-10L,Self-employed,Tier 1,Flipkart,6+/month,11709.0,4,2,4.0,2,3,4,2,3.0,3,3,6,302
+10402,45-54,10-20L,Self-employed,Tier 1,Amazon,1-2/month,6963.0,2,2,4.0,4,4,4,4,4.0,5,2,6,393
+10404,18-24,10-20L,Private Sector,Tier 2,Myntra,3-5/month,9164.0,3,4,5.0,3,3,2,4,3.0,5,2,6,489
+10405,55+,10-20L,Private Sector,Tier 1,Other,1-2/month,7077.0,3,2,4.0,3,4,2,3,4.0,5,3,10,265
+10406,45-54,3-6L,Private Sector,Tier 2,Myntra,1-2/month,5053.0,4,3,4.0,5,5,5,5,5.0,4,2,7,318
+10407,25-34,6-10L,Self-employed,Tier 3,Amazon,3-5/month,8225.0,3,4,5.0,4,3,1,4,4.0,5,1,7,385
+10408,45-54,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,9069.0,3,4,3.0,4,4,4,3,3.0,3,4,5,365
+10409,18-24,3-6L,Self-employed,Tier 2,Other,3-5/month,7628.0,4,5,3.0,5,5,3,4,4.0,3,2,9,268
+10410,55+,20L+,Student,Tier 1,Flipkart,1-2/month,7288.0,3,4,5.0,5,3,4,4,3.0,3,1,9,524
+10411,35-44,6-10L,Private Sector,Tier 1,Flipkart,1-2/month,6043.0,3,3,4.0,5,4,3,3,4.0,4,1,9,115
+10412,35-44,20L+,Student,Tier 2,Flipkart,Rarely,5954.0,3,3,4.0,3,3,4,3,3.0,3,3,5,253
+10413,18-24,3-6L,Self-employed,Tier 1,Flipkart,Rarely,3808.0,4,3,3.0,3,4,4,4,4.0,3,3,8,300
+10414,45-54,6-10L,Student,Tier 3,Amazon,1-2/month,6138.0,3,3,4.0,4,4,5,3,3.0,3,3,5,270
+10415,18-24,6-10L,Private Sector,Tier 2,Amazon,1-2/month,5495.0,5,3,3.0,4,2,4,2,2.0,5,5,6,476
+10416,18-24,<3L,Self-employed,Tier 1,Myntra,6+/month,10019.0,4,3,4.0,5,4,5,4,3.0,2,3,6,202
+10417,18-24,3-6L,Private Sector,Tier 1,Other,1-2/month,4589.0,4,3,3.0,3,4,2,4,3.0,4,3,4,508
+10418,35-44,6-10L,Student,Tier 1,Myntra,Rarely,4947.0,3,4,3.0,4,4,4,4,3.0,3,4,8,334
+10419,18-24,<3L,Student,Tier 3,Amazon,Rarely,4076.0,4,5,4.0,4,4,4,4,5.0,4,3,10,231
+10420,45-54,20L+,Private Sector,Tier 2,Amazon,3-5/month,9259.0,2,4,2.0,4,3,4,4,3.0,1,3,6,160
+10421,35-44,<3L,Private Sector,Tier 1,Amazon,1-2/month,2842.0,3,4,3.0,4,4,4,4,3.0,4,3,7,340
+10422,18-24,<3L,Student,Tier 2,Myntra,1-2/month,5181.0,5,4,4.0,4,4,5,4,4.0,3,2,6,293
+10423,18-24,10-20L,Private Sector,Tier 2,Flipkart,1-2/month,6708.0,4,4,4.0,3,4,4,2,3.0,4,2,3,382
+10424,18-24,<3L,Private Sector,Tier 2,Other,1-2/month,3756.0,2,4,3.0,4,4,3,4,5.0,5,3,7,317
+10425,35-44,10-20L,Private Sector,Tier 1,Amazon,3-5/month,9496.0,3,3,4.0,3,4,3,3,3.0,2,3,7,451
+10426,45-54,6-10L,Private Sector,Tier 1,Flipkart,1-2/month,4691.0,4,5,3.0,3,5,4,3,4.0,5,3,8,346
+10427,18-24,<3L,Student,Tier 1,Myntra,Rarely,4491.0,4,2,4.0,4,4,4,3,4.0,4,1,9,320
+10428,45-54,6-10L,Student,Tier 1,Amazon,3-5/month,8098.0,3,2,4.0,3,5,2,5,3.0,1,4,6,452
+10429,18-24,6-10L,Private Sector,Tier 2,Other,1-2/month,3908.0,2,4,3.0,3,5,4,4,4.0,3,1,10,382
+10430,45-54,10-20L,Student,Tier 1,Flipkart,3-5/month,8960.0,1,3,4.0,3,5,3,3,3.0,3,4,8,434
+10431,45-54,3-6L,Private Sector,Tier 1,Amazon,Rarely,5134.0,3,2,5.0,5,4,4,3,5.0,5,3,9,469
+10432,35-44,6-10L,Self-employed,Tier 1,Amazon,3-5/month,7649.0,4,3,3.0,3,5,3,3,3.0,2,4,5,332
+10433,35-44,6-10L,Self-employed,Tier 1,Other,1-2/month,5286.0,1,3,4.0,4,4,3,4,4.0,4,2,5,364
+10434,45-54,3-6L,Private Sector,Tier 3,Flipkart,1-2/month,5186.0,3,4,4.0,3,4,3,4,3.0,4,3,9,440
+10435,18-24,6-10L,Private Sector,Tier 2,Myntra,1-2/month,5513.0,2,5,3.0,5,4,5,3,5.0,5,1,8,127
+10436,18-24,20L+,Private Sector,Tier 1,Myntra,6+/month,11079.0,3,5,3.0,4,3,4,4,4.0,4,3,6,350
+10437,18-24,6-10L,Self-employed,Tier 2,Flipkart,1-2/month,7095.0,5,2,3.0,3,5,5,3,3.0,3,3,7,339
+10438,25-34,6-10L,Private Sector,Tier 1,Myntra,6+/month,11230.0,3,3,4.0,3,4,5,4,4.0,5,3,6,396
+10439,35-44,3-6L,Private Sector,Tier 3,Other,6+/month,10141.0,3,3,3.0,4,5,4,4,3.0,4,2,7,284
+10440,35-44,10-20L,Private Sector,Tier 2,Amazon,1-2/month,5584.0,4,4,4.0,2,5,5,3,4.0,5,4,8,464
+10441,45-54,20L+,Student,Tier 2,Myntra,1-2/month,7944.0,3,4,5.0,3,4,3,4,4.0,4,2,10,290
+10442,18-24,<3L,Private Sector,Tier 3,Amazon,1-2/month,3481.0,4,4,3.0,4,4,5,4,4.0,4,2,10,316
+10444,18-24,6-10L,Self-employed,Tier 3,Amazon,3-5/month,7625.0,4,4,3.0,5,2,4,4,3.0,3,3,7,477
+10445,25-34,6-10L,Student,Tier 1,Myntra,3-5/month,7677.0,4,3,4.0,4,4,4,4,5.0,5,1,8,162
+10446,35-44,6-10L,Private Sector,Tier 1,Amazon,Rarely,3857.0,3,4,4.0,4,5,4,5,5.0,3,1,8,530
+10447,55+,<3L,Private Sector,Tier 2,Flipkart,3-5/month,6292.0,4,4,4.0,5,4,3,4,5.0,5,1,9,500
+10448,35-44,3-6L,Private Sector,Tier 2,Flipkart,Rarely,4208.0,4,3,3.0,4,4,3,3,2.0,2,3,8,306
+10449,18-24,6-10L,Private Sector,Tier 2,Amazon,Rarely,5062.0,3,4,4.0,3,4,4,2,3.0,4,2,6,458
+10450,35-44,6-10L,Student,Tier 2,Myntra,1-2/month,5243.0,4,3,3.0,3,5,3,4,4.0,4,3,8,372
+10452,45-54,6-10L,Other,Tier 1,Amazon,6+/month,12250.0,4,4,5.0,5,5,4,4,4.0,4,2,9,450
+10453,35-44,6-10L,Government,Tier 2,Amazon,3-5/month,6654.0,4,4,4.0,4,4,4,1,3.0,3,4,5,568
+10454,18-24,10-20L,Government,Tier 1,Other,1-2/month,6594.0,3,4,3.0,5,4,4,4,5.0,5,3,10,212
+10455,18-24,6-10L,Private Sector,Tier 2,Amazon,1-2/month,5094.0,4,3,3.0,5,4,4,3,3.0,3,2,6,378
+10456,18-24,6-10L,Private Sector,Tier 2,Amazon,3-5/month,7203.0,3,4,3.0,4,5,4,4,4.0,4,3,9,196
+10457,55+,6-10L,Student,Tier 2,Other,1-2/month,6185.0,4,4,3.0,3,4,3,5,3.0,2,3,7,311
+10458,25-34,<3L,Private Sector,Tier 2,Other,1-2/month,4159.0,4,4,4.0,4,5,3,3,4.0,4,1,7,574
+10459,35-44,3-6L,Student,Tier 2,Flipkart,1-2/month,4205.0,4,5,3.0,5,4,4,4,4.0,5,2,8,404
+10460,35-44,6-10L,Self-employed,Tier 2,Flipkart,3-5/month,9342.0,4,3,4.0,4,5,3,4,5.0,5,1,10,454
+10461,35-44,10-20L,Private Sector,Tier 1,Other,6+/month,12928.0,4,4,4.0,5,4,3,4,4.0,3,3,7,409
+10462,18-24,6-10L,Private Sector,Tier 2,Flipkart,3-5/month,6411.0,2,2,3.0,4,5,2,4,3.0,3,2,9,403
+10463,55+,<3L,Private Sector,Tier 2,Flipkart,Rarely,2223.0,3,4,4.0,4,3,4,3,4.0,2,2,7,310
+10464,25-34,6-10L,Other,Tier 1,Myntra,3-5/month,8684.0,4,3,3.0,4,4,4,3,3.0,3,5,10,293
+10465,35-44,3-6L,Student,Tier 2,Flipkart,1-2/month,5044.0,4,5,4.0,4,3,2,5,4.0,5,4,7,308
+10466,35-44,10-20L,Student,Tier 3,Flipkart,6+/month,13451.0,3,3,3.0,4,4,3,4,3.0,2,2,6,101
+10467,35-44,10-20L,Student,Tier 1,Amazon,1-2/month,7155.0,4,4,4.0,3,3,2,4,3.0,2,2,9,352
+10468,55+,6-10L,Government,Tier 2,Flipkart,1-2/month,6220.0,4,2,3.0,3,4,4,4,4.0,3,4,10,383
+10469,18-24,6-10L,Other,Tier 3,Flipkart,1-2/month,5030.0,3,3,4.0,3,5,2,4,3.0,4,2,8,301
+10470,25-34,3-6L,Private Sector,Tier 3,Amazon,1-2/month,5742.0,3,3,4.0,4,4,4,3,4.0,5,3,6,348
+10471,25-34,3-6L,Self-employed,Tier 1,Flipkart,1-2/month,4152.0,4,5,2.0,3,3,4,4,4.0,4,5,8,410
+10472,25-34,10-20L,Private Sector,Tier 2,Myntra,3-5/month,9975.0,3,3,4.0,5,3,4,4,4.0,3,3,8,444
+10473,18-24,6-10L,Government,Tier 3,Amazon,3-5/month,8530.0,4,4,2.0,5,4,3,5,4.0,4,3,7,246
+10474,18-24,6-10L,Student,Tier 2,Amazon,3-5/month,7408.0,4,4,4.0,4,5,4,5,5.0,5,3,10,284
+10475,25-34,3-6L,Private Sector,Tier 1,Amazon,1-2/month,6024.0,4,3,4.0,3,3,4,4,4.0,4,2,7,432
+10476,25-34,<3L,Government,Tier 1,Amazon,Rarely,5567.0,4,3,4.0,4,5,4,3,5.0,5,2,8,416
+10477,25-34,<3L,Private Sector,Tier 2,Myntra,1-2/month,4454.0,5,4,4.0,3,4,2,2,3.0,3,3,4,488
+10478,35-44,<3L,Private Sector,Tier 1,Flipkart,1-2/month,5145.0,4,4,4.0,4,3,5,3,3.0,2,4,9,484
+10479,35-44,3-6L,Self-employed,Tier 1,Amazon,1-2/month,4911.0,4,2,3.0,4,3,4,3,4.0,5,2,7,589
+10480,25-34,20L+,Other,Tier 1,Myntra,6+/month,12827.0,3,3,3.0,4,5,4,1,4.0,5,3,7,332
+10481,25-34,6-10L,Private Sector,Tier 2,Amazon,6+/month,10093.0,4,4,4.0,4,4,2,3,3.0,2,4,5,510
+10482,18-24,3-6L,Private Sector,Tier 2,Amazon,Rarely,4200.0,3,4,3.0,5,5,3,4,4.0,3,2,10,273
+10483,35-44,<3L,Self-employed,Tier 3,Myntra,3-5/month,6889.0,3,5,3.0,4,3,3,4,5.0,4,1,8,587
+10484,25-34,3-6L,Private Sector,Tier 2,Flipkart,3-5/month,9119.0,3,3,5.0,4,4,3,3,4.0,5,2,6,403
+10485,18-24,10-20L,Self-employed,Tier 3,Myntra,1-2/month,4984.0,3,4,3.0,4,4,3,2,4.0,3,2,8,411
+10486,25-34,3-6L,Private Sector,Tier 3,Myntra,3-5/month,7247.0,2,4,4.0,4,4,3,4,5.0,5,2,10,454
+10487,25-34,10-20L,Self-employed,Tier 1,Other,Rarely,6659.0,4,5,3.0,3,4,3,4,5.0,4,1,10,231
+10488,18-24,10-20L,Student,Tier 2,Amazon,Rarely,5282.0,4,4,5.0,4,4,4,3,4.0,4,2,7,258
+10489,35-44,<3L,Private Sector,Tier 1,Myntra,6+/month,9996.0,3,2,3.0,4,4,4,2,4.0,4,3,10,371
+10490,25-34,6-10L,Private Sector,Tier 3,Flipkart,3-5/month,7400.0,3,4,3.0,2,4,3,3,2.0,2,4,4,393
+10491,35-44,20L+,Private Sector,Tier 1,Amazon,1-2/month,6411.0,3,3,3.0,4,4,3,4,4.0,4,2,7,558
+10492,35-44,3-6L,Self-employed,Tier 2,Other,1-2/month,3657.0,4,3,4.0,3,5,3,3,3.0,4,2,5,270
+10493,35-44,<3L,Other,Tier 3,Amazon,6+/month,9584.0,3,3,4.0,4,3,3,4,2.0,3,5,4,506
+10494,25-34,10-20L,Student,Tier 1,Other,1-2/month,5710.0,2,5,3.0,3,3,4,4,2.0,2,3,3,335
+10495,35-44,10-20L,Private Sector,Tier 3,Flipkart,6+/month,12206.0,4,3,4.0,3,5,3,4,4.0,4,4,9,333
+10496,25-34,6-10L,Private Sector,Tier 1,Flipkart,6+/month,10741.0,2,5,4.0,3,3,5,4,4.0,5,2,7,344
+10497,25-34,6-10L,Private Sector,Tier 1,Amazon,1-2/month,5518.0,3,3,5.0,5,4,4,3,4.0,4,2,8,331
+10498,35-44,3-6L,Private Sector,Tier 2,Other,3-5/month,7093.0,3,3,3.0,3,4,1,2,4.0,5,2,7,406
+10499,25-34,10-20L,Self-employed,Tier 1,Flipkart,3-5/month,8757.0,3,5,4.0,3,4,4,4,3.0,3,3,5,322
+10500,25-34,6-10L,Self-employed,Tier 2,Amazon,3-5/month,7674.0,4,4,4.0,4,3,4,4,4.0,5,5,10,226
+10501,35-44,<3L,Student,Tier 3,Amazon,1-2/month,3694.0,5,4,5.0,4,4,4,4,4.0,5,2,10,335
+10502,45-54,6-10L,Private Sector,Tier 1,Myntra,Rarely,4927.0,2,3,4.0,4,4,3,4,4.0,4,3,10,403
+10503,45-54,20L+,Private Sector,Tier 2,Amazon,1-2/month,8211.0,4,3,4.0,3,4,4,3,4.0,3,3,6,227
+10504,25-34,10-20L,Private Sector,Tier 3,Flipkart,3-5/month,8916.0,1,4,3.0,4,4,4,4,4.0,4,3,6,415
+10505,25-34,3-6L,Student,Tier 2,Flipkart,3-5/month,6951.0,5,3,3.0,5,4,4,4,4.0,4,1,10,472
+10506,45-54,<3L,Private Sector,Tier 1,Amazon,3-5/month,6739.0,2,3,4.0,4,5,2,4,4.0,4,4,8,501
+10507,25-34,20L+,Private Sector,Tier 3,Flipkart,3-5/month,7604.0,5,3,4.0,4,4,3,5,3.0,3,4,4,392
+10508,45-54,20L+,Student,Tier 1,Amazon,Rarely,6025.0,3,3,3.0,3,3,5,3,4.0,3,2,10,189
+10509,25-34,6-10L,Self-employed,Tier 2,Other,Rarely,4490.0,4,5,4.0,3,4,4,5,3.0,5,4,7,422
+10510,18-24,6-10L,Private Sector,Tier 2,Myntra,3-5/month,7310.0,4,3,4.0,4,5,5,2,4.0,4,3,9,452
+10511,18-24,3-6L,Private Sector,Tier 2,Amazon,3-5/month,6823.0,3,3,4.0,4,4,5,4,4.0,4,1,5,294
+10512,45-54,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,7131.0,3,5,2.0,4,5,3,2,3.0,4,1,6,353
+10513,18-24,<3L,Self-employed,Tier 1,Flipkart,1-2/month,5543.0,3,4,3.0,4,3,3,4,3.0,4,4,8,406
+10514,25-34,<3L,Student,Tier 2,Other,1-2/month,5633.0,5,4,3.0,3,4,3,4,3.0,4,3,6,530
+10515,25-34,3-6L,Student,Tier 1,Amazon,6+/month,9965.0,3,3,4.0,5,5,4,4,5.0,5,1,10,336
+10516,18-24,10-20L,Private Sector,Tier 2,Flipkart,1-2/month,6134.0,3,3,3.0,3,4,5,4,3.0,3,3,5,445
+10517,25-34,<3L,Private Sector,Tier 2,Other,Rarely,3107.0,4,4,3.0,3,4,5,3,3.0,3,4,6,390
+10518,35-44,3-6L,Private Sector,Tier 2,Amazon,3-5/month,8229.0,3,4,3.0,4,4,4,2,3.0,1,3,9,379
+10519,18-24,6-10L,Self-employed,Tier 1,Flipkart,3-5/month,8281.0,3,4,3.0,5,5,4,4,5.0,4,2,8,486
+10520,45-54,3-6L,Private Sector,Tier 1,Amazon,6+/month,10884.0,4,5,3.0,3,4,3,4,3.0,3,3,7,281
+10521,45-54,<3L,Student,Tier 3,Flipkart,6+/month,10633.0,3,5,4.0,4,5,2,3,4.0,3,1,9,382
+10522,25-34,6-10L,Private Sector,Tier 1,Amazon,3-5/month,7613.0,3,4,4.0,4,4,4,3,3.0,2,4,7,363
+10523,18-24,3-6L,Self-employed,Tier 1,Other,Rarely,5427.0,5,4,4.0,4,4,3,4,5.0,5,3,9,217
+10525,18-24,10-20L,Government,Tier 1,Amazon,6+/month,11330.0,3,3,2.0,4,4,2,4,3.0,3,3,7,439
+10526,25-34,<3L,Private Sector,Tier 3,Myntra,1-2/month,4443.0,4,5,4.0,5,3,3,5,4.0,5,3,8,363
+10527,55+,10-20L,Government,Tier 1,Myntra,6+/month,13209.0,3,3,3.0,5,4,4,5,3.0,4,3,4,335
+10528,55+,10-20L,Government,Tier 1,Flipkart,3-5/month,8417.0,2,3,4.0,5,4,4,5,4.0,5,4,10,360
+10529,35-44,10-20L,Private Sector,Tier 2,Myntra,Rarely,6355.0,4,3,4.0,4,4,4,4,4.0,5,2,7,427
+10530,25-34,6-10L,Private Sector,Tier 1,Amazon,1-2/month,5387.0,4,3,4.0,4,5,5,4,3.0,5,3,4,365
+10531,35-44,6-10L,Self-employed,Tier 1,Flipkart,3-5/month,7461.0,2,4,5.0,3,4,5,3,3.0,4,3,6,297
+10532,35-44,6-10L,Private Sector,Tier 3,Amazon,Rarely,5444.0,5,5,3.0,3,3,3,3,2.0,2,3,4,311
+10533,25-34,6-10L,Government,Tier 2,Amazon,1-2/month,5163.0,5,3,3.0,4,3,5,4,3.0,3,2,6,359
+10534,35-44,<3L,Private Sector,Tier 1,Other,3-5/month,7590.0,3,4,5.0,4,4,5,3,4.0,5,2,6,271
+10535,18-24,20L+,Private Sector,Tier 1,Flipkart,1-2/month,7566.0,2,4,4.0,4,4,4,4,4.0,3,3,9,392
+10536,18-24,6-10L,Student,Tier 1,Amazon,1-2/month,5164.0,4,4,4.0,4,5,4,3,5.0,5,2,10,285
+10537,25-34,10-20L,Government,Tier 1,Amazon,3-5/month,8736.0,2,5,5.0,3,5,4,5,5.0,5,1,10,269
+10538,18-24,3-6L,Self-employed,Tier 2,Other,3-5/month,7006.0,5,5,4.0,4,5,3,3,4.0,4,2,6,663
+10539,18-24,<3L,Student,Tier 2,Amazon,1-2/month,4964.0,4,4,4.0,5,4,3,4,4.0,3,3,7,544
+10540,45-54,6-10L,Private Sector,Tier 2,Amazon,6+/month,13149.0,5,4,3.0,4,5,5,3,4.0,3,3,9,374
+10541,55+,6-10L,Student,Tier 3,Amazon,6+/month,11116.0,3,4,5.0,4,3,4,3,4.0,4,3,5,441
+10542,25-34,3-6L,Student,Tier 1,Amazon,1-2/month,5780.0,4,4,4.0,4,5,3,5,4.0,5,3,6,457
+10543,45-54,3-6L,Other,Tier 3,Amazon,1-2/month,5322.0,5,3,4.0,4,4,3,3,4.0,3,3,6,353
+10544,55+,3-6L,Private Sector,Tier 2,Other,3-5/month,7522.0,3,3,4.0,3,3,3,2,4.0,5,3,8,387
+10545,18-24,6-10L,Private Sector,Tier 1,Amazon,1-2/month,5801.0,4,5,5.0,4,4,3,3,4.0,4,3,10,335
+10546,25-34,3-6L,Private Sector,Tier 3,Flipkart,3-5/month,6728.0,4,5,4.0,2,5,4,4,5.0,4,2,8,479
+10547,25-34,20L+,Other,Tier 1,Myntra,3-5/month,9752.0,2,3,5.0,4,4,3,4,4.0,5,1,10,481
+10548,18-24,<3L,Private Sector,Tier 2,Flipkart,1-2/month,4390.0,3,4,4.0,4,5,4,3,4.0,5,3,7,508
+10549,35-44,3-6L,Government,Tier 2,Myntra,3-5/month,6686.0,2,5,4.0,3,3,4,3,3.0,3,3,5,385
+10550,25-34,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,8413.0,4,2,3.0,5,3,4,4,4.0,4,3,10,566
+10551,25-34,3-6L,Student,Tier 3,Flipkart,6+/month,11539.0,4,3,5.0,5,4,4,5,4.0,5,1,10,353
+10552,18-24,6-10L,Government,Tier 1,Flipkart,1-2/month,5745.0,4,5,3.0,5,4,4,3,4.0,4,4,9,554
+10553,18-24,6-10L,Student,Tier 3,Myntra,6+/month,12656.0,3,4,4.0,3,4,2,4,3.0,3,1,7,316
+10554,45-54,20L+,Government,Tier 1,Flipkart,Rarely,4498.0,2,3,3.0,5,4,3,4,4.0,3,3,8,237
+10555,18-24,3-6L,Private Sector,Tier 1,Myntra,3-5/month,8646.0,2,4,4.0,4,4,3,5,4.0,5,2,8,553
+10556,18-24,6-10L,Self-employed,Tier 1,Amazon,6+/month,10658.0,5,4,3.0,3,4,4,3,2.0,2,2,6,423
+10557,25-34,<3L,Self-employed,Tier 3,Flipkart,1-2/month,4840.0,4,2,4.0,4,4,5,3,4.0,4,4,9,409
+10558,25-34,3-6L,Government,Tier 1,Flipkart,Rarely,3671.0,4,4,4.0,4,4,4,3,5.0,5,2,10,326
+10559,35-44,3-6L,Student,Tier 3,Amazon,3-5/month,6669.0,4,3,3.0,3,4,5,4,4.0,5,1,7,280
+10560,25-34,<3L,Government,Tier 1,Other,3-5/month,8032.0,3,3,4.0,4,4,3,3,4.0,4,2,8,289
+10561,18-24,6-10L,Other,Tier 2,Amazon,1-2/month,7621.0,3,4,5.0,4,3,3,4,4.0,4,3,8,373
+10562,18-24,6-10L,Private Sector,Tier 1,Amazon,1-2/month,5751.0,5,4,3.0,3,5,3,4,4.0,4,4,10,346
+10563,45-54,10-20L,Private Sector,Tier 1,Myntra,3-5/month,9102.0,4,4,3.0,4,5,3,4,4.0,4,2,10,176
+10564,35-44,6-10L,Self-employed,Tier 3,Amazon,1-2/month,6001.0,3,3,5.0,3,5,5,4,4.0,4,1,10,521
+10565,35-44,6-10L,Student,Tier 1,Amazon,3-5/month,9707.0,2,3,4.0,4,4,1,4,3.0,3,4,8,320
+10566,35-44,3-6L,Government,Tier 2,Amazon,1-2/month,3398.0,3,3,4.0,3,4,3,3,3.0,4,3,8,478
+10567,35-44,<3L,Self-employed,Tier 2,Other,1-2/month,4989.0,4,3,5.0,4,4,5,3,3.0,3,1,9,293
+10568,18-24,<3L,Student,Tier 2,Flipkart,3-5/month,6196.0,5,5,3.0,3,5,3,2,2.0,4,4,9,375
+10569,25-34,6-10L,Private Sector,Tier 2,Flipkart,1-2/month,3830.0,3,4,3.0,3,2,4,4,3.0,3,3,4,452
+10570,25-34,20L+,Private Sector,Tier 3,Myntra,6+/month,12426.0,2,3,3.0,3,4,5,3,3.0,3,2,8,439
+10571,25-34,<3L,Private Sector,Tier 2,Flipkart,3-5/month,8513.0,4,3,3.0,4,5,4,4,4.0,5,2,4,335
+10572,45-54,6-10L,Self-employed,Tier 2,Other,1-2/month,5360.0,4,3,5.0,4,3,5,3,3.0,4,3,8,408
+10573,25-34,10-20L,Student,Tier 2,Myntra,1-2/month,7312.0,2,4,2.0,4,4,5,3,4.0,4,2,9,424
+10574,35-44,10-20L,Private Sector,Tier 2,Amazon,1-2/month,7679.0,4,4,3.0,3,4,4,3,5.0,5,2,9,346
+10575,45-54,6-10L,Self-employed,Tier 1,Other,3-5/month,8139.0,4,3,3.0,4,3,4,5,4.0,5,3,4,254
+10576,25-34,6-10L,Student,Tier 2,Flipkart,3-5/month,8258.0,3,2,5.0,3,4,4,2,4.0,4,1,8,301
+10577,45-54,6-10L,Self-employed,Tier 1,Amazon,3-5/month,6605.0,3,3,3.0,4,4,5,3,4.0,5,3,9,324
+10578,35-44,10-20L,Student,Tier 2,Amazon,1-2/month,5955.0,3,3,4.0,4,4,4,4,4.0,4,3,8,362
+10579,45-54,<3L,Private Sector,Tier 3,Flipkart,1-2/month,5466.0,3,3,2.0,4,4,3,3,3.0,4,3,6,511
+10580,25-34,10-20L,Student,Tier 3,Amazon,Rarely,5555.0,3,3,4.0,3,4,5,4,3.0,3,3,5,446
+10581,25-34,<3L,Government,Tier 3,Flipkart,3-5/month,7181.0,4,4,4.0,5,4,3,3,4.0,5,4,8,282
+10582,25-34,10-20L,Self-employed,Tier 2,Amazon,1-2/month,6720.0,3,3,4.0,3,4,5,4,4.0,5,3,7,534
+10583,18-24,<3L,Self-employed,Tier 2,Flipkart,1-2/month,6623.0,5,5,4.0,4,3,4,4,4.0,3,2,9,353
+10584,25-34,<3L,Other,Tier 1,Amazon,1-2/month,4263.0,5,3,3.0,4,4,5,3,4.0,4,3,8,424
+10585,45-54,<3L,Government,Tier 2,Myntra,1-2/month,6095.0,3,4,4.0,4,3,3,2,3.0,4,4,4,271
+10586,35-44,3-6L,Self-employed,Tier 1,Amazon,3-5/month,7620.0,2,2,4.0,3,5,3,4,3.0,4,4,7,317
+10587,18-24,3-6L,Private Sector,Tier 1,Amazon,3-5/month,9025.0,3,3,3.0,3,4,4,2,4.0,5,2,9,459
+10588,25-34,<3L,Self-employed,Tier 3,Flipkart,6+/month,9048.0,5,3,4.0,3,4,3,3,4.0,4,2,10,277
+10589,18-24,3-6L,Government,Tier 3,Flipkart,Rarely,4366.0,4,5,4.0,3,5,4,4,4.0,5,3,10,365
+10590,18-24,3-6L,Self-employed,Tier 2,Flipkart,3-5/month,7146.0,5,4,3.0,5,4,5,5,4.0,3,2,7,405
+10591,45-54,10-20L,Private Sector,Tier 1,Flipkart,Rarely,5626.0,3,4,4.0,5,4,2,5,4.0,3,1,10,263
+10592,25-34,10-20L,Private Sector,Tier 2,Amazon,3-5/month,9900.0,3,3,4.0,4,4,4,3,3.0,3,2,4,191
+10593,25-34,6-10L,Government,Tier 1,Other,3-5/month,8491.0,2,3,5.0,3,3,5,3,3.0,5,3,7,446
+10594,35-44,<3L,Student,Tier 3,Flipkart,1-2/month,5748.0,4,3,5.0,4,3,4,4,3.0,3,4,8,632
+10595,18-24,3-6L,Student,Tier 3,Amazon,3-5/month,6897.0,3,4,3.0,3,4,3,5,3.0,2,2,9,404
+10596,25-34,10-20L,Other,Tier 1,Myntra,1-2/month,5859.0,3,5,4.0,3,3,3,5,4.0,2,2,10,422
+10597,35-44,<3L,Private Sector,Tier 1,Flipkart,1-2/month,4664.0,5,4,5.0,3,3,3,3,4.0,5,3,10,276
+10598,35-44,3-6L,Student,Tier 1,Flipkart,1-2/month,5265.0,4,3,3.0,3,4,4,3,3.0,2,3,6,500
+10599,55+,20L+,Private Sector,Tier 1,Flipkart,Rarely,5983.0,4,3,3.0,4,4,3,4,3.0,4,3,8,324
+10600,35-44,20L+,Private Sector,Tier 1,Amazon,6+/month,11887.0,2,3,3.0,3,5,3,4,3.0,3,3,7,471
+10601,25-34,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,8579.0,5,5,4.0,3,4,4,4,5.0,4,1,9,418
+10602,35-44,6-10L,Other,Tier 1,Amazon,3-5/month,7823.0,3,5,4.0,5,3,5,3,4.0,3,2,8,420
+10603,45-54,3-6L,Other,Tier 1,Amazon,6+/month,12083.0,4,4,4.0,4,5,4,4,4.0,4,2,10,416
+10604,35-44,10-20L,Government,Tier 1,Other,3-5/month,8811.0,4,4,4.0,4,5,5,4,3.0,3,3,8,413
+10605,55+,<3L,Government,Tier 2,Flipkart,1-2/month,5234.0,4,4,2.0,2,3,5,3,2.0,2,3,8,387
+10606,35-44,<3L,Private Sector,Tier 1,Amazon,Rarely,4052.0,5,4,3.0,4,4,3,5,4.0,4,3,6,452
+10607,45-54,6-10L,Self-employed,Tier 3,Amazon,1-2/month,5208.0,4,3,4.0,3,3,4,4,3.0,4,2,6,291
+10608,18-24,3-6L,Student,Tier 1,Myntra,6+/month,11130.0,3,3,4.0,5,3,3,3,4.0,5,2,9,337
+10609,35-44,6-10L,Student,Tier 1,Amazon,6+/month,13185.0,3,4,3.0,4,5,2,4,4.0,4,3,9,499
+10610,25-34,3-6L,Other,Tier 1,Amazon,3-5/month,7726.0,4,4,4.0,3,4,4,4,4.0,3,2,8,376
+10611,25-34,10-20L,Self-employed,Tier 2,Amazon,1-2/month,7411.0,3,4,5.0,3,4,3,4,3.0,4,4,8,329
+10612,35-44,10-20L,Private Sector,Tier 1,Flipkart,1-2/month,7224.0,4,5,4.0,5,4,4,5,4.0,5,2,9,458
+10613,55+,6-10L,Government,Tier 2,Flipkart,6+/month,11726.0,4,4,3.0,4,5,2,3,3.0,3,4,4,440
+10614,55+,10-20L,Private Sector,Tier 1,Amazon,Rarely,5668.0,3,4,5.0,4,4,4,4,4.0,4,3,9,237
+10615,25-34,3-6L,Private Sector,Tier 3,Amazon,3-5/month,7993.0,4,5,5.0,5,4,2,1,4.0,5,2,10,429
+10616,35-44,6-10L,Private Sector,Tier 1,Flipkart,1-2/month,6637.0,2,4,3.0,4,4,4,4,4.0,3,1,9,373
+10617,35-44,<3L,Student,Tier 1,Flipkart,1-2/month,3433.0,3,3,4.0,5,3,3,4,4.0,5,2,5,428
+10618,25-34,10-20L,Private Sector,Tier 3,Flipkart,3-5/month,9023.0,3,3,5.0,3,5,3,5,4.0,5,2,8,361
+10619,18-24,10-20L,Private Sector,Tier 1,Amazon,6+/month,11934.0,4,5,4.0,4,3,5,3,4.0,4,2,9,404
+10620,18-24,10-20L,Private Sector,Tier 1,Flipkart,3-5/month,8448.0,3,3,2.0,3,4,3,4,3.0,3,3,5,186
+10621,35-44,10-20L,Student,Tier 3,Other,1-2/month,7766.0,4,3,4.0,3,3,4,4,4.0,4,1,10,275
+10622,25-34,20L+,Other,Tier 1,Flipkart,1-2/month,6590.0,4,4,3.0,4,3,3,3,2.0,2,3,6,430
+10623,55+,3-6L,Private Sector,Tier 1,Amazon,6+/month,9545.0,3,4,3.0,3,5,4,4,3.0,4,2,7,609
+10624,25-34,20L+,Self-employed,Tier 1,Flipkart,3-5/month,10166.0,3,3,2.0,4,5,4,4,4.0,4,2,8,395
+10625,55+,6-10L,Student,Tier 1,Amazon,1-2/month,4672.0,4,4,5.0,4,5,4,2,4.0,5,2,9,294
+10626,25-34,3-6L,Private Sector,Tier 3,Amazon,3-5/month,5765.0,3,3,3.0,2,3,3,4,2.0,2,3,5,373
+10627,45-54,6-10L,Self-employed,Tier 2,Amazon,1-2/month,6767.0,5,3,4.0,3,3,5,3,3.0,5,3,5,275
+10628,18-24,3-6L,Private Sector,Tier 2,Other,Rarely,4343.0,3,3,4.0,4,4,3,2,4.0,5,2,8,479
+10629,25-34,3-6L,Student,Tier 1,Amazon,6+/month,11225.0,4,4,4.0,4,5,3,4,4.0,4,3,8,365
+10630,45-54,3-6L,Private Sector,Tier 2,Myntra,3-5/month,7102.0,4,4,4.0,4,3,3,3,5.0,5,1,10,460
+10631,45-54,<3L,Private Sector,Tier 2,Flipkart,1-2/month,3404.0,4,3,4.0,5,4,4,5,5.0,4,1,10,345
+10632,45-54,6-10L,Private Sector,Tier 1,Flipkart,1-2/month,4883.0,3,3,4.0,4,3,3,4,3.0,4,5,9,468
+10633,18-24,10-20L,Private Sector,Tier 3,Amazon,6+/month,11855.0,3,3,3.0,3,5,4,4,3.0,2,2,4,206
+10634,25-34,6-10L,Private Sector,Tier 2,Flipkart,3-5/month,7005.0,4,4,3.0,4,4,4,4,4.0,4,1,8,362
+10635,18-24,6-10L,Government,Tier 2,Amazon,3-5/month,8426.0,3,3,4.0,4,4,3,4,3.0,3,3,10,411
+10636,18-24,3-6L,Student,Tier 1,Flipkart,Rarely,3784.0,3,3,4.0,4,4,4,3,5.0,4,1,9,335
+10637,35-44,3-6L,Private Sector,Tier 1,Amazon,6+/month,10967.0,4,3,4.0,4,5,3,4,4.0,3,3,7,394
+10638,35-44,3-6L,Government,Tier 2,Amazon,6+/month,10940.0,4,3,5.0,3,3,5,3,4.0,5,2,8,393
+10639,35-44,10-20L,Student,Tier 2,Flipkart,3-5/month,9148.0,4,4,4.0,4,5,3,4,4.0,4,3,10,460
+10640,45-54,<3L,Private Sector,Tier 1,Amazon,1-2/month,5100.0,4,5,3.0,4,3,4,4,4.0,4,2,7,419
+10641,35-44,6-10L,Student,Tier 1,Amazon,3-5/month,7840.0,5,4,2.0,3,5,5,3,2.0,3,4,6,397
+10642,45-54,10-20L,Student,Tier 3,Other,3-5/month,8966.0,4,3,3.0,4,3,4,3,3.0,4,4,7,444
+10643,18-24,6-10L,Private Sector,Tier 1,Amazon,3-5/month,8362.0,3,4,3.0,3,4,5,5,4.0,4,1,5,231
+10644,18-24,10-20L,Student,Tier 1,Amazon,6+/month,9914.0,3,4,3.0,5,5,2,2,5.0,5,1,10,289
+10645,35-44,3-6L,Private Sector,Tier 2,Amazon,3-5/month,8082.0,3,3,4.0,4,4,3,4,3.0,4,2,6,228
+10646,45-54,10-20L,Other,Tier 1,Amazon,1-2/month,6735.0,3,5,4.0,5,4,4,5,3.0,5,2,8,412
+10647,18-24,6-10L,Self-employed,Tier 1,Flipkart,1-2/month,6458.0,2,4,5.0,3,3,4,4,4.0,4,2,10,399
+10648,25-34,10-20L,Student,Tier 1,Amazon,3-5/month,7642.0,3,4,4.0,5,3,4,5,5.0,5,1,9,492
+10649,35-44,6-10L,Private Sector,Tier 3,Flipkart,1-2/month,5666.0,4,4,5.0,4,5,4,4,5.0,4,3,9,393
+10650,18-24,10-20L,Private Sector,Tier 1,Flipkart,1-2/month,5618.0,3,4,4.0,4,4,4,4,4.0,4,2,10,300
+10651,25-34,20L+,Self-employed,Tier 2,Amazon,3-5/month,10120.0,2,5,5.0,4,5,4,3,3.0,3,3,6,373
+10652,45-54,3-6L,Self-employed,Tier 3,Other,1-2/month,4035.0,3,3,3.0,3,4,2,4,3.0,5,3,5,182
+10653,35-44,10-20L,Student,Tier 2,Other,3-5/month,7964.0,5,4,3.0,3,4,5,4,3.0,2,3,9,321
+10654,18-24,10-20L,Student,Tier 2,Amazon,Rarely,5981.0,4,4,3.0,3,5,3,4,3.0,3,4,7,137
+10655,45-54,3-6L,Private Sector,Tier 2,Amazon,1-2/month,4734.0,3,4,4.0,3,4,4,3,2.0,1,5,6,391
+10656,25-34,10-20L,Self-employed,Tier 1,Amazon,1-2/month,5764.0,4,3,3.0,5,4,4,2,4.0,5,2,10,333
+10657,45-54,3-6L,Self-employed,Tier 2,Amazon,3-5/month,8316.0,5,3,3.0,3,3,4,4,4.0,3,4,6,347
+10658,25-34,6-10L,Student,Tier 3,Flipkart,3-5/month,9003.0,4,4,4.0,4,5,3,2,3.0,4,3,6,271
+10659,35-44,<3L,Private Sector,Tier 2,Flipkart,1-2/month,5300.0,2,4,3.0,4,4,2,3,3.0,2,2,5,296
+10660,25-34,3-6L,Student,Tier 1,Flipkart,1-2/month,6064.0,5,3,2.0,4,4,3,1,3.0,3,4,7,426
+10661,25-34,10-20L,Government,Tier 1,Amazon,Rarely,5292.0,2,5,3.0,4,5,4,4,4.0,2,3,7,224
+10662,45-54,3-6L,Self-employed,Tier 3,Amazon,3-5/month,7316.0,3,4,4.0,4,4,2,4,4.0,4,2,6,408
+10663,18-24,3-6L,Private Sector,Tier 1,Other,6+/month,10217.0,3,4,3.0,3,4,3,4,4.0,4,2,9,283
+10664,18-24,3-6L,Student,Tier 3,Other,3-5/month,7651.0,3,3,4.0,4,5,4,5,5.0,4,3,10,200
+10665,25-34,6-10L,Private Sector,Tier 1,Amazon,1-2/month,5475.0,4,4,4.0,4,4,3,5,5.0,4,1,8,477
+10666,35-44,10-20L,Private Sector,Tier 2,Flipkart,3-5/month,8410.0,2,4,4.0,5,4,3,4,4.0,5,2,6,486
+10667,45-54,10-20L,Self-employed,Tier 3,Flipkart,1-2/month,7140.0,3,2,3.0,5,4,4,3,5.0,5,3,10,309
+10668,55+,<3L,Private Sector,Tier 2,Flipkart,Rarely,4616.0,5,4,3.0,3,5,4,3,4.0,4,2,6,308
+10669,25-34,6-10L,Self-employed,Tier 1,Flipkart,1-2/month,6308.0,3,4,3.0,2,3,3,4,2.0,1,3,5,336
+10670,25-34,3-6L,Private Sector,Tier 3,Other,Rarely,5815.0,3,2,4.0,4,5,4,3,4.0,4,3,10,283
+10671,18-24,6-10L,Student,Tier 1,Amazon,1-2/month,5315.0,3,4,5.0,5,4,4,4,3.0,3,3,8,300
+10672,35-44,3-6L,Private Sector,Tier 1,Amazon,3-5/month,5846.0,3,4,4.0,5,4,3,4,4.0,5,3,7,403
+10673,55+,3-6L,Student,Tier 2,Other,1-2/month,5943.0,3,4,5.0,4,5,4,3,5.0,5,1,10,557
+10674,35-44,3-6L,Private Sector,Tier 1,Amazon,3-5/month,6805.0,3,4,4.0,5,4,3,4,5.0,4,2,8,326
+10675,35-44,6-10L,Government,Tier 2,Amazon,6+/month,11204.0,4,3,3.0,5,4,4,3,4.0,5,2,8,457
+10676,25-34,6-10L,Student,Tier 1,Flipkart,3-5/month,6557.0,4,3,5.0,5,4,4,4,5.0,5,4,9,394
+10677,45-54,3-6L,Student,Tier 1,Myntra,1-2/month,4491.0,3,2,4.0,4,4,3,3,4.0,5,3,7,201
+10678,25-34,10-20L,Student,Tier 3,Flipkart,3-5/month,7448.0,2,4,5.0,3,5,4,3,5.0,4,1,10,358
+10679,18-24,10-20L,Student,Tier 1,Myntra,Rarely,5109.0,3,4,4.0,4,4,4,5,3.0,4,3,3,346
+10680,25-34,3-6L,Self-employed,Tier 2,Flipkart,1-2/month,4945.0,3,5,2.0,4,4,4,3,5.0,3,2,8,499
+10681,18-24,10-20L,Other,Tier 2,Amazon,1-2/month,6681.0,3,3,3.0,4,5,4,4,4.0,4,3,6,503
+10682,18-24,10-20L,Student,Tier 3,Flipkart,3-5/month,9916.0,4,4,3.0,4,3,4,3,3.0,4,2,6,396
+10683,18-24,<3L,Self-employed,Tier 2,Myntra,3-5/month,7459.0,4,3,2.0,5,4,4,2,3.0,3,4,9,475
+10684,25-34,3-6L,Government,Tier 3,Myntra,3-5/month,6690.0,2,3,5.0,3,4,2,4,3.0,4,2,8,346
+10685,35-44,3-6L,Other,Tier 1,Amazon,3-5/month,8047.0,4,4,5.0,4,5,3,3,4.0,4,3,8,466
+10686,25-34,10-20L,Private Sector,Tier 1,Amazon,3-5/month,8901.0,3,4,4.0,4,4,3,4,3.0,3,2,7,370
+10687,25-34,3-6L,Private Sector,Tier 3,Myntra,3-5/month,7412.0,3,5,4.0,3,5,4,4,4.0,5,2,8,464
+10688,55+,6-10L,Private Sector,Tier 3,Amazon,6+/month,11430.0,4,3,5.0,3,4,4,4,4.0,4,3,10,474
+10689,35-44,3-6L,Self-employed,Tier 2,Amazon,1-2/month,5484.0,4,3,4.0,3,4,3,4,5.0,5,1,7,428
+10690,25-34,6-10L,Government,Tier 2,Myntra,6+/month,10827.0,3,3,4.0,4,5,5,3,5.0,4,2,10,290
+10691,25-34,20L+,Private Sector,Tier 2,Flipkart,6+/month,12586.0,3,3,4.0,4,3,4,4,5.0,5,1,9,320
+10692,45-54,3-6L,Private Sector,Tier 1,Amazon,1-2/month,6366.0,5,5,4.0,3,3,4,3,3.0,3,3,7,431
+10693,18-24,10-20L,Government,Tier 3,Amazon,Rarely,4866.0,4,4,5.0,2,5,3,2,4.0,5,1,9,445
+10694,25-34,20L+,Self-employed,Tier 3,Amazon,1-2/month,6323.0,4,4,4.0,4,2,3,4,2.0,1,4,6,375
+10695,45-54,10-20L,Private Sector,Tier 2,Myntra,3-5/month,8744.0,3,3,4.0,4,5,3,4,4.0,5,2,10,330
+10696,25-34,<3L,Government,Tier 1,Flipkart,Rarely,2532.0,3,4,4.0,3,4,4,5,4.0,2,3,6,378
+10697,35-44,10-20L,Private Sector,Tier 1,Amazon,1-2/month,5049.0,4,4,3.0,3,3,4,5,4.0,4,3,10,334
+10698,35-44,<3L,Private Sector,Tier 1,Amazon,3-5/month,6540.0,4,4,5.0,4,3,5,4,3.0,3,3,7,334
+10699,35-44,3-6L,Private Sector,Tier 2,Amazon,6+/month,12104.0,3,4,3.0,4,3,3,4,3.0,4,4,6,546
+10700,25-34,10-20L,Self-employed,Tier 2,Amazon,3-5/month,8765.0,3,3,4.0,4,4,4,4,4.0,4,3,10,315
+10701,18-24,6-10L,Other,Tier 1,Amazon,3-5/month,8311.0,3,3,4.0,3,3,4,3,3.0,2,2,8,408
+10702,25-34,3-6L,Private Sector,Tier 2,Flipkart,1-2/month,4033.0,4,4,3.0,4,4,3,2,4.0,4,4,8,375
+10703,18-24,3-6L,Private Sector,Tier 3,Amazon,Rarely,4594.0,4,3,3.0,5,4,4,3,4.0,4,2,10,243
+10704,45-54,10-20L,Private Sector,Tier 1,Amazon,3-5/month,8884.0,3,4,5.0,4,4,3,5,4.0,5,2,8,240
+10705,25-34,6-10L,Student,Tier 2,Flipkart,1-2/month,5352.0,3,4,4.0,4,4,3,3,3.0,4,3,6,352
+10706,25-34,3-6L,Private Sector,Tier 2,Flipkart,3-5/month,7662.0,3,4,3.0,4,4,4,4,4.0,3,2,7,174
+10707,45-54,10-20L,Student,Tier 1,Amazon,6+/month,12253.0,2,3,4.0,3,5,3,4,4.0,5,1,9,534
+10708,35-44,3-6L,Private Sector,Tier 2,Amazon,3-5/month,6546.0,3,4,3.0,3,4,3,4,3.0,3,2,6,326
+10709,25-34,<3L,Student,Tier 2,Amazon,3-5/month,7149.0,3,4,2.0,3,4,4,2,5.0,4,3,10,318
+10710,25-34,6-10L,Private Sector,Tier 1,Amazon,3-5/month,9227.0,3,4,4.0,5,4,4,4,4.0,5,3,10,476
+10711,55+,20L+,Self-employed,Tier 1,Flipkart,3-5/month,9245.0,3,4,3.0,4,4,3,3,4.0,4,3,8,347
+10712,35-44,3-6L,Private Sector,Tier 3,Amazon,1-2/month,4519.0,4,3,4.0,4,3,3,5,3.0,3,3,10,422
+10713,45-54,3-6L,Private Sector,Tier 1,Myntra,1-2/month,5140.0,4,5,3.0,4,4,4,4,4.0,4,2,8,306
+10714,45-54,<3L,Self-employed,Tier 2,Flipkart,1-2/month,5419.0,5,4,4.0,4,4,3,3,4.0,5,1,10,364
+10715,35-44,10-20L,Private Sector,Tier 2,Amazon,3-5/month,7696.0,3,4,4.0,3,4,3,5,3.0,5,4,8,452
+10716,18-24,3-6L,Student,Tier 3,Amazon,1-2/month,5821.0,4,3,2.0,4,4,4,4,3.0,1,3,9,278
+10717,25-34,6-10L,Private Sector,Tier 2,Amazon,1-2/month,5340.0,3,4,4.0,3,4,4,2,5.0,5,1,10,410
+10718,18-24,20L+,Private Sector,Tier 3,Amazon,3-5/month,9668.0,4,3,4.0,5,4,3,3,4.0,4,2,5,130
+10719,35-44,<3L,Private Sector,Tier 2,Flipkart,Rarely,3042.0,4,4,5.0,5,4,3,5,5.0,5,3,10,480
+10720,55+,6-10L,Student,Tier 1,Amazon,3-5/month,7640.0,3,3,4.0,4,4,3,3,4.0,5,2,8,307
+10721,25-34,6-10L,Private Sector,Tier 1,Myntra,1-2/month,7321.0,2,3,4.0,5,3,3,3,4.0,2,2,8,352
+10722,25-34,10-20L,Private Sector,Tier 1,Flipkart,1-2/month,5332.0,3,4,3.0,5,4,5,2,3.0,4,2,6,351
+10723,18-24,3-6L,Private Sector,Tier 1,Flipkart,Rarely,4637.0,5,4,3.0,3,4,4,2,4.0,5,2,7,267
+10724,55+,3-6L,Private Sector,Tier 1,Myntra,1-2/month,6858.0,2,4,4.0,4,4,3,3,4.0,4,3,6,260
+10725,18-24,<3L,Student,Tier 1,Flipkart,6+/month,10767.0,5,3,3.0,4,4,4,2,4.0,3,2,8,410
+10726,18-24,10-20L,Private Sector,Tier 1,Other,6+/month,10902.0,3,3,5.0,4,5,3,3,4.0,5,2,10,414
+10727,18-24,10-20L,Self-employed,Tier 1,Other,3-5/month,7647.0,3,3,4.0,4,4,4,5,4.0,3,3,7,276
+10728,18-24,<3L,Private Sector,Tier 1,Amazon,3-5/month,6174.0,3,4,3.0,4,4,3,3,4.0,4,2,8,411
+10729,25-34,3-6L,Private Sector,Tier 2,Amazon,3-5/month,7642.0,5,4,3.0,3,4,5,4,3.0,4,4,6,413
+10730,25-34,10-20L,Private Sector,Tier 2,Amazon,6+/month,12303.0,4,4,5.0,5,5,3,4,5.0,5,3,8,324
+10731,25-34,<3L,Private Sector,Tier 3,Amazon,1-2/month,3505.0,4,4,4.0,3,4,4,3,3.0,4,4,6,237
+10732,18-24,3-6L,Self-employed,Tier 2,Flipkart,Rarely,3415.0,4,4,4.0,4,3,3,3,3.0,3,3,7,356
+10733,18-24,6-10L,Private Sector,Tier 3,Amazon,3-5/month,7420.0,3,4,5.0,3,4,4,4,5.0,5,2,10,395
+10734,25-34,3-6L,Private Sector,Tier 2,Flipkart,6+/month,10637.0,4,2,3.0,3,4,4,3,3.0,2,3,5,354
+10735,18-24,3-6L,Self-employed,Tier 1,Myntra,1-2/month,7086.0,3,4,2.0,4,3,5,4,3.0,2,3,7,304
+10736,35-44,3-6L,Self-employed,Tier 3,Amazon,1-2/month,4460.0,4,3,3.0,4,4,4,5,4.0,4,2,10,404
+10737,18-24,<3L,Government,Tier 1,Flipkart,1-2/month,3771.0,5,3,4.0,4,4,3,2,4.0,3,2,6,480
+10738,25-34,6-10L,Student,Tier 2,Amazon,1-2/month,4930.0,3,3,4.0,5,4,5,3,4.0,5,4,10,287
+10739,25-34,6-10L,Student,Tier 2,Myntra,3-5/month,8722.0,3,4,3.0,5,5,4,3,5.0,3,1,9,332
+10740,25-34,6-10L,Private Sector,Tier 1,Flipkart,1-2/month,5913.0,2,3,5.0,4,3,3,3,3.0,4,4,8,621
+10741,18-24,<3L,Student,Tier 2,Amazon,6+/month,9343.0,4,3,4.0,4,5,4,3,4.0,5,2,8,388
+10742,18-24,10-20L,Private Sector,Tier 1,Flipkart,3-5/month,8473.0,3,5,4.0,3,4,4,3,4.0,3,4,9,240
+10743,45-54,<3L,Self-employed,Tier 1,Amazon,Rarely,2838.0,4,3,4.0,4,4,4,3,4.0,3,2,10,315
+10744,18-24,10-20L,Private Sector,Tier 1,Flipkart,3-5/month,9066.0,2,3,3.0,3,4,4,4,2.0,2,3,5,288
+10745,25-34,3-6L,Student,Tier 1,Flipkart,3-5/month,9916.0,4,3,4.0,5,3,4,4,4.0,5,1,10,396
+10746,25-34,10-20L,Student,Tier 1,Amazon,1-2/month,7096.0,2,3,5.0,5,3,4,3,4.0,5,3,9,389
+10747,25-34,3-6L,Private Sector,Tier 2,Flipkart,1-2/month,5216.0,4,4,5.0,3,4,3,4,5.0,4,3,8,300
+10748,25-34,<3L,Private Sector,Tier 2,Myntra,3-5/month,6252.0,4,3,4.0,3,5,5,3,4.0,4,2,8,536
+10749,35-44,6-10L,Self-employed,Tier 2,Myntra,1-2/month,4741.0,5,4,4.0,4,3,5,2,5.0,5,3,9,368
+10750,45-54,<3L,Student,Tier 2,Flipkart,1-2/month,5310.0,4,5,2.0,4,3,4,3,2.0,2,3,3,317
+10751,25-34,3-6L,Student,Tier 1,Flipkart,1-2/month,5911.0,5,4,4.0,4,4,4,4,4.0,3,3,9,244
+10752,25-34,6-10L,Private Sector,Tier 1,Amazon,1-2/month,5531.0,4,4,3.0,4,4,4,4,4.0,4,2,9,275
+10753,18-24,10-20L,Private Sector,Tier 2,Myntra,3-5/month,9892.0,4,2,5.0,5,4,3,5,5.0,5,3,10,242
+10754,25-34,<3L,Private Sector,Tier 3,Myntra,1-2/month,4669.0,4,4,5.0,4,3,3,4,5.0,5,2,10,342
+10755,35-44,3-6L,Other,Tier 1,Amazon,3-5/month,9497.0,3,4,3.0,5,3,2,4,4.0,4,3,10,276
+10756,18-24,10-20L,Private Sector,Tier 1,Amazon,1-2/month,6867.0,4,4,4.0,4,4,5,5,5.0,5,3,9,434
+10757,25-34,10-20L,Private Sector,Tier 2,Amazon,3-5/month,8641.0,4,5,4.0,3,5,5,3,4.0,4,2,8,304
+10758,55+,6-10L,Other,Tier 3,Amazon,1-2/month,5091.0,4,4,5.0,5,4,2,3,4.0,4,2,10,440
+10759,18-24,6-10L,Student,Tier 1,Amazon,6+/month,11319.0,3,4,3.0,5,3,4,5,4.0,3,1,9,407
+10760,25-34,6-10L,Other,Tier 1,Amazon,6+/month,12208.0,3,5,2.0,4,4,4,4,4.0,4,2,8,421
+10761,35-44,6-10L,Private Sector,Tier 1,Flipkart,1-2/month,5493.0,4,4,4.0,4,4,3,4,2.0,1,5,4,445
+10762,18-24,10-20L,Private Sector,Tier 2,Amazon,3-5/month,9196.0,4,3,2.0,3,4,4,4,3.0,3,4,6,549
+10763,18-24,<3L,Other,Tier 3,Amazon,1-2/month,3676.0,3,4,4.0,3,5,2,2,3.0,4,2,8,279
+10764,18-24,3-6L,Private Sector,Tier 2,Flipkart,3-5/month,8202.0,3,3,4.0,4,5,4,3,4.0,5,4,5,440
+10765,45-54,<3L,Private Sector,Tier 1,Amazon,3-5/month,7132.0,3,4,5.0,5,4,4,3,3.0,2,3,3,398
+10766,18-24,20L+,Private Sector,Tier 2,Flipkart,1-2/month,6168.0,4,2,3.0,4,3,4,4,3.0,3,4,8,461
+10767,18-24,3-6L,Government,Tier 3,Myntra,1-2/month,5098.0,3,3,4.0,5,4,3,3,3.0,3,3,6,371
+10768,18-24,6-10L,Private Sector,Tier 2,Other,1-2/month,6788.0,4,4,4.0,5,4,4,4,5.0,5,2,10,472
+10769,18-24,10-20L,Student,Tier 3,Flipkart,3-5/month,7667.0,4,4,3.0,4,3,4,3,3.0,3,2,9,237
+10770,35-44,20L+,Government,Tier 1,Amazon,3-5/month,8486.0,2,4,5.0,5,4,4,2,3.0,4,4,5,265
+10771,18-24,<3L,Government,Tier 1,Amazon,Rarely,3487.0,5,3,4.0,5,4,3,4,4.0,5,1,6,306
+10772,25-34,10-20L,Private Sector,Tier 2,Other,1-2/month,8520.0,2,5,3.0,4,3,5,2,4.0,5,3,8,353
+10773,35-44,10-20L,Student,Tier 2,Flipkart,1-2/month,5995.0,5,4,4.0,4,5,3,3,4.0,5,3,7,364
+10774,45-54,<3L,Private Sector,Tier 3,Myntra,3-5/month,7296.0,4,4,4.0,4,4,4,2,3.0,3,4,7,290
+10775,18-24,10-20L,Student,Tier 2,Flipkart,Rarely,5734.0,2,2,4.0,2,4,4,3,3.0,3,3,8,266
+10776,45-54,3-6L,Student,Tier 1,Amazon,1-2/month,4769.0,5,3,4.0,4,5,5,4,4.0,3,4,9,298
+10777,35-44,6-10L,Private Sector,Tier 1,Flipkart,6+/month,11595.0,4,4,4.0,4,3,4,5,4.0,4,3,8,198
+10778,18-24,6-10L,Student,Tier 2,Myntra,1-2/month,5547.0,3,4,3.0,4,5,4,2,3.0,4,3,8,333
+10779,35-44,3-6L,Private Sector,Tier 1,Myntra,3-5/month,7178.0,3,4,3.0,4,4,4,3,4.0,5,3,9,354
+10780,45-54,<3L,Government,Tier 2,Amazon,1-2/month,3155.0,3,4,4.0,4,5,3,2,3.0,4,4,6,402
+10781,25-34,<3L,Private Sector,Tier 1,Flipkart,1-2/month,4628.0,5,3,3.0,2,3,3,3,3.0,2,4,8,376
+10782,45-54,<3L,Other,Tier 1,Amazon,3-5/month,7659.0,3,4,4.0,5,5,3,4,5.0,4,1,7,530
+10783,25-34,6-10L,Self-employed,Tier 2,Other,1-2/month,6002.0,3,5,4.0,4,3,4,4,3.0,5,2,8,437
+10784,35-44,3-6L,Private Sector,Tier 1,Amazon,1-2/month,6281.0,4,5,3.0,3,5,4,2,3.0,2,4,7,430
+10785,55+,3-6L,Other,Tier 2,Flipkart,6+/month,11322.0,2,4,4.0,5,3,3,4,4.0,5,3,6,395
+10786,25-34,6-10L,Self-employed,Tier 2,Amazon,6+/month,11396.0,3,5,3.0,4,5,5,3,4.0,4,2,8,411
+10787,45-54,6-10L,Private Sector,Tier 2,Flipkart,3-5/month,7585.0,4,3,2.0,4,4,2,2,3.0,2,5,8,339
+10788,25-34,6-10L,Self-employed,Tier 2,Flipkart,Rarely,4412.0,4,3,3.0,4,5,3,4,4.0,3,3,7,369
+10789,45-54,20L+,Student,Tier 2,Amazon,Rarely,4827.0,3,5,4.0,3,4,2,4,4.0,3,3,9,543
+10790,35-44,3-6L,Government,Tier 3,Myntra,1-2/month,5060.0,4,4,4.0,4,3,5,3,5.0,5,1,10,353
+10791,18-24,10-20L,Private Sector,Tier 1,Other,6+/month,12231.0,3,3,4.0,5,2,4,3,4.0,3,3,8,233
+10792,25-34,<3L,Student,Tier 1,Myntra,3-5/month,8394.0,4,4,5.0,3,5,4,3,3.0,5,3,5,426
+10793,25-34,10-20L,Private Sector,Tier 2,Amazon,1-2/month,7075.0,3,3,3.0,3,4,4,3,2.0,2,3,5,443
+10794,18-24,20L+,Other,Tier 2,Myntra,6+/month,11972.0,2,4,3.0,4,2,4,4,4.0,5,2,6,375
+10795,18-24,10-20L,Private Sector,Tier 2,Flipkart,Rarely,4205.0,3,4,5.0,4,4,3,4,4.0,5,3,7,182
+10796,25-34,6-10L,Student,Tier 2,Flipkart,3-5/month,7964.0,3,4,2.0,4,4,4,4,4.0,5,3,6,482
+10797,18-24,6-10L,Student,Tier 2,Flipkart,1-2/month,6681.0,4,3,3.0,3,3,4,3,3.0,3,2,7,382
+10798,18-24,3-6L,Private Sector,Tier 1,Flipkart,1-2/month,5101.0,4,4,3.0,2,4,4,4,3.0,3,3,5,331
+10799,35-44,6-10L,Self-employed,Tier 2,Amazon,6+/month,11938.0,3,3,4.0,4,4,5,3,4.0,3,3,8,473
+10800,35-44,10-20L,Self-employed,Tier 1,Amazon,6+/month,11937.0,2,3,4.0,3,5,2,5,3.0,3,3,8,168
+10801,35-44,20L+,Private Sector,Tier 1,Amazon,Rarely,6795.0,3,4,4.0,3,4,4,3,4.0,5,3,10,371
+10802,25-34,6-10L,Student,Tier 2,Amazon,1-2/month,4512.0,5,5,4.0,2,5,4,2,3.0,3,4,5,309
+10803,45-54,3-6L,Student,Tier 2,Amazon,3-5/month,8294.0,3,5,3.0,5,5,4,5,4.0,5,1,7,502
+10804,35-44,6-10L,Private Sector,Tier 1,Amazon,Rarely,3849.0,3,4,3.0,4,4,3,3,2.0,3,5,6,383
+10805,18-24,<3L,Self-employed,Tier 3,Myntra,3-5/month,7564.0,4,4,4.0,4,3,3,4,4.0,4,2,9,278
+10806,18-24,3-6L,Government,Tier 2,Flipkart,3-5/month,7255.0,3,4,4.0,4,4,5,3,5.0,5,1,9,468
+10807,35-44,3-6L,Private Sector,Tier 2,Amazon,1-2/month,5196.0,3,4,5.0,2,4,4,5,4.0,3,4,7,126
+10808,18-24,10-20L,Private Sector,Tier 3,Myntra,1-2/month,6383.0,4,3,4.0,3,4,5,5,3.0,3,4,7,408
+10809,25-34,<3L,Private Sector,Tier 1,Other,1-2/month,4880.0,4,5,3.0,3,4,4,5,4.0,3,3,5,240
+10810,55+,<3L,Private Sector,Tier 2,Other,6+/month,10562.0,4,2,4.0,3,5,3,4,3.0,3,4,7,316
+10812,18-24,10-20L,Government,Tier 1,Other,3-5/month,10067.0,4,4,3.0,4,4,4,3,4.0,5,4,8,446
+10813,55+,6-10L,Private Sector,Tier 1,Flipkart,1-2/month,6249.0,5,3,4.0,5,4,5,4,4.0,4,4,6,569
+10814,35-44,<3L,Other,Tier 1,Other,3-5/month,8392.0,5,4,2.0,3,5,3,3,3.0,2,3,9,191
+10815,18-24,<3L,Private Sector,Tier 2,Other,Rarely,3634.0,5,4,4.0,4,3,2,5,3.0,5,3,7,402
+10816,45-54,6-10L,Student,Tier 1,Amazon,Rarely,5820.0,4,5,3.0,4,4,4,3,3.0,1,3,8,569
+10817,45-54,3-6L,Private Sector,Tier 2,Myntra,3-5/month,7886.0,3,3,4.0,3,5,4,3,4.0,4,2,6,306
+10818,25-34,6-10L,Private Sector,Tier 1,Myntra,3-5/month,7656.0,4,3,5.0,4,3,4,3,5.0,5,2,8,300
+10819,35-44,3-6L,Private Sector,Tier 1,Myntra,1-2/month,5463.0,4,3,3.0,4,5,4,4,4.0,4,2,9,382
+10820,25-34,10-20L,Private Sector,Tier 3,Other,1-2/month,7053.0,5,2,4.0,4,5,4,3,4.0,5,3,10,439
+10821,18-24,3-6L,Government,Tier 2,Amazon,6+/month,10771.0,3,3,4.0,4,3,2,4,2.0,3,2,3,422
+10822,35-44,6-10L,Private Sector,Tier 3,Amazon,Rarely,5222.0,4,3,4.0,4,4,4,3,3.0,4,3,6,326
+10823,25-34,<3L,Government,Tier 2,Flipkart,1-2/month,5429.0,3,5,4.0,4,4,5,4,4.0,3,2,6,284
+10824,35-44,20L+,Government,Tier 1,Flipkart,1-2/month,7229.0,3,3,5.0,3,4,4,5,3.0,2,3,6,485
+10825,45-54,20L+,Private Sector,Tier 2,Other,1-2/month,4601.0,3,3,4.0,4,4,3,4,5.0,5,2,9,286
+10826,18-24,10-20L,Private Sector,Tier 2,Other,3-5/month,10310.0,3,3,3.0,4,5,3,5,3.0,2,4,7,178
+10827,35-44,3-6L,Student,Tier 1,Flipkart,3-5/month,7232.0,3,4,3.0,3,4,4,4,4.0,3,4,5,222
+10828,18-24,3-6L,Private Sector,Tier 3,Other,1-2/month,4559.0,4,5,3.0,4,4,5,5,4.0,5,2,10,305
+10829,45-54,10-20L,Self-employed,Tier 2,Amazon,3-5/month,7788.0,3,3,3.0,5,4,2,3,3.0,5,3,6,502
+10830,25-34,10-20L,Self-employed,Tier 2,Other,1-2/month,6297.0,3,5,4.0,3,4,4,2,4.0,5,2,10,247
+10831,35-44,3-6L,Private Sector,Tier 2,Amazon,3-5/month,6994.0,5,4,3.0,3,3,3,3,3.0,4,3,8,505
+10832,25-34,3-6L,Private Sector,Tier 2,Flipkart,Rarely,3537.0,3,4,4.0,3,4,4,3,3.0,3,2,8,484
+10833,25-34,3-6L,Government,Tier 1,Amazon,1-2/month,4686.0,4,4,4.0,3,4,4,3,2.0,3,3,8,381
+10834,35-44,10-20L,Self-employed,Tier 3,Flipkart,3-5/month,9277.0,3,4,5.0,5,4,3,2,5.0,5,2,8,118
+10835,35-44,6-10L,Private Sector,Tier 1,Amazon,1-2/month,7777.0,4,5,4.0,3,5,4,4,4.0,5,1,8,248
+10836,25-34,6-10L,Self-employed,Tier 1,Amazon,Rarely,5589.0,5,4,3.0,3,4,5,2,4.0,3,2,7,300
+10837,35-44,6-10L,Student,Tier 1,Flipkart,1-2/month,6960.0,4,4,3.0,3,4,3,4,4.0,4,2,8,524
+10838,55+,3-6L,Student,Tier 2,Flipkart,3-5/month,7160.0,3,3,5.0,4,3,3,5,5.0,4,1,10,306
+10839,25-34,3-6L,Student,Tier 3,Amazon,Rarely,4294.0,5,4,4.0,3,4,5,3,3.0,4,4,8,287
+10840,25-34,<3L,Student,Tier 3,Flipkart,3-5/month,7234.0,4,3,3.0,5,4,4,4,3.0,2,2,6,378
+10841,18-24,10-20L,Self-employed,Tier 2,Amazon,3-5/month,8206.0,2,4,5.0,3,4,4,3,4.0,3,3,6,226
+10843,25-34,3-6L,Private Sector,Tier 2,Amazon,1-2/month,6069.0,3,2,3.0,4,4,4,2,3.0,3,3,5,284
+10844,25-34,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,8481.0,2,4,3.0,4,4,5,3,4.0,4,2,7,615
+10845,18-24,3-6L,Private Sector,Tier 2,Myntra,1-2/month,5361.0,3,4,4.0,4,4,4,4,4.0,5,2,9,273
+10846,45-54,6-10L,Private Sector,Tier 1,Flipkart,6+/month,10374.0,3,3,3.0,4,3,4,3,4.0,4,2,9,543
+10847,25-34,3-6L,Student,Tier 1,Myntra,3-5/month,7234.0,4,4,4.0,4,4,3,2,4.0,4,3,8,252
+10848,35-44,<3L,Government,Tier 1,Flipkart,Rarely,2253.0,4,4,4.0,4,5,3,5,5.0,5,1,9,385
+10849,18-24,10-20L,Student,Tier 1,Myntra,3-5/month,8868.0,4,3,3.0,3,4,3,2,3.0,4,3,8,408
+10850,55+,3-6L,Self-employed,Tier 3,Other,1-2/month,5530.0,3,4,4.0,3,3,4,4,4.0,4,1,8,373
+10851,18-24,3-6L,Student,Tier 3,Amazon,1-2/month,5056.0,4,3,5.0,3,5,3,4,5.0,5,3,9,368
+10852,18-24,3-6L,Government,Tier 1,Amazon,1-2/month,5518.0,5,5,4.0,3,3,4,4,4.0,3,3,6,442
+10853,45-54,10-20L,Self-employed,Tier 2,Amazon,3-5/month,9175.0,3,3,4.0,4,4,3,5,4.0,2,4,5,400
+10854,45-54,3-6L,Student,Tier 1,Flipkart,3-5/month,7731.0,4,4,3.0,3,4,3,4,4.0,4,4,6,344
+10855,18-24,10-20L,Student,Tier 1,Flipkart,6+/month,11019.0,2,3,4.0,3,4,3,3,4.0,2,3,9,296
+10856,25-34,20L+,Other,Tier 1,Amazon,1-2/month,7022.0,4,4,3.0,4,2,4,4,4.0,5,2,7,344
+10857,35-44,6-10L,Private Sector,Tier 1,Other,3-5/month,8519.0,5,4,4.0,4,4,2,4,4.0,4,4,6,343
+10858,45-54,3-6L,Private Sector,Tier 1,Other,3-5/month,8921.0,4,4,4.0,4,5,4,4,5.0,4,1,9,341
+10859,25-34,10-20L,Student,Tier 1,Amazon,3-5/month,8555.0,3,3,5.0,4,5,3,4,4.0,5,1,9,367
+10860,25-34,3-6L,Private Sector,Tier 1,Amazon,1-2/month,5796.0,4,3,3.0,3,3,4,3,4.0,4,4,9,226
+10861,35-44,3-6L,Private Sector,Tier 1,Amazon,1-2/month,6090.0,3,5,3.0,5,5,2,4,3.0,3,3,7,262
+10862,35-44,6-10L,Self-employed,Tier 3,Amazon,3-5/month,7973.0,3,3,3.0,4,3,4,3,3.0,4,1,7,439
+10863,35-44,3-6L,Private Sector,Tier 1,Myntra,1-2/month,6334.0,4,4,4.0,5,3,3,2,3.0,4,2,6,146
+10864,25-34,<3L,Self-employed,Tier 1,Flipkart,1-2/month,5732.0,4,3,3.0,4,5,4,4,3.0,4,4,8,474
+10865,18-24,3-6L,Government,Tier 2,Amazon,3-5/month,8742.0,4,5,3.0,4,4,2,3,4.0,3,2,8,307
+10866,45-54,<3L,Student,Tier 1,Flipkart,1-2/month,5063.0,4,3,3.0,4,4,3,4,3.0,4,3,7,519
+10867,45-54,3-6L,Private Sector,Tier 2,Amazon,Rarely,6324.0,3,3,4.0,4,4,3,3,5.0,5,3,10,476
+10868,45-54,6-10L,Private Sector,Tier 1,Amazon,Rarely,4296.0,3,3,3.0,4,5,5,3,3.0,2,5,8,329
+10869,18-24,20L+,Private Sector,Tier 2,Amazon,3-5/month,11362.0,2,3,3.0,4,4,4,3,3.0,3,3,6,339
+10870,18-24,<3L,Private Sector,Tier 2,Flipkart,6+/month,10841.0,4,4,4.0,5,3,4,4,3.0,2,3,6,511
+10871,35-44,6-10L,Private Sector,Tier 2,Flipkart,1-2/month,7156.0,5,4,4.0,5,5,3,5,5.0,5,3,9,481
+10872,18-24,3-6L,Private Sector,Tier 2,Other,Rarely,3912.0,5,3,4.0,5,4,3,4,5.0,5,2,7,452
+10873,55+,<3L,Government,Tier 1,Amazon,3-5/month,7610.0,4,4,4.0,3,5,4,3,4.0,4,1,10,469
+10874,25-34,3-6L,Private Sector,Tier 1,Myntra,1-2/month,6584.0,4,3,4.0,3,4,4,2,4.0,4,1,7,257
+10875,35-44,<3L,Private Sector,Tier 1,Amazon,6+/month,9171.0,3,4,4.0,4,5,4,4,4.0,4,2,10,380
+10876,45-54,3-6L,Private Sector,Tier 2,Amazon,3-5/month,7353.0,4,4,5.0,4,4,5,3,5.0,5,3,10,287
+10877,25-34,3-6L,Private Sector,Tier 1,Other,1-2/month,3373.0,3,4,5.0,3,4,3,3,4.0,3,2,10,254
+10878,25-34,3-6L,Government,Tier 1,Flipkart,1-2/month,5140.0,5,4,5.0,3,5,4,4,4.0,4,3,9,376
+10879,35-44,6-10L,Private Sector,Tier 2,Amazon,1-2/month,5216.0,2,5,3.0,5,4,2,3,4.0,4,3,10,321
+10880,35-44,<3L,Private Sector,Tier 1,Flipkart,3-5/month,6654.0,4,4,3.0,4,5,4,2,3.0,2,4,6,344
+10881,25-34,<3L,Student,Tier 1,Flipkart,Rarely,6181.0,3,3,4.0,5,2,5,2,5.0,5,2,8,312
+10882,35-44,<3L,Private Sector,Tier 2,Other,6+/month,11696.0,4,4,5.0,3,4,3,4,4.0,4,3,8,241
+10883,55+,6-10L,Private Sector,Tier 1,Flipkart,3-5/month,6854.0,4,3,5.0,3,4,4,3,3.0,2,3,4,521
+10884,25-34,3-6L,Private Sector,Tier 3,Amazon,6+/month,11300.0,4,4,4.0,4,4,5,4,4.0,5,2,7,375
+10885,18-24,6-10L,Self-employed,Tier 3,Flipkart,6+/month,12169.0,3,3,4.0,4,3,3,4,4.0,5,1,6,223
+10886,25-34,3-6L,Self-employed,Tier 3,Amazon,1-2/month,4996.0,4,3,4.0,3,5,4,4,3.0,3,4,5,377
+10887,25-34,<3L,Student,Tier 1,Amazon,1-2/month,4810.0,3,4,4.0,3,4,5,3,2.0,2,3,6,505
+10888,18-24,20L+,Government,Tier 1,Flipkart,3-5/month,9698.0,3,4,4.0,3,4,4,4,4.0,4,2,9,451
+10889,18-24,<3L,Private Sector,Tier 2,Myntra,1-2/month,3438.0,5,5,4.0,4,4,4,4,4.0,4,2,8,311
+10890,35-44,<3L,Other,Tier 2,Amazon,Rarely,2622.0,4,5,3.0,3,4,2,3,3.0,4,2,7,313
+10891,25-34,<3L,Private Sector,Tier 2,Myntra,1-2/month,4805.0,4,4,3.0,4,5,4,4,3.0,3,3,6,269
+10892,55+,20L+,Private Sector,Tier 1,Flipkart,1-2/month,7339.0,3,3,3.0,3,4,4,2,5.0,3,2,10,289
+10893,18-24,6-10L,Private Sector,Tier 1,Myntra,6+/month,10812.0,4,2,3.0,4,5,3,3,4.0,5,2,9,297
+10894,18-24,6-10L,Private Sector,Tier 1,Amazon,1-2/month,5235.0,3,4,4.0,4,4,3,2,4.0,5,3,7,221
+10895,35-44,20L+,Government,Tier 1,Amazon,3-5/month,9369.0,2,2,4.0,4,4,4,3,4.0,5,2,10,318
+10896,45-54,<3L,Private Sector,Tier 1,Amazon,6+/month,10948.0,4,2,4.0,4,4,3,3,3.0,1,2,9,393
+10897,25-34,20L+,Private Sector,Tier 3,Amazon,1-2/month,7181.0,3,3,5.0,3,4,4,4,4.0,4,3,7,321
+10898,18-24,3-6L,Private Sector,Tier 1,Amazon,3-5/month,8960.0,2,4,5.0,3,4,4,3,5.0,5,2,7,381
+10899,18-24,6-10L,Self-employed,Tier 2,Amazon,Rarely,4224.0,5,3,5.0,5,4,4,3,4.0,5,3,6,514
+10900,25-34,3-6L,Self-employed,Tier 3,Amazon,Rarely,4374.0,3,5,3.0,4,3,3,2,3.0,3,4,6,534
+10901,25-34,3-6L,Private Sector,Tier 1,Amazon,1-2/month,4981.0,4,4,3.0,4,4,4,2,3.0,4,2,7,354
+10902,25-34,20L+,Private Sector,Tier 2,Other,1-2/month,7779.0,3,3,4.0,3,3,4,4,4.0,4,2,6,444
+10903,18-24,<3L,Student,Tier 2,Myntra,1-2/month,3947.0,4,5,5.0,4,4,4,4,4.0,5,3,8,344
+10904,25-34,20L+,Self-employed,Tier 1,Amazon,1-2/month,8985.0,2,5,5.0,3,4,3,3,3.0,4,4,6,314
+10905,55+,3-6L,Government,Tier 2,Other,1-2/month,3778.0,4,4,4.0,4,5,5,5,5.0,5,2,10,254
+10906,35-44,6-10L,Private Sector,Tier 3,Amazon,Rarely,6394.0,4,3,2.0,3,5,4,3,2.0,3,3,6,368
+10907,25-34,20L+,Self-employed,Tier 2,Amazon,3-5/month,9531.0,4,3,4.0,2,3,4,3,3.0,3,4,7,463
+10908,18-24,<3L,Student,Tier 3,Myntra,Rarely,4047.0,3,3,4.0,4,4,4,3,3.0,2,2,10,239
+10909,25-34,10-20L,Government,Tier 3,Flipkart,3-5/month,10001.0,5,3,5.0,4,4,4,5,4.0,4,3,10,333
+10910,25-34,6-10L,Student,Tier 1,Amazon,6+/month,12222.0,2,3,5.0,3,4,2,4,3.0,4,2,7,328
+10911,35-44,6-10L,Student,Tier 2,Amazon,3-5/month,7493.0,2,3,5.0,4,4,4,2,4.0,5,2,7,383
+10912,45-54,<3L,Private Sector,Tier 2,Flipkart,3-5/month,7390.0,5,4,3.0,2,4,5,4,4.0,5,2,7,385
+10913,45-54,6-10L,Private Sector,Tier 2,Flipkart,3-5/month,9831.0,4,2,3.0,5,5,4,5,4.0,3,3,4,411
+10914,55+,6-10L,Other,Tier 2,Amazon,3-5/month,7351.0,4,3,4.0,5,4,4,3,5.0,5,1,10,540
+10915,55+,3-6L,Private Sector,Tier 2,Flipkart,6+/month,12707.0,4,3,3.0,3,4,3,3,4.0,3,3,9,277
+10916,55+,<3L,Self-employed,Tier 3,Amazon,6+/month,10497.0,4,4,5.0,3,2,4,4,4.0,4,3,10,272
+10917,18-24,3-6L,Self-employed,Tier 1,Flipkart,1-2/month,4910.0,4,3,2.0,4,5,3,5,4.0,2,3,9,383
+10918,18-24,10-20L,Government,Tier 2,Amazon,3-5/month,7996.0,2,3,4.0,4,5,5,4,4.0,4,1,10,498
+10919,25-34,<3L,Other,Tier 1,Myntra,3-5/month,6649.0,4,3,4.0,3,3,3,2,4.0,5,2,10,221
+10920,25-34,6-10L,Private Sector,Tier 2,Myntra,Rarely,3090.0,4,3,4.0,3,4,3,4,2.0,1,4,3,391
+10921,18-24,20L+,Private Sector,Tier 2,Amazon,1-2/month,6876.0,4,3,3.0,5,4,3,4,4.0,4,3,7,341
+10922,45-54,<3L,Student,Tier 2,Myntra,3-5/month,6613.0,5,4,2.0,4,4,5,3,3.0,3,2,7,441
+10923,35-44,<3L,Private Sector,Tier 1,Amazon,3-5/month,5883.0,4,4,3.0,4,4,3,5,4.0,4,3,7,420
+10924,25-34,6-10L,Self-employed,Tier 2,Amazon,1-2/month,6623.0,3,4,3.0,4,4,3,4,3.0,2,2,6,365
+10925,18-24,<3L,Private Sector,Tier 1,Flipkart,1-2/month,4453.0,5,4,5.0,4,5,2,5,5.0,5,3,10,406
+10926,25-34,6-10L,Private Sector,Tier 1,Flipkart,1-2/month,5378.0,3,4,3.0,4,4,3,3,2.0,2,5,5,297
+10927,18-24,6-10L,Student,Tier 1,Myntra,3-5/month,7857.0,4,3,4.0,2,5,4,4,2.0,1,2,5,436
+10928,45-54,6-10L,Private Sector,Tier 3,Other,6+/month,11770.0,3,2,3.0,4,5,4,3,4.0,5,2,7,492
+10929,35-44,3-6L,Government,Tier 1,Amazon,6+/month,10866.0,3,5,4.0,3,5,3,4,5.0,5,2,10,370
+10930,35-44,6-10L,Private Sector,Tier 3,Amazon,1-2/month,5319.0,4,4,2.0,4,3,3,5,4.0,3,2,9,321
+10931,25-34,6-10L,Self-employed,Tier 1,Flipkart,1-2/month,6063.0,4,3,5.0,4,5,5,2,5.0,5,3,9,346
+10932,25-34,3-6L,Private Sector,Tier 2,Amazon,3-5/month,7454.0,4,4,4.0,3,4,5,2,4.0,3,3,6,435
+10933,25-34,6-10L,Self-employed,Tier 2,Amazon,3-5/month,7124.0,3,4,2.0,3,3,5,4,3.0,1,3,9,356
+10934,35-44,10-20L,Private Sector,Tier 2,Other,1-2/month,6340.0,3,5,3.0,3,3,5,3,4.0,5,1,10,246
+10935,35-44,6-10L,Private Sector,Tier 2,Myntra,1-2/month,6471.0,3,4,3.0,4,4,5,4,3.0,4,2,7,450
+10936,18-24,3-6L,Student,Tier 2,Other,Rarely,4715.0,4,5,3.0,4,4,5,3,4.0,4,2,8,267
+10937,55+,3-6L,Private Sector,Tier 3,Amazon,3-5/month,7293.0,3,3,4.0,5,4,3,4,4.0,4,2,10,400
+10938,18-24,<3L,Government,Tier 2,Amazon,3-5/month,7459.0,5,4,3.0,4,5,3,4,3.0,3,4,7,183
+10939,45-54,3-6L,Private Sector,Tier 1,Flipkart,1-2/month,4418.0,4,4,3.0,4,3,5,4,4.0,4,2,8,370
+10940,18-24,<3L,Student,Tier 1,Other,6+/month,9296.0,2,4,3.0,4,4,3,2,3.0,2,2,8,354
+10941,25-34,20L+,Self-employed,Tier 2,Amazon,3-5/month,9224.0,4,5,5.0,4,4,3,5,4.0,5,2,7,173
+10942,45-54,3-6L,Student,Tier 2,Amazon,6+/month,12148.0,4,4,5.0,4,4,3,4,4.0,3,2,7,392
+10943,18-24,10-20L,Private Sector,Tier 2,Amazon,1-2/month,6747.0,3,3,4.0,4,3,3,2,4.0,5,2,9,255
+10944,25-34,<3L,Other,Tier 2,Myntra,1-2/month,4402.0,4,3,4.0,3,4,2,4,3.0,2,3,7,368
+10945,25-34,3-6L,Private Sector,Tier 1,Myntra,6+/month,12190.0,3,5,3.0,3,3,2,4,3.0,2,3,8,321
+10946,18-24,3-6L,Self-employed,Tier 2,Flipkart,6+/month,10542.0,5,4,4.0,4,4,3,4,4.0,4,4,10,219
+10947,35-44,3-6L,Private Sector,Tier 2,Amazon,6+/month,12811.0,4,4,4.0,4,5,3,4,4.0,4,2,6,261
+10948,45-54,10-20L,Self-employed,Tier 2,Flipkart,3-5/month,8340.0,2,3,4.0,4,5,4,3,4.0,4,3,8,268
+10949,45-54,20L+,Government,Tier 2,Flipkart,1-2/month,6339.0,3,4,4.0,4,3,4,2,4.0,3,3,10,453
+10950,25-34,10-20L,Government,Tier 3,Amazon,1-2/month,6450.0,4,3,4.0,4,4,4,4,5.0,5,2,9,439
+10951,25-34,<3L,Private Sector,Tier 2,Amazon,1-2/month,4426.0,4,4,3.0,3,4,4,2,2.0,3,5,4,568
+10952,18-24,10-20L,Self-employed,Tier 3,Flipkart,6+/month,11373.0,2,3,5.0,4,5,3,5,5.0,5,1,6,311
+10953,18-24,<3L,Private Sector,Tier 1,Amazon,1-2/month,6992.0,3,4,4.0,4,4,4,3,5.0,5,2,10,308
+10954,18-24,10-20L,Other,Tier 2,Other,3-5/month,9087.0,2,3,5.0,3,2,4,4,3.0,3,3,8,373
+10955,55+,6-10L,Private Sector,Tier 2,Flipkart,6+/month,11868.0,4,1,4.0,4,5,3,3,3.0,2,3,8,326
+10956,45-54,3-6L,Private Sector,Tier 2,Amazon,6+/month,10384.0,4,3,5.0,4,4,2,3,4.0,3,3,7,305
+10957,35-44,<3L,Self-employed,Tier 1,Flipkart,6+/month,9630.0,3,3,5.0,3,4,4,3,3.0,4,3,7,365
+10958,25-34,<3L,Private Sector,Tier 2,Flipkart,3-5/month,7773.0,4,4,4.0,4,4,3,4,4.0,4,4,7,427
+10959,25-34,3-6L,Private Sector,Tier 1,Amazon,1-2/month,3792.0,4,4,3.0,3,3,4,3,2.0,2,3,5,159
+10960,25-34,10-20L,Government,Tier 3,Flipkart,6+/month,11071.0,3,5,3.0,4,4,4,4,4.0,4,2,6,306
+10961,25-34,10-20L,Student,Tier 1,Amazon,1-2/month,6377.0,3,4,4.0,3,4,3,3,3.0,3,2,7,227
+10962,25-34,20L+,Student,Tier 1,Amazon,1-2/month,8466.0,2,4,4.0,5,4,4,3,4.0,5,2,7,345
+10963,18-24,<3L,Private Sector,Tier 2,Flipkart,6+/month,9813.0,5,4,3.0,4,4,4,4,3.0,4,4,4,401
+10964,18-24,6-10L,Private Sector,Tier 1,Flipkart,3-5/month,8525.0,4,4,4.0,3,5,4,4,5.0,3,1,10,466
+10965,55+,3-6L,Private Sector,Tier 1,Amazon,3-5/month,7525.0,4,4,4.0,5,3,4,3,3.0,4,4,7,319
+10966,25-34,6-10L,Student,Tier 2,Amazon,Rarely,6017.0,4,4,5.0,3,4,3,4,3.0,4,3,8,370
+10967,55+,3-6L,Private Sector,Tier 2,Flipkart,1-2/month,3874.0,4,4,3.0,3,4,4,3,2.0,2,3,4,200
+10968,18-24,3-6L,Private Sector,Tier 1,Amazon,6+/month,11462.0,3,2,5.0,3,4,3,4,4.0,4,3,9,278
+10969,25-34,6-10L,Student,Tier 2,Other,3-5/month,7971.0,3,5,4.0,5,4,3,3,5.0,5,2,10,380
+10970,18-24,<3L,Private Sector,Tier 2,Flipkart,1-2/month,5482.0,5,5,5.0,5,5,4,4,5.0,5,2,10,231
+10971,25-34,3-6L,Private Sector,Tier 2,Myntra,3-5/month,6763.0,5,4,5.0,3,4,4,3,3.0,3,3,8,478
+10972,18-24,6-10L,Student,Tier 1,Amazon,6+/month,11472.0,2,3,4.0,3,4,4,3,3.0,3,3,7,410
+10973,18-24,<3L,Private Sector,Tier 1,Myntra,6+/month,10058.0,4,5,4.0,4,4,3,4,5.0,4,1,8,274
+10974,45-54,20L+,Self-employed,Tier 3,Amazon,1-2/month,6348.0,4,3,5.0,3,5,2,3,4.0,5,2,8,219
+10975,25-34,6-10L,Private Sector,Tier 2,Amazon,3-5/month,6998.0,5,4,4.0,4,4,5,5,4.0,4,3,6,292
+10976,35-44,10-20L,Private Sector,Tier 1,Amazon,1-2/month,6078.0,5,3,4.0,4,3,2,4,4.0,5,1,7,275
+10977,25-34,6-10L,Private Sector,Tier 3,Amazon,1-2/month,6067.0,3,5,4.0,4,5,4,2,4.0,4,2,10,244
+10978,25-34,6-10L,Student,Tier 1,Other,1-2/month,5269.0,4,3,2.0,3,4,5,3,3.0,3,3,5,226
+10979,25-34,6-10L,Self-employed,Tier 2,Flipkart,3-5/month,7853.0,3,4,3.0,4,4,4,3,3.0,2,5,3,338
+10980,18-24,10-20L,Self-employed,Tier 2,Flipkart,3-5/month,7103.0,4,2,4.0,3,4,4,4,3.0,3,4,8,430
+10981,55+,6-10L,Self-employed,Tier 3,Flipkart,1-2/month,5616.0,4,4,4.0,4,3,4,4,4.0,4,3,7,292
+10982,45-54,3-6L,Private Sector,Tier 3,Flipkart,1-2/month,6221.0,3,3,4.0,3,2,4,3,3.0,3,2,8,402
+10983,35-44,<3L,Private Sector,Tier 1,Flipkart,1-2/month,5285.0,4,5,4.0,4,3,5,4,3.0,3,3,5,329
+10984,25-34,6-10L,Student,Tier 2,Myntra,Rarely,4772.0,4,3,4.0,3,4,3,3,5.0,5,1,9,418
+10985,18-24,<3L,Private Sector,Tier 1,Flipkart,3-5/month,7069.0,4,5,3.0,4,5,3,4,3.0,4,3,9,285
+10986,45-54,3-6L,Private Sector,Tier 2,Myntra,1-2/month,4555.0,4,3,4.0,4,4,3,4,4.0,3,3,6,387
+10987,25-34,<3L,Private Sector,Tier 2,Amazon,Rarely,5012.0,3,4,4.0,4,3,5,4,4.0,4,1,8,371
+10988,18-24,6-10L,Student,Tier 1,Other,6+/month,13311.0,4,3,3.0,4,3,3,3,3.0,4,3,7,489
+10989,25-34,<3L,Self-employed,Tier 1,Amazon,1-2/month,4798.0,4,4,4.0,2,5,4,3,4.0,3,3,7,413
+10990,45-54,6-10L,Student,Tier 1,Amazon,6+/month,13782.0,3,4,4.0,2,3,4,4,3.0,3,2,7,384
+10991,35-44,10-20L,Student,Tier 1,Other,3-5/month,8188.0,3,4,3.0,4,5,4,5,5.0,5,1,10,220
+10992,35-44,10-20L,Self-employed,Tier 1,Amazon,3-5/month,7674.0,3,4,4.0,4,5,4,4,5.0,3,1,10,310
+10993,45-54,3-6L,Government,Tier 3,Amazon,3-5/month,6861.0,3,4,5.0,4,5,5,5,5.0,5,1,10,284
+10994,18-24,6-10L,Private Sector,Tier 2,Amazon,1-2/month,5752.0,3,3,5.0,3,4,4,4,4.0,5,2,10,282
+10995,45-54,6-10L,Private Sector,Tier 2,Flipkart,3-5/month,10231.0,2,4,4.0,4,4,3,3,4.0,2,3,9,361
+10996,25-34,3-6L,Private Sector,Tier 3,Other,3-5/month,7247.0,5,5,4.0,4,4,4,3,4.0,5,2,8,383
+10997,35-44,6-10L,Student,Tier 2,Myntra,1-2/month,5176.0,4,2,3.0,4,5,3,5,3.0,4,4,7,387
+10998,18-24,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,6691.0,3,4,5.0,4,4,5,2,5.0,4,3,9,480
+10999,55+,20L+,Private Sector,Tier 3,Other,3-5/month,10476.0,1,4,5.0,3,3,3,5,3.0,4,3,4,406
+11000,25-34,<3L,Private Sector,Tier 2,Flipkart,6+/month,11048.0,5,5,4.0,4,4,4,3,4.0,5,2,8,243
+11001,18-24,10-20L,Student,Tier 2,Other,3-5/month,8363.0,4,4,2.0,4,3,2,5,1.0,1,4,5,379
+11002,25-34,6-10L,Government,Tier 3,Amazon,Rarely,3162.0,4,4,4.0,4,5,4,3,4.0,3,3,6,416
+11003,18-24,3-6L,Self-employed,Tier 2,Flipkart,6+/month,9784.0,4,4,4.0,5,4,3,4,5.0,5,2,8,480
+11004,18-24,10-20L,Student,Tier 2,Amazon,6+/month,13649.0,4,3,4.0,4,4,4,5,4.0,5,2,7,345
+11005,35-44,<3L,Student,Tier 3,Amazon,3-5/month,7470.0,4,4,3.0,5,5,4,3,4.0,4,2,9,346
+11006,25-34,10-20L,Private Sector,Tier 2,Flipkart,Rarely,5559.0,3,3,4.0,3,5,5,3,3.0,3,3,10,462
+11007,45-54,6-10L,Self-employed,Tier 3,Amazon,3-5/month,9832.0,3,5,4.0,3,4,5,3,4.0,3,2,7,377
+11008,25-34,<3L,Government,Tier 1,Flipkart,3-5/month,8612.0,4,4,3.0,2,4,4,3,3.0,3,3,7,208
+11009,35-44,<3L,Government,Tier 1,Flipkart,1-2/month,4618.0,5,3,3.0,4,3,3,3,3.0,4,3,7,188
+11010,25-34,10-20L,Private Sector,Tier 2,Amazon,6+/month,12084.0,3,4,4.0,4,5,3,3,5.0,5,1,9,535
+11011,35-44,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,6976.0,5,5,5.0,2,5,4,2,4.0,4,2,8,197
+11012,35-44,10-20L,Private Sector,Tier 3,Flipkart,6+/month,11844.0,3,4,4.0,4,3,4,3,4.0,4,2,7,344
+11013,25-34,10-20L,Student,Tier 1,Other,3-5/month,7462.0,3,3,5.0,4,5,4,4,5.0,4,1,10,444
+11014,55+,6-10L,Government,Tier 2,Amazon,1-2/month,4609.0,5,1,4.0,4,4,3,3,3.0,2,3,8,192
+11015,25-34,3-6L,Student,Tier 1,Other,6+/month,9250.0,5,4,5.0,3,4,5,3,4.0,5,4,7,257
+11016,18-24,6-10L,Private Sector,Tier 3,Myntra,3-5/month,9126.0,5,3,2.0,4,4,2,5,2.0,4,4,7,242
+11017,35-44,20L+,Private Sector,Tier 1,Flipkart,1-2/month,5845.0,2,4,5.0,4,4,3,2,3.0,2,4,7,531
+11018,45-54,<3L,Private Sector,Tier 1,Amazon,1-2/month,6405.0,5,5,5.0,4,4,3,5,4.0,5,3,8,552
+11019,18-24,3-6L,Private Sector,Tier 1,Flipkart,Rarely,3543.0,4,5,4.0,4,3,3,3,4.0,5,2,8,290
+11020,25-34,3-6L,Private Sector,Tier 2,Myntra,3-5/month,9064.0,3,5,4.0,4,4,5,4,3.0,2,4,6,415
+11021,45-54,3-6L,Self-employed,Tier 3,Amazon,1-2/month,4971.0,2,5,4.0,5,4,3,5,4.0,4,2,6,389
+11022,35-44,10-20L,Self-employed,Tier 3,Other,6+/month,10690.0,3,5,4.0,4,3,4,5,4.0,4,4,6,333
+11023,55+,3-6L,Self-employed,Tier 1,Other,6+/month,11955.0,3,5,3.0,4,3,4,4,3.0,5,3,7,205
+11024,25-34,6-10L,Private Sector,Tier 2,Flipkart,3-5/month,9412.0,4,5,4.0,5,3,3,3,5.0,5,2,9,579
+11025,35-44,3-6L,Private Sector,Tier 1,Flipkart,1-2/month,4485.0,3,4,4.0,4,4,4,3,3.0,3,3,8,187
+11026,25-34,<3L,Private Sector,Tier 2,Flipkart,3-5/month,6552.0,5,3,4.0,3,4,4,3,4.0,3,3,7,380
+11027,55+,3-6L,Private Sector,Tier 2,Myntra,Rarely,3385.0,4,5,5.0,4,4,3,5,3.0,4,3,5,298
+11028,25-34,10-20L,Private Sector,Tier 1,Myntra,3-5/month,8692.0,5,4,4.0,5,5,3,3,4.0,5,2,9,456
+11029,35-44,6-10L,Private Sector,Tier 2,Amazon,1-2/month,6047.0,3,5,3.0,5,4,4,4,3.0,4,3,6,440
+11030,25-34,3-6L,Student,Tier 3,Amazon,6+/month,10484.0,5,3,5.0,4,4,5,3,4.0,3,4,10,267
+11031,25-34,10-20L,Student,Tier 1,Amazon,1-2/month,4963.0,2,4,3.0,2,4,5,3,4.0,4,1,8,285
+11032,35-44,<3L,Self-employed,Tier 1,Other,1-2/month,4127.0,4,2,3.0,3,5,5,4,3.0,2,4,10,213
+11033,25-34,3-6L,Student,Tier 1,Amazon,6+/month,11433.0,3,3,4.0,3,3,4,3,3.0,4,3,8,379
+11034,45-54,3-6L,Private Sector,Tier 1,Other,3-5/month,7312.0,3,4,4.0,4,5,3,3,4.0,4,2,9,428
+11035,25-34,20L+,Private Sector,Tier 1,Flipkart,6+/month,12455.0,3,4,4.0,5,5,4,2,4.0,5,2,9,318
+11036,35-44,6-10L,Student,Tier 2,Amazon,6+/month,10612.0,3,4,3.0,3,4,4,3,3.0,3,4,6,337
+11037,25-34,6-10L,Self-employed,Tier 1,Other,1-2/month,5401.0,3,3,3.0,5,5,3,5,4.0,4,3,6,541
+11038,25-34,<3L,Student,Tier 2,Flipkart,1-2/month,5918.0,4,4,4.0,4,4,4,3,3.0,3,4,7,449
+11039,25-34,<3L,Self-employed,Tier 3,Amazon,3-5/month,5824.0,4,5,5.0,3,4,4,4,3.0,3,3,10,488
+11040,18-24,6-10L,Self-employed,Tier 3,Amazon,3-5/month,8799.0,4,5,3.0,4,4,3,1,4.0,3,3,5,147
+11041,18-24,3-6L,Private Sector,Tier 2,Amazon,6+/month,10842.0,4,4,5.0,4,5,4,3,4.0,5,3,9,412
+11042,35-44,10-20L,Student,Tier 1,Amazon,1-2/month,6820.0,4,3,5.0,4,4,2,2,3.0,5,3,4,384
+11043,35-44,10-20L,Private Sector,Tier 1,Amazon,3-5/month,8141.0,2,3,3.0,3,4,3,5,4.0,4,2,8,241
+11044,35-44,3-6L,Private Sector,Tier 1,Flipkart,1-2/month,4983.0,3,5,2.0,4,4,5,4,4.0,4,3,8,261
+11045,18-24,10-20L,Private Sector,Tier 3,Amazon,3-5/month,8795.0,4,4,3.0,3,5,4,3,4.0,5,4,9,339
+11046,25-34,20L+,Other,Tier 3,Amazon,3-5/month,8981.0,3,3,3.0,3,3,3,4,3.0,4,3,7,233
+11047,18-24,3-6L,Private Sector,Tier 1,Amazon,6+/month,11098.0,3,3,5.0,4,5,5,5,5.0,5,1,10,284
+11048,35-44,6-10L,Self-employed,Tier 1,Amazon,1-2/month,6362.0,4,3,4.0,3,3,3,5,4.0,4,4,10,316
+11049,45-54,10-20L,Student,Tier 2,Other,1-2/month,8555.0,3,4,3.0,5,2,2,3,3.0,2,4,6,414
+11050,18-24,3-6L,Other,Tier 1,Amazon,1-2/month,5550.0,3,4,4.0,3,3,4,2,4.0,5,3,10,293
+11051,35-44,10-20L,Private Sector,Tier 3,Amazon,Rarely,3779.0,4,2,3.0,4,5,2,3,3.0,4,5,6,318
+11052,18-24,<3L,Private Sector,Tier 1,Flipkart,1-2/month,5697.0,4,4,4.0,3,4,3,4,3.0,4,3,6,457
+11053,25-34,6-10L,Private Sector,Tier 1,Other,6+/month,11267.0,3,2,3.0,5,4,4,5,3.0,4,2,5,192
+11054,18-24,10-20L,Student,Tier 1,Myntra,1-2/month,8411.0,3,5,3.0,3,4,3,3,3.0,3,2,9,382
+11055,25-34,6-10L,Self-employed,Tier 1,Myntra,1-2/month,7274.0,3,4,4.0,5,4,4,3,4.0,3,1,8,397
+11056,35-44,6-10L,Private Sector,Tier 1,Other,3-5/month,7695.0,3,3,5.0,5,4,3,5,5.0,5,2,6,400
+11057,45-54,6-10L,Private Sector,Tier 3,Flipkart,1-2/month,6600.0,4,4,5.0,3,3,4,4,4.0,4,2,9,312
+11058,18-24,<3L,Private Sector,Tier 1,Other,1-2/month,4115.0,4,4,3.0,4,4,2,2,3.0,4,3,6,259
+11059,25-34,3-6L,Private Sector,Tier 2,Amazon,6+/month,10802.0,4,5,3.0,3,4,5,3,3.0,2,3,6,504
+11060,35-44,3-6L,Student,Tier 1,Myntra,Rarely,4808.0,4,4,4.0,4,3,3,4,4.0,5,3,8,279
+11061,55+,6-10L,Student,Tier 1,Myntra,1-2/month,6952.0,3,4,5.0,4,3,5,3,5.0,5,1,9,254
+11062,35-44,3-6L,Student,Tier 1,Other,3-5/month,8306.0,2,4,2.0,4,4,3,4,3.0,3,2,10,362
+11063,25-34,3-6L,Private Sector,Tier 1,Flipkart,1-2/month,5367.0,3,4,4.0,4,4,5,2,4.0,4,2,10,290
+11064,35-44,10-20L,Student,Tier 1,Myntra,1-2/month,8835.0,3,5,3.0,3,4,3,2,2.0,3,4,6,460
+11065,25-34,3-6L,Other,Tier 1,Amazon,1-2/month,4971.0,3,3,2.0,4,4,2,3,3.0,5,3,7,335
+11066,55+,3-6L,Private Sector,Tier 3,Flipkart,1-2/month,3854.0,4,4,3.0,4,4,4,3,5.0,5,2,10,472
+11067,25-34,3-6L,Private Sector,Tier 2,Amazon,6+/month,9527.0,4,3,3.0,4,4,5,4,3.0,4,4,7,403
+11068,35-44,<3L,Private Sector,Tier 3,Flipkart,1-2/month,5977.0,5,2,4.0,4,4,4,4,4.0,5,5,10,323
+11069,18-24,10-20L,Private Sector,Tier 1,Flipkart,1-2/month,6531.0,3,4,5.0,4,5,5,5,4.0,5,3,9,466
+11070,25-34,3-6L,Private Sector,Tier 2,Amazon,1-2/month,5443.0,5,4,4.0,3,2,4,3,3.0,1,4,7,298
+11071,45-54,<3L,Private Sector,Tier 2,Amazon,6+/month,9662.0,5,4,5.0,3,4,3,3,4.0,4,2,10,330
+11072,35-44,20L+,Private Sector,Tier 1,Amazon,Rarely,5743.0,3,2,4.0,4,4,4,3,3.0,4,3,6,410
+11073,25-34,10-20L,Private Sector,Tier 1,Flipkart,6+/month,11392.0,3,4,3.0,5,4,4,4,4.0,4,2,8,382
+11074,55+,6-10L,Private Sector,Tier 2,Flipkart,1-2/month,6374.0,4,4,4.0,4,5,3,4,4.0,5,3,7,296
+11075,45-54,3-6L,Other,Tier 2,Myntra,6+/month,12012.0,3,3,4.0,3,3,4,3,4.0,5,2,7,214
+11076,25-34,10-20L,Private Sector,Tier 2,Amazon,1-2/month,6992.0,3,3,5.0,3,5,4,5,4.0,4,2,4,358
+11077,25-34,3-6L,Private Sector,Tier 1,Myntra,Rarely,4505.0,3,4,4.0,3,3,5,3,3.0,2,3,7,291
+11078,25-34,6-10L,Student,Tier 3,Flipkart,1-2/month,5567.0,2,4,3.0,3,4,3,4,3.0,3,4,8,363
+11079,35-44,6-10L,Private Sector,Tier 1,Amazon,1-2/month,4637.0,4,4,4.0,4,4,3,5,4.0,4,4,10,320
+11080,25-34,3-6L,Government,Tier 3,Amazon,3-5/month,6109.0,3,3,4.0,4,4,3,2,4.0,5,3,6,292
+11081,18-24,3-6L,Student,Tier 3,Flipkart,3-5/month,10224.0,3,4,5.0,3,3,5,4,2.0,2,4,6,335
+11082,45-54,<3L,Private Sector,Tier 3,Amazon,3-5/month,8180.0,4,5,3.0,3,4,3,1,3.0,4,3,7,353
+11083,45-54,6-10L,Private Sector,Tier 2,Amazon,1-2/month,7156.0,2,3,3.0,4,5,5,4,4.0,5,3,9,426
+11084,45-54,10-20L,Student,Tier 1,Amazon,3-5/month,8193.0,4,4,4.0,4,3,3,3,4.0,5,2,7,400
+11085,55+,10-20L,Other,Tier 2,Amazon,1-2/month,6609.0,4,5,4.0,3,4,4,4,4.0,4,2,8,559
+11086,35-44,3-6L,Private Sector,Tier 2,Amazon,6+/month,10066.0,3,3,3.0,4,5,4,4,4.0,4,4,6,373
+11087,35-44,3-6L,Self-employed,Tier 2,Amazon,3-5/month,6319.0,4,5,5.0,5,4,5,4,5.0,5,2,9,296
+11089,25-34,6-10L,Other,Tier 1,Flipkart,6+/month,12644.0,4,3,5.0,5,4,4,4,4.0,5,3,8,414
+11090,25-34,10-20L,Private Sector,Tier 1,Flipkart,3-5/month,9557.0,3,3,3.0,3,4,3,3,2.0,2,4,2,455
+11091,18-24,10-20L,Private Sector,Tier 2,Flipkart,3-5/month,7927.0,3,4,4.0,4,3,5,3,3.0,2,1,6,487
+11092,35-44,10-20L,Self-employed,Tier 2,Flipkart,1-2/month,6317.0,4,3,4.0,3,4,3,3,4.0,4,1,8,263
+11093,25-34,10-20L,Private Sector,Tier 3,Amazon,3-5/month,9474.0,3,2,4.0,4,4,2,3,4.0,4,3,10,482
+11094,25-34,20L+,Private Sector,Tier 2,Amazon,1-2/month,6736.0,2,3,4.0,5,4,2,3,4.0,4,1,7,356
+11095,35-44,3-6L,Other,Tier 2,Amazon,Rarely,4272.0,4,4,5.0,4,4,2,3,3.0,3,3,7,272
+11096,25-34,<3L,Private Sector,Tier 1,Flipkart,3-5/month,7212.0,4,4,3.0,3,4,4,2,3.0,4,2,6,341
+11097,18-24,<3L,Government,Tier 2,Flipkart,Rarely,3902.0,4,3,3.0,3,4,5,2,3.0,4,3,6,475
+11098,45-54,3-6L,Government,Tier 1,Amazon,3-5/month,7729.0,4,4,5.0,4,5,2,1,4.0,4,2,7,403
+11099,45-54,3-6L,Self-employed,Tier 1,Flipkart,1-2/month,4712.0,5,4,4.0,4,4,3,3,3.0,3,4,5,245
+11100,18-24,<3L,Self-employed,Tier 1,Other,1-2/month,4154.0,5,4,3.0,4,5,4,4,3.0,2,4,6,246
+11101,18-24,20L+,Private Sector,Tier 1,Amazon,6+/month,11730.0,2,2,3.0,4,4,5,1,3.0,3,2,8,243
+11102,25-34,<3L,Private Sector,Tier 1,Flipkart,Rarely,2145.0,3,5,5.0,4,4,3,4,3.0,5,3,5,291
+11103,45-54,20L+,Student,Tier 2,Flipkart,3-5/month,9347.0,2,3,3.0,4,4,4,3,3.0,4,2,5,367
+11104,45-54,10-20L,Private Sector,Tier 1,Flipkart,3-5/month,9535.0,3,4,5.0,4,5,3,2,5.0,5,2,10,253
+11105,18-24,6-10L,Self-employed,Tier 1,Flipkart,6+/month,10208.0,4,3,4.0,4,5,5,3,3.0,5,4,7,319
+11106,35-44,6-10L,Private Sector,Tier 1,Flipkart,1-2/month,6196.0,3,4,4.0,4,3,4,4,4.0,4,2,8,493
+11107,18-24,3-6L,Student,Tier 2,Amazon,3-5/month,8206.0,3,4,4.0,4,5,4,3,5.0,4,3,10,514
+11108,25-34,6-10L,Private Sector,Tier 2,Flipkart,1-2/month,4297.0,3,4,5.0,4,4,4,4,5.0,4,2,8,507
+11109,55+,<3L,Private Sector,Tier 1,Myntra,1-2/month,4406.0,4,3,2.0,3,4,3,4,3.0,2,3,5,189
+11110,18-24,20L+,Self-employed,Tier 1,Amazon,1-2/month,8732.0,3,2,4.0,3,3,4,3,4.0,4,2,10,519
+11111,18-24,3-6L,Student,Tier 3,Other,1-2/month,5797.0,3,5,3.0,4,3,3,4,5.0,4,1,10,369
+11112,25-34,3-6L,Private Sector,Tier 2,Amazon,1-2/month,3617.0,5,4,4.0,3,4,2,4,3.0,3,2,8,367
+11113,35-44,6-10L,Self-employed,Tier 2,Flipkart,Rarely,5443.0,3,5,4.0,4,3,3,3,4.0,3,1,10,458
+11114,55+,6-10L,Other,Tier 2,Flipkart,1-2/month,5277.0,5,4,3.0,4,4,4,5,5.0,4,3,10,427
+11115,55+,3-6L,Student,Tier 3,Flipkart,3-5/month,8122.0,3,4,4.0,4,5,3,4,3.0,3,4,4,182
+11116,18-24,6-10L,Other,Tier 3,Myntra,1-2/month,5329.0,5,3,4.0,4,4,4,2,4.0,5,2,8,302
+11117,18-24,<3L,Private Sector,Tier 1,Amazon,1-2/month,4602.0,5,4,3.0,4,4,3,3,3.0,5,3,8,325
+11118,45-54,6-10L,Self-employed,Tier 2,Flipkart,1-2/month,5466.0,3,5,4.0,3,3,4,5,4.0,5,1,9,234
+11119,25-34,3-6L,Student,Tier 1,Flipkart,1-2/month,5303.0,3,4,4.0,4,4,4,3,3.0,4,2,7,455
+11120,45-54,3-6L,Private Sector,Tier 2,Myntra,3-5/month,6989.0,3,5,3.0,4,4,4,4,5.0,4,2,7,497
+11121,35-44,<3L,Private Sector,Tier 1,Flipkart,6+/month,9949.0,3,3,5.0,3,3,4,5,4.0,4,2,7,359
+11122,18-24,3-6L,Private Sector,Tier 1,Other,3-5/month,6442.0,4,3,5.0,5,3,2,4,5.0,5,1,10,388
+11123,45-54,3-6L,Private Sector,Tier 3,Other,3-5/month,7942.0,4,5,4.0,5,3,3,4,2.0,2,5,3,359
+11124,18-24,3-6L,Private Sector,Tier 3,Amazon,Rarely,4358.0,3,3,5.0,4,4,4,4,4.0,5,2,9,369
+11125,25-34,<3L,Private Sector,Tier 1,Myntra,6+/month,8695.0,5,5,4.0,4,4,4,4,5.0,5,1,10,466
+11126,25-34,<3L,Student,Tier 3,Other,1-2/month,5544.0,4,5,5.0,4,4,4,3,4.0,4,3,5,192
+11127,25-34,6-10L,Private Sector,Tier 1,Amazon,1-2/month,5791.0,4,5,5.0,4,4,3,4,3.0,5,3,6,406
+11128,35-44,<3L,Student,Tier 2,Flipkart,1-2/month,4796.0,3,5,4.0,4,4,4,3,4.0,3,3,8,361
+11129,35-44,6-10L,Self-employed,Tier 3,Amazon,Rarely,5538.0,3,3,3.0,4,4,5,3,4.0,4,2,8,292
+11130,55+,3-6L,Other,Tier 1,Flipkart,3-5/month,9745.0,3,2,4.0,3,4,4,5,4.0,4,3,10,312
+11131,55+,3-6L,Private Sector,Tier 2,Amazon,1-2/month,6349.0,4,5,4.0,3,4,4,3,3.0,2,4,8,534
+11132,25-34,10-20L,Student,Tier 2,Flipkart,1-2/month,6336.0,3,2,4.0,4,4,3,5,5.0,5,1,8,234
+11133,18-24,<3L,Student,Tier 1,Amazon,1-2/month,5581.0,5,5,4.0,4,4,3,4,3.0,5,3,4,344
+11134,35-44,<3L,Private Sector,Tier 1,Flipkart,6+/month,10261.0,4,4,3.0,3,5,4,3,4.0,5,3,8,515
+11135,55+,6-10L,Self-employed,Tier 1,Amazon,3-5/month,8607.0,4,4,4.0,4,4,5,2,4.0,5,2,8,239
+11136,25-34,10-20L,Private Sector,Tier 2,Flipkart,6+/month,12463.0,3,4,3.0,4,4,4,5,4.0,2,2,10,317
+11137,25-34,10-20L,Student,Tier 1,Flipkart,6+/month,13217.0,3,4,3.0,3,4,4,3,3.0,4,3,9,364
+11138,25-34,<3L,Student,Tier 1,Flipkart,6+/month,10799.0,4,4,3.0,2,5,3,2,3.0,4,3,10,399
+11139,18-24,10-20L,Private Sector,Tier 2,Amazon,1-2/month,6201.0,4,5,3.0,3,3,3,4,3.0,3,3,6,352
+11140,35-44,3-6L,Self-employed,Tier 1,Amazon,1-2/month,4723.0,4,5,5.0,4,5,4,3,4.0,4,1,10,275
+11141,25-34,3-6L,Private Sector,Tier 1,Flipkart,1-2/month,5255.0,4,4,5.0,4,4,5,3,5.0,5,2,10,403
+11142,35-44,<3L,Private Sector,Tier 2,Other,1-2/month,3966.0,4,3,4.0,4,5,5,4,4.0,4,3,6,350
+11143,45-54,20L+,Private Sector,Tier 2,Amazon,3-5/month,8503.0,3,4,4.0,4,4,2,1,4.0,5,2,5,420
+11144,45-54,<3L,Other,Tier 1,Flipkart,Rarely,1635.0,4,2,4.0,3,3,5,3,3.0,5,4,7,448
+11145,25-34,10-20L,Private Sector,Tier 3,Amazon,Rarely,4106.0,3,4,3.0,3,4,4,3,4.0,3,2,6,219
+11146,25-34,6-10L,Self-employed,Tier 2,Flipkart,3-5/month,9937.0,3,4,5.0,4,5,4,4,5.0,5,1,8,458
+11147,35-44,10-20L,Self-employed,Tier 1,Amazon,Rarely,4909.0,4,3,5.0,4,4,2,5,4.0,3,3,7,336
+11148,45-54,6-10L,Private Sector,Tier 2,Flipkart,Rarely,6563.0,4,4,4.0,4,4,3,3,4.0,5,3,9,438
+11150,45-54,<3L,Private Sector,Tier 2,Amazon,3-5/month,6805.0,3,3,4.0,5,4,3,5,4.0,2,3,8,536
+11151,18-24,<3L,Government,Tier 2,Amazon,Rarely,2199.0,4,5,3.0,3,4,1,4,3.0,3,2,6,361
+11152,45-54,6-10L,Student,Tier 2,Amazon,Rarely,4854.0,2,3,4.0,5,3,4,4,4.0,4,2,5,322
+11153,18-24,3-6L,Private Sector,Tier 3,Flipkart,1-2/month,7003.0,4,4,4.0,5,5,4,2,5.0,4,3,10,311
+11154,18-24,<3L,Student,Tier 2,Other,3-5/month,8252.0,3,2,3.0,4,3,5,5,4.0,5,3,8,261
+11155,25-34,<3L,Student,Tier 3,Flipkart,1-2/month,4897.0,3,4,3.0,4,4,3,3,3.0,4,4,6,437
+11156,18-24,3-6L,Student,Tier 2,Other,Rarely,3166.0,4,4,5.0,3,4,4,4,3.0,4,4,9,255
+11157,18-24,<3L,Private Sector,Tier 3,Flipkart,6+/month,9289.0,3,3,4.0,4,4,4,4,4.0,4,2,6,436
+11158,18-24,<3L,Private Sector,Tier 3,Amazon,6+/month,9383.0,3,4,4.0,5,3,4,4,4.0,4,1,7,339
+11159,25-34,10-20L,Private Sector,Tier 1,Amazon,1-2/month,7750.0,3,3,4.0,3,3,3,3,4.0,4,2,8,192
+11160,35-44,3-6L,Private Sector,Tier 1,Amazon,1-2/month,6769.0,4,5,3.0,4,4,4,4,4.0,4,3,7,501
+11161,18-24,3-6L,Other,Tier 2,Amazon,1-2/month,7426.0,2,4,4.0,4,3,3,5,4.0,4,3,9,39
+11162,35-44,20L+,Other,Tier 1,Myntra,3-5/month,9177.0,3,4,4.0,4,3,4,5,5.0,5,1,10,352
+11163,45-54,<3L,Student,Tier 2,Flipkart,1-2/month,6044.0,4,4,4.0,4,4,4,3,4.0,3,2,10,382
+11164,18-24,6-10L,Private Sector,Tier 2,Flipkart,6+/month,10569.0,4,3,4.0,4,3,4,3,4.0,3,2,9,141
+11165,18-24,6-10L,Government,Tier 3,Flipkart,3-5/month,8197.0,4,3,4.0,4,4,4,3,3.0,3,3,6,402
+11166,45-54,6-10L,Government,Tier 1,Amazon,3-5/month,8567.0,2,4,5.0,4,4,3,5,4.0,5,1,8,296
+11167,45-54,<3L,Private Sector,Tier 2,Flipkart,Rarely,2773.0,5,4,5.0,5,4,2,4,3.0,4,3,7,336
+11168,25-34,<3L,Self-employed,Tier 1,Amazon,6+/month,9578.0,3,5,4.0,3,4,3,4,4.0,4,2,8,488
+11169,45-54,<3L,Student,Tier 2,Amazon,3-5/month,6208.0,4,4,5.0,4,3,4,4,4.0,5,2,8,374
+11170,18-24,6-10L,Private Sector,Tier 1,Amazon,3-5/month,9425.0,3,4,4.0,3,3,4,5,3.0,3,3,7,327
+11171,25-34,20L+,Government,Tier 2,Amazon,Rarely,7873.0,3,2,2.0,4,4,4,3,3.0,4,2,7,344
+11172,35-44,6-10L,Private Sector,Tier 2,Flipkart,3-5/month,8253.0,5,4,4.0,5,3,4,3,3.0,4,3,7,529
+11173,25-34,6-10L,Self-employed,Tier 2,Amazon,3-5/month,7909.0,3,3,3.0,4,4,4,5,4.0,5,2,7,398
+11174,35-44,20L+,Student,Tier 2,Amazon,6+/month,12210.0,3,3,4.0,4,4,3,4,2.0,1,4,7,276
+11175,25-34,6-10L,Student,Tier 1,Other,3-5/month,8152.0,3,5,3.0,4,3,4,4,3.0,2,3,5,314
+11176,35-44,<3L,Student,Tier 1,Other,1-2/month,4155.0,3,4,4.0,4,4,4,5,4.0,4,5,9,247
+11177,25-34,10-20L,Student,Tier 1,Flipkart,1-2/month,6513.0,4,4,4.0,4,4,3,4,3.0,4,3,6,317
+11178,25-34,3-6L,Student,Tier 3,Flipkart,3-5/month,7872.0,4,4,5.0,3,4,4,5,5.0,5,2,10,513
+11179,18-24,<3L,Private Sector,Tier 3,Myntra,6+/month,9785.0,3,4,5.0,4,4,2,4,4.0,3,2,10,344
+11180,18-24,6-10L,Private Sector,Tier 1,Amazon,3-5/month,7979.0,3,3,3.0,3,4,4,4,4.0,4,2,8,233
+11181,35-44,20L+,Government,Tier 1,Flipkart,1-2/month,7083.0,3,4,3.0,4,5,3,4,4.0,4,4,10,401
+11182,18-24,3-6L,Private Sector,Tier 1,Amazon,Rarely,3914.0,4,5,5.0,4,5,5,3,4.0,5,3,8,323
+11183,18-24,6-10L,Student,Tier 2,Amazon,3-5/month,7753.0,2,4,5.0,3,3,3,3,3.0,5,1,8,413
+11184,18-24,<3L,Government,Tier 1,Other,6+/month,10836.0,5,5,4.0,4,4,4,3,4.0,5,2,7,337
+11185,18-24,<3L,Student,Tier 1,Myntra,Rarely,1956.0,4,4,4.0,4,4,3,4,4.0,3,2,9,497
+11186,45-54,<3L,Self-employed,Tier 1,Other,1-2/month,6067.0,3,3,4.0,5,4,2,3,5.0,5,1,8,273
+11187,25-34,6-10L,Student,Tier 1,Myntra,6+/month,11572.0,3,2,2.0,3,3,3,4,3.0,4,2,7,249
+11188,55+,10-20L,Private Sector,Tier 1,Flipkart,1-2/month,7149.0,5,2,3.0,4,4,4,4,3.0,3,3,7,449
+11189,18-24,<3L,Self-employed,Tier 1,Myntra,1-2/month,5303.0,3,4,4.0,3,3,4,4,4.0,3,1,10,170
+11190,35-44,3-6L,Private Sector,Tier 2,Flipkart,1-2/month,4663.0,3,4,3.0,4,4,4,4,4.0,4,2,7,344
+11191,25-34,<3L,Private Sector,Tier 2,Flipkart,1-2/month,3827.0,5,4,3.0,5,4,3,3,5.0,5,3,10,436
+11192,25-34,<3L,Government,Tier 1,Amazon,Rarely,2621.0,4,4,5.0,5,4,3,3,5.0,5,3,8,152
+11193,45-54,6-10L,Student,Tier 2,Flipkart,3-5/month,7928.0,3,4,3.0,5,3,3,2,3.0,2,3,7,366
+11194,55+,6-10L,Government,Tier 2,Amazon,3-5/month,8779.0,4,4,4.0,4,5,2,3,3.0,3,4,7,218
+11195,45-54,6-10L,Self-employed,Tier 2,Flipkart,3-5/month,7625.0,4,4,4.0,5,4,4,3,3.0,4,3,8,185
+11196,18-24,3-6L,Other,Tier 3,Amazon,3-5/month,8047.0,4,3,4.0,5,3,3,4,3.0,5,4,6,259
+11197,18-24,6-10L,Private Sector,Tier 1,Flipkart,Rarely,2719.0,3,5,3.0,3,4,4,3,3.0,3,2,7,343
+11198,35-44,<3L,Private Sector,Tier 3,Amazon,1-2/month,4303.0,4,3,5.0,3,3,2,2,4.0,5,4,7,293
+11199,25-34,<3L,Self-employed,Tier 2,Amazon,1-2/month,5700.0,4,4,4.0,3,5,4,5,5.0,5,2,10,465
+11200,35-44,20L+,Private Sector,Tier 2,Flipkart,Rarely,5996.0,2,3,3.0,5,5,5,3,5.0,5,3,9,368
+11201,25-34,10-20L,Private Sector,Tier 1,Amazon,3-5/month,8054.0,4,4,4.0,3,4,3,5,4.0,4,4,8,314
+11202,25-34,10-20L,Student,Tier 1,Other,Rarely,4909.0,5,4,4.0,3,3,4,3,3.0,4,4,6,236
+11203,45-54,10-20L,Student,Tier 1,Flipkart,3-5/month,6075.0,3,4,4.0,3,4,4,5,3.0,2,3,5,381
+11204,35-44,6-10L,Private Sector,Tier 3,Amazon,1-2/month,5039.0,4,3,4.0,3,4,4,3,3.0,4,3,4,556
+11205,18-24,10-20L,Student,Tier 2,Amazon,Rarely,6452.0,4,5,4.0,4,4,3,4,3.0,2,2,8,293
+11206,18-24,3-6L,Student,Tier 1,Myntra,1-2/month,4776.0,5,4,4.0,3,5,3,3,3.0,4,4,6,304
+11207,35-44,<3L,Student,Tier 2,Flipkart,1-2/month,4232.0,5,5,4.0,3,5,4,5,4.0,4,3,7,259
+11208,25-34,<3L,Other,Tier 1,Amazon,3-5/month,4751.0,2,4,4.0,4,5,2,3,4.0,4,1,7,472
+11209,25-34,<3L,Student,Tier 1,Amazon,3-5/month,5382.0,4,4,2.0,4,4,4,4,4.0,3,2,9,448
+11210,25-34,<3L,Student,Tier 2,Myntra,Rarely,4621.0,4,4,4.0,2,3,3,4,3.0,3,4,7,318
+11211,35-44,3-6L,Private Sector,Tier 2,Other,3-5/month,8056.0,3,4,4.0,3,3,4,3,4.0,4,3,8,303
+11212,45-54,6-10L,Private Sector,Tier 2,Amazon,3-5/month,6982.0,5,3,3.0,4,4,3,4,3.0,4,4,5,270
+11213,25-34,10-20L,Other,Tier 2,Amazon,1-2/month,6032.0,4,4,4.0,4,3,5,5,4.0,5,1,9,333
+11214,25-34,6-10L,Self-employed,Tier 2,Amazon,Rarely,4824.0,3,4,4.0,4,4,4,4,3.0,2,2,6,457
+11215,25-34,<3L,Private Sector,Tier 3,Amazon,1-2/month,3573.0,4,4,5.0,5,5,3,4,5.0,4,2,10,364
+11216,25-34,10-20L,Private Sector,Tier 1,Myntra,Rarely,3696.0,3,4,4.0,5,4,3,4,4.0,3,3,8,482
+11217,25-34,3-6L,Private Sector,Tier 2,Other,6+/month,10657.0,3,4,4.0,4,4,3,5,4.0,3,2,5,292
+11218,25-34,<3L,Student,Tier 2,Other,1-2/month,5165.0,4,4,4.0,3,3,5,3,3.0,5,4,10,140
+11219,35-44,3-6L,Private Sector,Tier 1,Myntra,1-2/month,5833.0,4,5,4.0,4,5,3,2,4.0,5,2,9,608
+11220,18-24,3-6L,Student,Tier 1,Amazon,3-5/month,8288.0,3,4,4.0,4,3,4,3,4.0,3,3,8,380
+11221,18-24,3-6L,Student,Tier 1,Other,1-2/month,3902.0,2,5,3.0,4,4,4,3,2.0,4,3,6,434
+11222,18-24,10-20L,Private Sector,Tier 1,Amazon,3-5/month,8852.0,2,4,5.0,4,4,5,3,5.0,5,1,10,285
+11223,45-54,10-20L,Student,Tier 2,Amazon,Rarely,5258.0,2,4,3.0,5,4,4,3,3.0,2,2,8,231
+11224,35-44,6-10L,Student,Tier 1,Flipkart,1-2/month,5872.0,3,3,4.0,3,3,4,3,4.0,3,3,9,375
+11225,18-24,<3L,Private Sector,Tier 2,Amazon,Rarely,3359.0,4,5,4.0,3,3,4,4,5.0,3,1,9,171
+11226,45-54,10-20L,Private Sector,Tier 1,Myntra,1-2/month,6006.0,2,3,5.0,5,4,4,4,5.0,5,1,9,335
+11227,25-34,6-10L,Student,Tier 1,Other,1-2/month,3234.0,3,4,3.0,3,4,4,3,2.0,2,2,2,457
+11228,25-34,<3L,Student,Tier 1,Myntra,3-5/month,7896.0,3,4,4.0,4,3,5,4,4.0,4,2,8,403
+11229,55+,6-10L,Student,Tier 1,Myntra,3-5/month,8447.0,3,4,4.0,4,4,4,4,5.0,3,1,10,384
+11230,18-24,6-10L,Private Sector,Tier 3,Amazon,3-5/month,6814.0,3,3,4.0,5,3,3,5,4.0,3,3,9,526
+11231,18-24,3-6L,Self-employed,Tier 1,Amazon,Rarely,4626.0,3,3,3.0,5,4,3,4,4.0,4,2,9,396
+11232,35-44,<3L,Self-employed,Tier 1,Myntra,6+/month,9747.0,4,4,4.0,4,3,4,3,3.0,4,4,6,179
+11233,18-24,6-10L,Private Sector,Tier 1,Flipkart,Rarely,4473.0,3,5,2.0,3,4,3,5,3.0,1,3,8,346
+11234,35-44,<3L,Private Sector,Tier 1,Other,3-5/month,6158.0,4,4,3.0,3,4,3,4,2.0,1,5,6,543
+11235,18-24,<3L,Government,Tier 2,Amazon,3-5/month,7333.0,3,3,3.0,5,5,3,4,4.0,5,2,5,331
+11236,18-24,<3L,Private Sector,Tier 2,Amazon,3-5/month,6130.0,4,5,5.0,3,4,4,4,4.0,3,1,9,537
+11237,18-24,20L+,Student,Tier 1,Amazon,1-2/month,6263.0,3,3,4.0,4,4,3,3,4.0,4,2,10,457
+11238,25-34,3-6L,Student,Tier 2,Flipkart,3-5/month,8519.0,4,4,4.0,2,4,3,4,3.0,2,2,6,321
+11239,18-24,3-6L,Private Sector,Tier 2,Myntra,3-5/month,7339.0,3,4,5.0,3,5,3,3,4.0,5,1,4,257
+11240,18-24,3-6L,Private Sector,Tier 3,Other,Rarely,4067.0,4,4,3.0,4,5,3,3,4.0,2,3,7,392
+11241,45-54,10-20L,Student,Tier 2,Amazon,3-5/month,9423.0,3,5,4.0,4,4,3,2,5.0,5,1,7,481
+11242,25-34,6-10L,Private Sector,Tier 1,Flipkart,Rarely,4249.0,3,3,4.0,4,3,4,3,4.0,5,2,7,210
+11243,25-34,10-20L,Private Sector,Tier 2,Amazon,1-2/month,6179.0,3,4,4.0,3,4,3,4,3.0,4,3,5,371
+11244,18-24,3-6L,Private Sector,Tier 3,Amazon,3-5/month,7775.0,5,5,5.0,2,4,4,4,5.0,4,1,10,166
+11245,25-34,<3L,Private Sector,Tier 2,Amazon,3-5/month,5463.0,3,3,5.0,4,3,4,4,4.0,4,3,9,328
+11246,25-34,6-10L,Government,Tier 3,Flipkart,1-2/month,6149.0,3,3,4.0,4,4,4,3,4.0,4,1,9,203
+11247,35-44,3-6L,Private Sector,Tier 3,Flipkart,1-2/month,4620.0,3,4,4.0,3,5,2,3,4.0,3,2,10,413
+11248,18-24,10-20L,Student,Tier 1,Amazon,1-2/month,7370.0,2,4,4.0,4,4,3,3,3.0,3,1,6,295
+11249,45-54,10-20L,Student,Tier 2,Flipkart,1-2/month,7092.0,3,2,4.0,4,3,4,3,3.0,3,3,7,470
+11250,45-54,3-6L,Self-employed,Tier 2,Myntra,1-2/month,5673.0,3,4,4.0,4,5,4,2,4.0,4,1,10,309
+11251,18-24,20L+,Private Sector,Tier 2,Amazon,1-2/month,5804.0,3,2,4.0,4,5,4,2,4.0,5,1,9,300
+11252,18-24,6-10L,Student,Tier 2,Amazon,3-5/month,8057.0,3,5,1.0,4,4,2,5,4.0,3,1,9,207
+11253,18-24,3-6L,Private Sector,Tier 3,Flipkart,1-2/month,4240.0,2,4,5.0,3,5,3,5,4.0,3,2,7,397
+11254,35-44,3-6L,Self-employed,Tier 2,Myntra,1-2/month,5917.0,3,5,3.0,4,4,3,4,4.0,3,2,8,407
+11255,18-24,<3L,Self-employed,Tier 2,Myntra,1-2/month,2566.0,4,4,4.0,4,5,4,3,4.0,4,3,7,449
+11256,45-54,10-20L,Self-employed,Tier 1,Amazon,Rarely,4113.0,2,3,4.0,5,4,4,2,5.0,5,1,10,422
+11257,35-44,<3L,Private Sector,Tier 1,Flipkart,1-2/month,5720.0,4,3,3.0,4,3,4,3,3.0,3,4,4,398
+11258,45-54,3-6L,Private Sector,Tier 3,Other,1-2/month,5632.0,4,4,4.0,3,5,4,4,3.0,2,3,8,417
+11259,25-34,6-10L,Private Sector,Tier 2,Amazon,1-2/month,5632.0,3,4,4.0,4,3,5,4,5.0,4,1,10,426
+11260,55+,<3L,Student,Tier 1,Flipkart,1-2/month,3832.0,4,5,3.0,4,4,5,4,4.0,4,2,6,446
+11261,18-24,<3L,Government,Tier 3,Other,3-5/month,5874.0,3,3,4.0,3,4,3,5,4.0,4,4,10,215
+11262,25-34,6-10L,Private Sector,Tier 3,Amazon,6+/month,11630.0,4,5,4.0,3,4,4,5,4.0,5,3,8,316
+11263,25-34,<3L,Student,Tier 2,Flipkart,3-5/month,6541.0,4,5,4.0,4,4,4,3,5.0,5,3,8,206
+11264,55+,3-6L,Self-employed,Tier 1,Myntra,1-2/month,6692.0,4,4,3.0,5,4,4,5,4.0,4,3,9,392
+11265,35-44,3-6L,Private Sector,Tier 2,Amazon,Rarely,4034.0,5,5,3.0,3,4,3,2,3.0,4,4,5,515
+11266,45-54,3-6L,Student,Tier 1,Flipkart,Rarely,4253.0,3,3,4.0,5,4,4,3,4.0,4,3,6,445
+11267,18-24,<3L,Private Sector,Tier 1,Flipkart,3-5/month,5600.0,3,4,3.0,5,4,2,4,3.0,2,3,6,302
+11268,55+,10-20L,Self-employed,Tier 2,Myntra,3-5/month,8475.0,4,3,3.0,4,4,4,4,4.0,1,4,7,408
+11269,25-34,20L+,Self-employed,Tier 3,Other,Rarely,6309.0,4,5,3.0,4,3,2,3,3.0,2,3,5,393
+11270,25-34,<3L,Private Sector,Tier 1,Other,1-2/month,4314.0,3,3,4.0,4,5,4,3,3.0,4,3,8,382
+11271,55+,20L+,Other,Tier 3,Amazon,1-2/month,6813.0,3,2,4.0,3,4,3,5,4.0,5,1,9,236
+11272,25-34,6-10L,Self-employed,Tier 3,Myntra,1-2/month,6244.0,4,3,4.0,4,4,4,3,5.0,3,1,10,485
+11273,25-34,6-10L,Self-employed,Tier 1,Other,6+/month,12813.0,3,5,3.0,3,4,4,3,3.0,4,4,6,248
+11274,35-44,6-10L,Self-employed,Tier 1,Flipkart,1-2/month,6080.0,4,4,4.0,3,3,4,5,3.0,4,4,7,325
+11275,18-24,6-10L,Private Sector,Tier 2,Flipkart,Rarely,5880.0,4,4,5.0,5,5,3,4,5.0,5,2,9,451
+11276,25-34,10-20L,Self-employed,Tier 2,Amazon,1-2/month,7159.0,3,4,2.0,4,4,3,4,3.0,4,3,5,325
+11277,18-24,6-10L,Private Sector,Tier 1,Myntra,Rarely,5826.0,4,4,3.0,4,4,5,4,5.0,5,1,10,368
+11278,18-24,6-10L,Government,Tier 2,Amazon,Rarely,4301.0,3,4,5.0,4,3,3,2,4.0,5,2,10,371
+11279,45-54,3-6L,Student,Tier 2,Amazon,1-2/month,5114.0,3,5,5.0,3,5,4,4,4.0,5,1,7,366
+11280,35-44,<3L,Government,Tier 2,Other,1-2/month,4468.0,3,4,2.0,4,5,3,2,4.0,3,2,6,371
+11281,25-34,6-10L,Other,Tier 2,Other,Rarely,5342.0,3,3,4.0,4,4,4,4,3.0,4,3,4,380
+11282,25-34,<3L,Private Sector,Tier 1,Other,3-5/month,7563.0,4,4,5.0,4,4,4,4,4.0,3,3,7,367
+11283,25-34,3-6L,Other,Tier 1,Flipkart,1-2/month,5413.0,4,4,3.0,3,5,3,4,3.0,3,4,7,275
+11284,35-44,<3L,Private Sector,Tier 1,Amazon,Rarely,4339.0,4,4,5.0,4,3,4,3,4.0,5,3,8,213
+11285,45-54,<3L,Student,Tier 3,Flipkart,6+/month,9643.0,4,5,4.0,4,5,3,4,5.0,5,1,10,455
+11286,55+,6-10L,Student,Tier 3,Amazon,1-2/month,6747.0,4,3,4.0,4,4,5,3,3.0,3,5,7,459
+11287,25-34,6-10L,Self-employed,Tier 2,Other,6+/month,12364.0,4,4,3.0,4,4,4,4,3.0,4,2,5,392
+11288,25-34,3-6L,Private Sector,Tier 1,Flipkart,6+/month,11410.0,4,4,5.0,4,3,2,4,3.0,3,3,9,391
+11289,25-34,<3L,Private Sector,Tier 2,Amazon,1-2/month,4771.0,4,4,5.0,4,5,4,3,4.0,5,3,8,273
+11290,25-34,3-6L,Private Sector,Tier 1,Amazon,1-2/month,5942.0,3,5,5.0,5,4,5,4,5.0,4,2,10,128
+11291,25-34,3-6L,Private Sector,Tier 1,Amazon,3-5/month,6695.0,3,4,5.0,3,4,5,4,4.0,5,2,7,336
+11292,35-44,6-10L,Private Sector,Tier 1,Myntra,1-2/month,6129.0,3,3,4.0,2,4,3,4,3.0,3,3,7,180
+11293,25-34,6-10L,Self-employed,Tier 3,Flipkart,1-2/month,6220.0,4,4,5.0,4,3,3,3,5.0,4,1,10,378
+11294,25-34,6-10L,Government,Tier 1,Amazon,3-5/month,6953.0,5,4,5.0,3,4,4,4,4.0,4,5,7,484
+11295,25-34,6-10L,Self-employed,Tier 2,Amazon,1-2/month,6377.0,2,4,4.0,3,4,4,4,4.0,5,3,6,301
+11296,25-34,20L+,Private Sector,Tier 3,Amazon,6+/month,11626.0,4,4,3.0,4,4,4,3,5.0,4,2,8,307
+11297,18-24,10-20L,Other,Tier 2,Amazon,3-5/month,8415.0,3,2,3.0,4,5,3,3,3.0,2,4,6,264
+11298,18-24,6-10L,Private Sector,Tier 1,Other,6+/month,11486.0,4,2,3.0,3,5,3,4,3.0,3,2,6,364
+11299,35-44,3-6L,Private Sector,Tier 3,Flipkart,3-5/month,6842.0,4,5,3.0,5,5,4,4,4.0,3,3,7,357
+11300,25-34,<3L,Student,Tier 2,Amazon,3-5/month,6924.0,5,4,5.0,3,5,3,5,4.0,5,2,8,263
+11301,18-24,20L+,Private Sector,Tier 2,Myntra,1-2/month,7310.0,3,3,4.0,4,4,3,4,3.0,5,3,9,447
+11302,25-34,3-6L,Private Sector,Tier 2,Amazon,6+/month,10062.0,3,4,3.0,2,4,3,2,3.0,4,3,6,617
+11303,35-44,3-6L,Government,Tier 3,Amazon,6+/month,11311.0,3,5,4.0,4,4,4,5,4.0,4,1,8,473
+11304,25-34,20L+,Private Sector,Tier 2,Flipkart,3-5/month,8762.0,3,4,3.0,3,4,4,4,3.0,5,2,7,349
+11305,45-54,6-10L,Student,Tier 2,Amazon,3-5/month,10209.0,3,4,4.0,4,3,4,2,4.0,5,4,9,348
+11306,45-54,<3L,Private Sector,Tier 2,Flipkart,3-5/month,6751.0,4,3,3.0,4,5,3,3,4.0,3,2,10,311
+11307,35-44,<3L,Other,Tier 1,Myntra,1-2/month,3596.0,4,3,4.0,5,3,3,3,3.0,5,5,7,309
+11308,35-44,<3L,Private Sector,Tier 2,Other,6+/month,9264.0,3,2,4.0,3,5,3,4,4.0,3,3,8,451
+11309,18-24,6-10L,Student,Tier 1,Amazon,Rarely,5883.0,3,4,3.0,3,4,3,1,3.0,3,3,5,455
+11310,55+,<3L,Private Sector,Tier 1,Flipkart,1-2/month,4282.0,4,5,5.0,4,4,4,3,3.0,2,3,8,249
+11311,25-34,20L+,Private Sector,Tier 1,Amazon,1-2/month,6023.0,3,4,4.0,4,4,2,4,5.0,5,3,8,395
+11312,45-54,20L+,Private Sector,Tier 1,Flipkart,3-5/month,10218.0,1,4,3.0,3,5,4,1,2.0,2,5,4,466
+11313,35-44,6-10L,Private Sector,Tier 1,Amazon,3-5/month,7776.0,3,4,5.0,3,5,3,4,3.0,3,3,7,327
+11314,18-24,6-10L,Private Sector,Tier 2,Flipkart,1-2/month,6538.0,2,3,4.0,3,4,3,4,4.0,4,3,10,340
+11315,18-24,3-6L,Private Sector,Tier 1,Amazon,Rarely,5042.0,3,3,4.0,5,3,5,3,5.0,4,2,10,426
+11316,35-44,<3L,Private Sector,Tier 1,Other,1-2/month,4897.0,5,4,3.0,4,5,2,3,4.0,4,4,8,429
+11317,25-34,10-20L,Student,Tier 3,Other,1-2/month,8756.0,2,3,4.0,4,3,4,3,4.0,5,2,7,401
+11318,18-24,<3L,Self-employed,Tier 3,Amazon,Rarely,1998.0,4,5,5.0,4,3,4,1,3.0,3,3,9,384
+11319,35-44,<3L,Private Sector,Tier 2,Myntra,3-5/month,6114.0,5,3,3.0,2,4,3,3,3.0,4,3,7,397
+11320,45-54,3-6L,Private Sector,Tier 1,Amazon,1-2/month,5070.0,5,4,4.0,3,5,3,4,4.0,4,2,8,334
+11321,25-34,<3L,Student,Tier 1,Myntra,1-2/month,6685.0,4,2,3.0,4,4,5,2,4.0,4,4,9,254
+11322,25-34,3-6L,Private Sector,Tier 1,Amazon,1-2/month,6918.0,4,4,5.0,4,4,5,4,4.0,4,3,7,212
+11323,18-24,6-10L,Self-employed,Tier 1,Amazon,1-2/month,7110.0,2,4,5.0,3,4,4,4,4.0,4,1,7,417
+11324,35-44,10-20L,Student,Tier 3,Flipkart,6+/month,11385.0,2,3,4.0,4,5,5,4,4.0,5,3,7,370
+11325,25-34,6-10L,Student,Tier 2,Flipkart,Rarely,4240.0,4,3,3.0,4,5,3,3,2.0,3,3,4,403
+11326,45-54,10-20L,Student,Tier 1,Flipkart,1-2/month,5854.0,4,4,3.0,4,4,2,4,4.0,3,2,6,281
+11327,25-34,3-6L,Private Sector,Tier 3,Flipkart,3-5/month,6795.0,4,3,4.0,4,3,4,5,4.0,3,4,6,370
+11328,25-34,10-20L,Other,Tier 1,Amazon,Rarely,6843.0,3,3,3.0,4,3,4,3,2.0,3,3,7,367
+11329,25-34,6-10L,Private Sector,Tier 1,Amazon,3-5/month,7931.0,3,5,3.0,4,5,2,4,4.0,5,2,9,482
+11330,18-24,3-6L,Private Sector,Tier 1,Flipkart,6+/month,10700.0,4,4,4.0,5,3,3,4,4.0,5,2,7,441
+11331,35-44,20L+,Self-employed,Tier 1,Flipkart,3-5/month,10147.0,3,4,4.0,4,4,3,4,3.0,4,2,8,290
+11332,25-34,3-6L,Self-employed,Tier 3,Amazon,6+/month,9303.0,4,3,4.0,5,5,4,5,4.0,5,1,9,408
+11333,25-34,<3L,Private Sector,Tier 1,Amazon,1-2/month,4697.0,3,3,3.0,3,4,4,3,3.0,3,3,6,289
+11334,55+,3-6L,Student,Tier 2,Flipkart,1-2/month,4313.0,4,4,4.0,3,4,3,3,3.0,3,2,5,112
+11335,55+,3-6L,Private Sector,Tier 1,Flipkart,Rarely,3935.0,4,5,3.0,4,5,4,3,3.0,2,4,7,524
+11336,45-54,3-6L,Self-employed,Tier 3,Myntra,Rarely,3672.0,3,4,4.0,4,3,3,4,5.0,4,2,10,324
+11337,18-24,6-10L,Government,Tier 2,Flipkart,1-2/month,5376.0,4,4,4.0,5,3,3,3,4.0,4,2,8,459
+11338,35-44,10-20L,Government,Tier 2,Flipkart,1-2/month,6803.0,4,3,4.0,3,4,3,3,5.0,5,1,10,297
+11339,45-54,3-6L,Self-employed,Tier 1,Flipkart,1-2/month,5499.0,4,2,5.0,4,5,3,5,5.0,5,3,9,283
+11340,25-34,6-10L,Private Sector,Tier 3,Amazon,1-2/month,5752.0,3,3,3.0,4,5,3,5,4.0,3,3,10,308
+11341,18-24,3-6L,Private Sector,Tier 2,Amazon,3-5/month,7834.0,4,5,3.0,4,4,4,3,3.0,2,3,6,384
+11342,45-54,10-20L,Student,Tier 1,Amazon,1-2/month,5818.0,3,4,2.0,4,4,4,2,3.0,4,2,3,377
+11343,25-34,<3L,Self-employed,Tier 3,Myntra,1-2/month,5263.0,4,5,2.0,4,5,3,5,4.0,3,1,7,407
+11344,25-34,<3L,Private Sector,Tier 1,Amazon,1-2/month,4464.0,3,4,4.0,5,3,5,4,5.0,4,3,10,313
+11345,55+,6-10L,Private Sector,Tier 1,Flipkart,3-5/month,7715.0,4,2,4.0,5,4,4,4,4.0,4,3,10,364
+11346,35-44,6-10L,Student,Tier 2,Flipkart,1-2/month,5235.0,4,3,3.0,4,4,3,4,4.0,3,3,8,280
+11347,25-34,10-20L,Government,Tier 1,Amazon,3-5/month,8583.0,4,4,3.0,3,5,3,3,4.0,5,2,8,500
+11348,25-34,6-10L,Self-employed,Tier 2,Myntra,Rarely,6534.0,4,4,5.0,5,5,3,3,4.0,3,3,7,235
+11349,25-34,10-20L,Government,Tier 1,Flipkart,1-2/month,6543.0,3,4,4.0,3,3,4,4,3.0,3,4,9,282
+11350,18-24,3-6L,Student,Tier 1,Amazon,6+/month,9770.0,3,3,3.0,5,4,4,3,3.0,3,3,9,320
+11351,45-54,<3L,Self-employed,Tier 1,Myntra,Rarely,4377.0,5,5,3.0,5,4,2,4,4.0,4,2,7,587
+11352,45-54,<3L,Self-employed,Tier 1,Flipkart,1-2/month,4225.0,4,4,4.0,5,4,3,4,4.0,4,2,6,433
+11353,25-34,<3L,Government,Tier 3,Amazon,Rarely,3805.0,3,4,3.0,4,4,3,3,4.0,4,3,5,279
+11354,25-34,3-6L,Government,Tier 2,Flipkart,Rarely,3655.0,4,4,3.0,2,4,3,5,3.0,4,4,8,438
+11355,45-54,6-10L,Self-employed,Tier 2,Flipkart,1-2/month,7103.0,4,3,3.0,3,4,4,4,4.0,3,2,8,409
+11356,18-24,3-6L,Other,Tier 1,Amazon,1-2/month,4768.0,5,3,5.0,4,5,4,4,3.0,3,3,5,386
+11357,25-34,6-10L,Private Sector,Tier 2,Other,1-2/month,7208.0,4,3,5.0,3,5,4,4,4.0,4,2,9,426
+11358,25-34,6-10L,Private Sector,Tier 1,Flipkart,6+/month,10506.0,3,5,3.0,4,4,4,2,3.0,5,4,5,366
+11359,35-44,6-10L,Private Sector,Tier 1,Flipkart,1-2/month,5686.0,5,4,4.0,4,4,3,3,4.0,4,2,9,376
+11360,18-24,6-10L,Self-employed,Tier 2,Amazon,Rarely,6110.0,2,4,4.0,4,3,4,2,4.0,5,1,8,212
+11361,35-44,3-6L,Government,Tier 2,Amazon,3-5/month,7651.0,3,3,3.0,3,5,3,4,2.0,2,3,3,497
+11362,25-34,3-6L,Student,Tier 2,Flipkart,1-2/month,7344.0,3,3,3.0,4,4,4,4,4.0,5,2,8,317
+11363,35-44,6-10L,Student,Tier 3,Flipkart,6+/month,11208.0,2,4,3.0,4,4,4,4,4.0,4,2,8,242
+11364,18-24,6-10L,Self-employed,Tier 3,Flipkart,1-2/month,6181.0,4,4,5.0,4,4,3,5,4.0,5,2,9,312
+11365,25-34,3-6L,Self-employed,Tier 1,Myntra,3-5/month,9215.0,3,4,5.0,4,4,3,2,4.0,3,3,10,316
+11366,25-34,3-6L,Other,Tier 1,Amazon,6+/month,9437.0,4,3,4.0,4,5,4,3,4.0,3,4,10,284
+11367,18-24,6-10L,Private Sector,Tier 1,Flipkart,1-2/month,4476.0,4,3,3.0,5,5,4,4,5.0,5,2,10,434
+11368,18-24,6-10L,Self-employed,Tier 2,Myntra,3-5/month,7434.0,4,4,5.0,4,5,4,4,4.0,5,3,8,453
+11369,18-24,<3L,Self-employed,Tier 3,Myntra,3-5/month,7582.0,3,5,5.0,5,4,3,2,5.0,5,1,9,174
+11370,25-34,3-6L,Private Sector,Tier 3,Myntra,3-5/month,6051.0,3,3,3.0,2,5,4,5,3.0,2,2,4,311
+11371,18-24,10-20L,Student,Tier 1,Other,1-2/month,7137.0,3,3,4.0,4,5,4,5,5.0,5,2,10,318
+11372,55+,<3L,Other,Tier 3,Amazon,1-2/month,5124.0,5,5,4.0,4,4,3,4,4.0,3,3,7,344
+11373,25-34,10-20L,Student,Tier 2,Flipkart,Rarely,7313.0,3,3,3.0,3,3,3,2,2.0,2,3,7,522
+11374,45-54,<3L,Private Sector,Tier 3,Other,6+/month,11091.0,3,5,4.0,5,4,3,4,3.0,3,4,6,283
+11375,55+,6-10L,Government,Tier 2,Flipkart,Rarely,5178.0,3,4,3.0,4,5,2,4,4.0,4,3,9,508
+11376,18-24,3-6L,Government,Tier 1,Amazon,Rarely,5423.0,4,3,3.0,2,3,4,3,2.0,2,4,4,346
+11377,35-44,<3L,Private Sector,Tier 1,Other,6+/month,10635.0,3,4,4.0,4,4,5,5,5.0,5,1,9,509
+11378,45-54,10-20L,Government,Tier 3,Amazon,1-2/month,6186.0,3,3,3.0,4,4,5,3,3.0,4,4,8,330
+11379,35-44,3-6L,Student,Tier 1,Amazon,3-5/month,6470.0,3,5,2.0,3,5,3,5,3.0,4,3,7,319
+11380,25-34,20L+,Self-employed,Tier 1,Amazon,1-2/month,6738.0,3,4,5.0,3,4,4,4,4.0,5,3,9,358
+11381,25-34,3-6L,Student,Tier 1,Flipkart,3-5/month,7464.0,4,5,3.0,3,3,4,4,4.0,4,2,8,483
+11382,18-24,10-20L,Government,Tier 1,Amazon,1-2/month,6758.0,4,4,5.0,4,4,2,4,4.0,4,3,9,375
+11383,25-34,10-20L,Self-employed,Tier 3,Flipkart,1-2/month,4678.0,5,3,5.0,4,3,3,5,5.0,5,2,10,380
+11384,55+,6-10L,Student,Tier 1,Other,3-5/month,7952.0,4,4,3.0,4,3,3,4,3.0,4,5,3,420
+11385,55+,3-6L,Private Sector,Tier 1,Flipkart,1-2/month,5326.0,5,3,5.0,4,5,5,3,4.0,3,2,8,276
+11386,18-24,6-10L,Self-employed,Tier 2,Flipkart,1-2/month,6443.0,3,5,4.0,3,5,3,3,5.0,5,2,10,392
+11387,35-44,6-10L,Student,Tier 2,Other,Rarely,6314.0,2,4,3.0,4,5,4,3,5.0,4,2,8,300
+11388,25-34,20L+,Student,Tier 1,Myntra,3-5/month,9617.0,3,3,2.0,4,5,4,1,4.0,4,1,5,500
+11389,45-54,3-6L,Private Sector,Tier 1,Amazon,1-2/month,4481.0,4,3,4.0,3,4,2,4,4.0,3,1,8,400
+11390,18-24,3-6L,Other,Tier 1,Amazon,1-2/month,3664.0,4,5,4.0,3,4,3,3,4.0,4,2,9,426
+11391,55+,<3L,Private Sector,Tier 1,Flipkart,1-2/month,5268.0,5,4,4.0,4,4,5,3,3.0,3,4,6,166
+11392,45-54,6-10L,Private Sector,Tier 1,Myntra,1-2/month,5168.0,2,4,4.0,4,4,3,4,4.0,3,3,10,427
+11393,18-24,20L+,Other,Tier 1,Flipkart,3-5/month,10230.0,4,5,3.0,4,4,4,3,5.0,5,1,10,343
+11394,18-24,<3L,Private Sector,Tier 2,Amazon,1-2/month,5908.0,4,3,4.0,3,3,4,5,4.0,2,2,5,223
+11395,45-54,10-20L,Private Sector,Tier 3,Myntra,6+/month,10710.0,2,3,4.0,4,4,3,3,4.0,2,3,8,369
+11396,18-24,10-20L,Private Sector,Tier 3,Flipkart,3-5/month,9299.0,4,3,3.0,3,5,3,3,4.0,5,2,5,216
+11397,25-34,<3L,Private Sector,Tier 1,Flipkart,3-5/month,8013.0,4,3,3.0,3,3,3,2,3.0,3,3,8,418
+11398,45-54,<3L,Private Sector,Tier 1,Myntra,3-5/month,7767.0,4,4,3.0,4,3,5,4,4.0,3,4,7,496
+11399,25-34,6-10L,Government,Tier 3,Myntra,Rarely,2963.0,4,3,4.0,4,4,4,4,4.0,5,4,7,190
+11400,25-34,6-10L,Student,Tier 2,Flipkart,6+/month,10682.0,4,3,3.0,3,4,2,3,3.0,3,4,8,357
+11401,25-34,<3L,Government,Tier 2,Flipkart,3-5/month,5698.0,3,3,4.0,3,4,4,3,4.0,3,1,6,344
+11402,18-24,10-20L,Student,Tier 1,Flipkart,3-5/month,9271.0,3,3,3.0,4,5,2,5,5.0,4,1,7,171
+11403,55+,6-10L,Private Sector,Tier 1,Flipkart,1-2/month,6322.0,2,3,3.0,4,4,3,2,4.0,5,3,5,447
+11404,25-34,10-20L,Student,Tier 2,Flipkart,1-2/month,4172.0,4,4,5.0,3,4,4,4,4.0,4,3,10,419
+11405,18-24,10-20L,Private Sector,Tier 2,Flipkart,3-5/month,8529.0,4,3,3.0,4,5,5,3,4.0,4,2,10,552
+11406,25-34,10-20L,Government,Tier 1,Flipkart,1-2/month,7321.0,2,4,3.0,4,5,4,4,5.0,5,1,9,407
+11407,55+,6-10L,Private Sector,Tier 3,Flipkart,3-5/month,8283.0,3,5,4.0,4,4,3,4,4.0,2,3,6,276
+11408,18-24,3-6L,Student,Tier 2,Amazon,1-2/month,5432.0,3,4,2.0,4,4,4,4,3.0,2,4,8,409
+11409,45-54,6-10L,Private Sector,Tier 2,Flipkart,1-2/month,5622.0,3,4,5.0,3,4,4,3,3.0,4,3,10,482
+11410,35-44,<3L,Self-employed,Tier 1,Flipkart,1-2/month,3697.0,4,4,4.0,3,4,5,5,3.0,3,3,6,316
+11411,45-54,6-10L,Private Sector,Tier 2,Amazon,1-2/month,5935.0,3,4,4.0,5,3,3,4,4.0,5,2,6,441
+11412,55+,<3L,Self-employed,Tier 2,Amazon,Rarely,3597.0,4,4,1.0,5,5,3,5,3.0,2,4,9,136
+11413,45-54,6-10L,Private Sector,Tier 1,Amazon,3-5/month,8704.0,4,4,4.0,4,4,3,2,4.0,5,4,6,500
+11414,55+,<3L,Student,Tier 2,Other,3-5/month,7477.0,5,4,3.0,5,2,4,2,3.0,4,4,6,436
+11415,18-24,3-6L,Government,Tier 2,Myntra,6+/month,10877.0,3,3,5.0,3,4,4,4,5.0,5,1,6,118
+11416,45-54,3-6L,Private Sector,Tier 3,Flipkart,3-5/month,8485.0,5,3,5.0,3,5,2,3,3.0,4,4,6,396
+11417,25-34,6-10L,Student,Tier 1,Amazon,3-5/month,7813.0,4,4,4.0,4,3,3,4,3.0,3,4,5,171
+11418,25-34,10-20L,Other,Tier 3,Flipkart,1-2/month,5300.0,4,2,3.0,5,4,3,3,4.0,2,1,10,302
+11419,45-54,<3L,Student,Tier 2,Flipkart,3-5/month,7279.0,4,5,5.0,4,4,4,4,5.0,5,2,8,424
+11420,55+,10-20L,Private Sector,Tier 1,Other,6+/month,12214.0,3,5,3.0,4,5,3,4,4.0,4,3,9,347
+11421,35-44,10-20L,Private Sector,Tier 1,Amazon,3-5/month,9247.0,2,4,5.0,4,5,3,3,4.0,5,2,8,479
+11422,25-34,3-6L,Private Sector,Tier 1,Amazon,Rarely,3062.0,3,4,4.0,4,3,4,4,4.0,4,2,8,366
+11423,25-34,6-10L,Self-employed,Tier 1,Flipkart,3-5/month,9762.0,3,4,4.0,4,4,3,2,3.0,4,3,7,356
+11424,25-34,3-6L,Student,Tier 2,Amazon,Rarely,4839.0,4,3,3.0,3,5,4,4,4.0,3,3,8,464
+11425,25-34,<3L,Other,Tier 2,Flipkart,Rarely,3291.0,5,5,5.0,2,4,4,5,3.0,5,2,6,328
+11426,25-34,6-10L,Government,Tier 1,Myntra,3-5/month,7308.0,3,3,4.0,5,4,4,2,4.0,3,2,7,358
+11427,18-24,<3L,Other,Tier 3,Amazon,3-5/month,7819.0,4,5,5.0,3,4,3,2,4.0,4,3,9,370
+11428,18-24,10-20L,Self-employed,Tier 1,Flipkart,1-2/month,5608.0,3,3,4.0,2,4,3,5,4.0,5,2,5,354
+11429,35-44,10-20L,Other,Tier 2,Flipkart,Rarely,7535.0,3,4,4.0,4,5,3,2,3.0,3,2,9,470
+11430,25-34,10-20L,Private Sector,Tier 3,Myntra,6+/month,11548.0,4,3,4.0,4,4,4,4,4.0,5,2,8,297
+11431,55+,6-10L,Private Sector,Tier 3,Flipkart,Rarely,6398.0,4,5,5.0,4,3,4,4,5.0,5,1,9,281
+11432,35-44,6-10L,Private Sector,Tier 2,Amazon,Rarely,4684.0,4,3,5.0,5,4,3,3,5.0,5,3,10,259
+11433,18-24,20L+,Government,Tier 2,Flipkart,3-5/month,10873.0,3,4,4.0,3,4,4,5,4.0,4,2,7,157
+11434,18-24,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,6839.0,4,4,2.0,3,3,5,4,2.0,2,4,5,501
+11436,55+,6-10L,Student,Tier 1,Flipkart,3-5/month,8874.0,3,4,3.0,4,4,3,2,4.0,3,2,9,337
+11437,18-24,3-6L,Self-employed,Tier 1,Amazon,1-2/month,5896.0,4,3,4.0,2,3,5,4,3.0,1,4,7,508
+11438,25-34,3-6L,Student,Tier 1,Myntra,1-2/month,6291.0,4,2,4.0,4,4,5,3,4.0,3,2,8,347
+11439,55+,<3L,Other,Tier 1,Flipkart,3-5/month,6411.0,3,5,3.0,4,4,5,3,4.0,4,2,10,409
+11440,55+,6-10L,Student,Tier 3,Amazon,3-5/month,8226.0,4,3,4.0,4,4,3,4,5.0,5,1,8,225
+11441,18-24,3-6L,Student,Tier 3,Flipkart,1-2/month,6424.0,4,5,5.0,4,4,3,5,4.0,5,3,8,493
+11442,18-24,<3L,Self-employed,Tier 3,Other,1-2/month,4015.0,5,4,3.0,5,4,2,3,3.0,4,4,4,348
+11443,18-24,<3L,Self-employed,Tier 2,Flipkart,1-2/month,5165.0,3,5,4.0,2,4,4,2,3.0,3,4,8,263
+11444,18-24,3-6L,Government,Tier 1,Amazon,Rarely,4003.0,5,4,5.0,5,5,4,5,5.0,4,2,10,263
+11445,18-24,10-20L,Other,Tier 1,Flipkart,1-2/month,6785.0,3,2,4.0,4,4,2,4,4.0,3,2,8,521
+11446,25-34,3-6L,Private Sector,Tier 2,Amazon,Rarely,4276.0,3,4,3.0,5,4,5,4,3.0,3,3,6,304
+11447,45-54,6-10L,Self-employed,Tier 2,Flipkart,3-5/month,7441.0,3,3,4.0,3,4,3,5,4.0,3,2,7,265
+11448,25-34,10-20L,Private Sector,Tier 1,Flipkart,1-2/month,6365.0,3,4,4.0,3,4,3,5,4.0,4,2,10,319
+11449,35-44,3-6L,Private Sector,Tier 2,Amazon,3-5/month,7630.0,2,4,5.0,5,4,2,3,5.0,5,3,10,364
+11450,18-24,10-20L,Private Sector,Tier 2,Amazon,3-5/month,8708.0,4,4,5.0,3,4,4,2,4.0,5,3,9,374
+11451,45-54,3-6L,Student,Tier 1,Other,3-5/month,9565.0,5,3,1.0,4,5,4,4,3.0,3,4,5,402
+11452,35-44,6-10L,Private Sector,Tier 1,Amazon,6+/month,12359.0,2,3,3.0,4,4,4,3,4.0,3,2,10,382
+11453,45-54,<3L,Self-employed,Tier 1,Myntra,1-2/month,4911.0,3,4,4.0,4,4,3,3,5.0,5,2,10,421
+11454,55+,<3L,Student,Tier 2,Flipkart,Rarely,2863.0,4,3,3.0,5,4,5,3,5.0,5,1,10,334
+11455,25-34,20L+,Other,Tier 3,Flipkart,3-5/month,8708.0,3,3,1.0,4,3,3,4,4.0,4,2,10,557
+11456,18-24,10-20L,Private Sector,Tier 2,Amazon,Rarely,7276.0,4,2,3.0,3,4,3,4,3.0,4,5,6,314
+11457,18-24,20L+,Student,Tier 2,Amazon,1-2/month,6341.0,3,2,4.0,4,4,4,3,3.0,4,4,6,488
+11458,25-34,10-20L,Government,Tier 3,Amazon,Rarely,5602.0,3,4,3.0,4,5,3,2,3.0,3,3,3,303
+11460,25-34,10-20L,Student,Tier 2,Other,Rarely,5220.0,1,3,4.0,5,4,5,4,4.0,4,1,7,202
+11461,35-44,3-6L,Government,Tier 2,Other,1-2/month,4398.0,3,3,4.0,2,4,4,4,4.0,5,2,6,389
+11462,25-34,10-20L,Student,Tier 2,Amazon,1-2/month,5894.0,4,3,3.0,5,3,4,2,4.0,3,2,10,470
+11463,18-24,<3L,Student,Tier 1,Amazon,3-5/month,6358.0,5,4,5.0,3,4,4,4,4.0,4,2,10,251
+11464,25-34,3-6L,Government,Tier 3,Amazon,1-2/month,4661.0,5,3,4.0,4,3,3,3,4.0,5,3,5,277
+11465,35-44,10-20L,Student,Tier 3,Other,6+/month,13295.0,3,3,3.0,4,5,3,4,3.0,3,3,7,397
+11466,35-44,10-20L,Self-employed,Tier 1,Amazon,3-5/month,8792.0,1,2,3.0,4,5,4,4,4.0,3,1,7,360
+11467,25-34,6-10L,Self-employed,Tier 1,Amazon,1-2/month,5479.0,3,4,4.0,4,3,4,4,4.0,4,3,9,304
+11468,18-24,3-6L,Student,Tier 1,Flipkart,1-2/month,5396.0,5,3,5.0,4,4,4,4,4.0,5,3,7,238
+11469,35-44,3-6L,Private Sector,Tier 2,Flipkart,3-5/month,8101.0,5,4,3.0,4,4,3,4,3.0,1,3,6,389
+11470,18-24,20L+,Student,Tier 2,Amazon,3-5/month,9140.0,4,4,4.0,5,4,4,2,3.0,4,4,8,422
+11471,55+,3-6L,Private Sector,Tier 1,Flipkart,1-2/month,6112.0,4,4,4.0,3,4,2,3,3.0,3,4,8,407
+11472,18-24,3-6L,Student,Tier 3,Amazon,1-2/month,4156.0,3,4,5.0,2,5,3,4,4.0,4,2,10,363
+11473,18-24,6-10L,Other,Tier 1,Amazon,Rarely,5904.0,3,2,4.0,4,4,3,3,4.0,4,3,8,260
+11474,25-34,3-6L,Student,Tier 2,Amazon,Rarely,4192.0,4,3,3.0,3,5,3,4,4.0,5,1,6,390
+11475,25-34,6-10L,Government,Tier 1,Amazon,Rarely,4807.0,5,4,4.0,4,3,5,4,4.0,4,2,10,383
+11476,25-34,3-6L,Student,Tier 2,Other,Rarely,3576.0,4,4,4.0,3,3,2,4,3.0,4,4,8,235
+11477,25-34,10-20L,Student,Tier 2,Flipkart,1-2/month,5495.0,3,5,3.0,4,4,3,4,4.0,5,3,9,331
+11478,55+,10-20L,Private Sector,Tier 1,Myntra,6+/month,10600.0,3,5,3.0,3,3,4,3,3.0,3,3,5,395
+11479,25-34,20L+,Private Sector,Tier 1,Amazon,3-5/month,8764.0,3,4,4.0,4,5,3,3,3.0,3,4,5,353
+11480,25-34,6-10L,Other,Tier 3,Flipkart,3-5/month,8679.0,4,3,4.0,4,3,4,4,3.0,4,4,8,174
+11481,25-34,3-6L,Student,Tier 2,Other,3-5/month,6635.0,3,3,2.0,4,4,5,2,3.0,4,3,5,299
+11482,18-24,6-10L,Student,Tier 3,Amazon,3-5/month,6756.0,3,3,4.0,4,4,4,5,5.0,4,2,9,293
+11483,35-44,10-20L,Private Sector,Tier 2,Other,Rarely,4682.0,4,3,3.0,4,4,3,3,4.0,4,1,10,413
+11484,18-24,6-10L,Private Sector,Tier 2,Flipkart,3-5/month,7804.0,2,3,2.0,4,4,3,3,3.0,3,2,10,607
+11485,35-44,6-10L,Self-employed,Tier 1,Myntra,1-2/month,5639.0,5,3,4.0,4,4,4,3,3.0,3,3,8,373
+11486,18-24,10-20L,Self-employed,Tier 2,Amazon,1-2/month,6484.0,2,4,5.0,4,4,4,3,5.0,4,2,9,246
+11487,55+,6-10L,Self-employed,Tier 1,Flipkart,6+/month,12379.0,3,5,5.0,4,5,4,2,4.0,4,2,7,345
+11489,45-54,3-6L,Private Sector,Tier 1,Other,1-2/month,7105.0,4,4,4.0,3,5,4,4,2.0,2,2,7,432
+11490,25-34,6-10L,Self-employed,Tier 1,Other,3-5/month,6688.0,2,4,4.0,4,5,4,2,3.0,4,3,6,478
+11491,18-24,6-10L,Private Sector,Tier 3,Amazon,Rarely,4080.0,4,4,4.0,3,4,3,2,3.0,3,3,6,492
+11492,45-54,<3L,Government,Tier 3,Other,Rarely,4179.0,4,4,3.0,4,4,4,4,3.0,2,2,7,411
+11493,35-44,10-20L,Private Sector,Tier 2,Other,Rarely,5091.0,3,3,3.0,4,4,4,4,4.0,4,1,6,360
+11494,35-44,6-10L,Private Sector,Tier 1,Flipkart,1-2/month,6725.0,3,3,3.0,4,4,2,4,3.0,2,3,4,501
+11495,25-34,<3L,Self-employed,Tier 3,Amazon,3-5/month,7036.0,4,4,5.0,3,3,3,3,4.0,5,4,6,327
+11496,35-44,10-20L,Private Sector,Tier 2,Amazon,1-2/month,8021.0,3,4,5.0,4,3,3,4,5.0,5,2,10,365
+11497,45-54,6-10L,Other,Tier 1,Amazon,Rarely,5788.0,5,3,3.0,4,2,3,2,3.0,4,4,7,337
+11498,35-44,10-20L,Private Sector,Tier 2,Amazon,6+/month,13055.0,3,3,4.0,5,4,5,3,4.0,5,2,10,158
+11499,25-34,3-6L,Student,Tier 2,Other,3-5/month,7129.0,3,4,3.0,5,5,5,2,4.0,2,3,5,481
+11500,35-44,10-20L,Private Sector,Tier 1,Amazon,1-2/month,6512.0,3,4,4.0,5,4,2,3,4.0,4,3,6,424
+11501,35-44,3-6L,Student,Tier 2,Flipkart,1-2/month,5025.0,5,4,3.0,4,4,4,3,4.0,3,3,9,135
+11502,55+,6-10L,Private Sector,Tier 2,Flipkart,1-2/month,4595.0,2,3,5.0,5,4,4,4,4.0,5,2,7,455
+11503,25-34,<3L,Student,Tier 1,Flipkart,1-2/month,5975.0,4,5,4.0,4,3,3,4,3.0,3,3,5,331
+11504,25-34,6-10L,Private Sector,Tier 1,Amazon,3-5/month,8821.0,3,4,4.0,3,4,4,3,3.0,2,3,8,454
+11505,45-54,6-10L,Self-employed,Tier 2,Flipkart,6+/month,11139.0,2,2,4.0,3,5,4,4,4.0,5,3,7,367
+11506,25-34,6-10L,Private Sector,Tier 2,Flipkart,1-2/month,7124.0,3,5,3.0,3,4,3,3,4.0,3,3,8,231
+11507,35-44,6-10L,Student,Tier 3,Flipkart,1-2/month,5383.0,4,3,4.0,4,5,4,3,4.0,3,2,8,363
+11508,25-34,10-20L,Private Sector,Tier 3,Amazon,Rarely,3846.0,3,4,5.0,4,5,4,3,4.0,3,1,8,275
+11509,18-24,6-10L,Self-employed,Tier 2,Flipkart,6+/month,12357.0,4,4,5.0,3,4,4,4,5.0,5,2,10,244
+11510,35-44,3-6L,Private Sector,Tier 2,Amazon,1-2/month,4149.0,5,5,3.0,3,4,4,4,4.0,4,3,6,442
+11511,18-24,20L+,Student,Tier 2,Flipkart,1-2/month,7074.0,3,4,2.0,4,4,3,5,2.0,2,4,5,397
+11512,18-24,6-10L,Private Sector,Tier 2,Flipkart,6+/month,11636.0,2,4,4.0,4,5,5,4,5.0,4,2,10,502
+11513,35-44,20L+,Private Sector,Tier 1,Amazon,3-5/month,9797.0,2,2,5.0,4,4,4,1,4.0,4,3,10,323
+11514,35-44,20L+,Private Sector,Tier 2,Myntra,Rarely,6914.0,3,2,4.0,4,4,4,3,2.0,4,3,3,269
+11515,45-54,10-20L,Student,Tier 2,Amazon,1-2/month,7123.0,3,4,4.0,3,3,3,5,2.0,3,2,6,421
+11516,25-34,10-20L,Other,Tier 2,Other,1-2/month,7095.0,3,5,3.0,3,4,4,3,4.0,3,1,8,281
+11517,18-24,6-10L,Student,Tier 3,Other,6+/month,10738.0,4,3,3.0,4,5,4,2,3.0,3,3,6,331
+11518,55+,<3L,Student,Tier 2,Amazon,1-2/month,4915.0,5,4,2.0,4,4,2,4,4.0,4,4,7,410
+11519,18-24,6-10L,Student,Tier 1,Amazon,1-2/month,4595.0,3,3,4.0,4,4,3,4,4.0,5,1,9,348
+11520,18-24,10-20L,Private Sector,Tier 1,Amazon,3-5/month,10206.0,2,3,2.0,3,4,3,3,3.0,2,2,8,314
+11521,25-34,6-10L,Private Sector,Tier 1,Other,1-2/month,4688.0,4,4,5.0,4,5,3,3,4.0,5,3,10,227
+11522,25-34,10-20L,Private Sector,Tier 1,Flipkart,Rarely,5188.0,4,4,5.0,5,4,3,3,5.0,5,3,8,449
+11524,35-44,3-6L,Government,Tier 1,Flipkart,Rarely,3543.0,4,5,2.0,4,4,5,4,4.0,2,1,10,419
+11525,35-44,6-10L,Private Sector,Tier 1,Amazon,6+/month,11462.0,4,3,4.0,3,3,4,3,3.0,4,3,7,406
+11526,18-24,3-6L,Self-employed,Tier 1,Flipkart,3-5/month,7024.0,3,4,5.0,3,4,3,3,4.0,5,3,7,464
+11527,25-34,<3L,Private Sector,Tier 2,Flipkart,Rarely,4580.0,2,3,4.0,4,5,3,3,3.0,3,3,7,338
+11528,25-34,<3L,Student,Tier 2,Amazon,3-5/month,7054.0,4,4,5.0,4,4,3,5,5.0,5,1,8,327
+11529,18-24,10-20L,Other,Tier 1,Myntra,3-5/month,8383.0,4,4,3.0,4,5,2,4,4.0,2,3,9,255
+11530,25-34,6-10L,Self-employed,Tier 1,Amazon,3-5/month,8030.0,4,4,3.0,4,4,4,3,4.0,5,3,8,308
+11531,25-34,<3L,Private Sector,Tier 1,Flipkart,3-5/month,7948.0,3,4,4.0,4,5,5,4,3.0,3,3,8,392
+11532,18-24,<3L,Self-employed,Tier 1,Flipkart,Rarely,4368.0,4,4,2.0,3,4,3,4,2.0,1,3,6,282
+11533,25-34,3-6L,Private Sector,Tier 1,Other,Rarely,3175.0,4,4,5.0,5,5,4,3,4.0,5,2,10,390
+11534,35-44,<3L,Private Sector,Tier 1,Flipkart,3-5/month,6237.0,4,3,4.0,3,3,3,4,4.0,3,4,9,499
+11535,18-24,6-10L,Self-employed,Tier 1,Other,Rarely,5277.0,4,4,4.0,3,4,3,5,3.0,4,3,9,318
+11536,25-34,10-20L,Self-employed,Tier 3,Amazon,1-2/month,6918.0,3,4,3.0,3,4,4,3,5.0,4,1,10,235
+11537,35-44,3-6L,Private Sector,Tier 2,Myntra,1-2/month,4355.0,4,4,3.0,4,4,3,5,4.0,4,2,7,321
+11538,35-44,6-10L,Private Sector,Tier 3,Amazon,1-2/month,6624.0,4,4,5.0,4,5,3,5,4.0,4,3,7,225
+11539,45-54,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,6048.0,5,4,3.0,3,4,2,4,3.0,1,4,6,487
+11540,25-34,3-6L,Student,Tier 1,Amazon,3-5/month,8673.0,3,5,4.0,5,4,4,3,4.0,5,3,9,368
+11541,45-54,10-20L,Other,Tier 3,Other,3-5/month,9277.0,3,4,4.0,4,3,4,4,3.0,4,2,5,291
+11542,18-24,6-10L,Private Sector,Tier 1,Other,Rarely,3831.0,3,5,4.0,5,4,4,3,5.0,5,3,10,307
+11543,25-34,10-20L,Private Sector,Tier 2,Flipkart,1-2/month,6124.0,3,4,3.0,3,4,5,3,4.0,4,3,7,248
+11544,18-24,3-6L,Private Sector,Tier 3,Flipkart,3-5/month,7008.0,2,5,4.0,3,5,3,4,4.0,4,2,6,456
+11545,25-34,3-6L,Private Sector,Tier 2,Flipkart,1-2/month,5444.0,4,3,3.0,4,3,4,3,4.0,4,2,6,535
+11546,25-34,3-6L,Private Sector,Tier 1,Amazon,3-5/month,7316.0,4,4,4.0,4,5,3,3,4.0,5,3,8,218
+11547,18-24,6-10L,Other,Tier 2,Flipkart,3-5/month,7119.0,3,5,4.0,4,3,4,3,3.0,4,4,8,459
+11548,35-44,20L+,Private Sector,Tier 1,Flipkart,1-2/month,5995.0,3,4,4.0,4,4,5,2,4.0,4,1,7,337
+11549,25-34,<3L,Government,Tier 1,Flipkart,1-2/month,5144.0,4,4,3.0,4,4,4,4,3.0,4,3,3,480
+11550,25-34,10-20L,Private Sector,Tier 1,Amazon,3-5/month,9058.0,4,3,5.0,3,4,5,3,4.0,4,2,10,186
+11551,18-24,10-20L,Private Sector,Tier 3,Other,Rarely,5595.0,3,3,3.0,4,4,3,5,4.0,3,2,10,381
+11552,25-34,6-10L,Student,Tier 2,Amazon,6+/month,11694.0,2,3,3.0,3,4,3,3,3.0,4,2,8,321
+11553,25-34,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,6943.0,3,5,4.0,3,5,3,3,2.0,3,4,8,423
+11554,25-34,6-10L,Student,Tier 1,Amazon,Rarely,5016.0,5,4,4.0,4,4,4,3,3.0,2,4,7,366
+11555,18-24,3-6L,Government,Tier 2,Amazon,3-5/month,9785.0,3,3,5.0,3,4,4,4,4.0,4,4,8,362
+11556,35-44,10-20L,Self-employed,Tier 3,Amazon,1-2/month,7657.0,4,3,4.0,2,4,4,4,3.0,4,3,9,350
+11557,55+,6-10L,Private Sector,Tier 1,Amazon,1-2/month,5690.0,4,3,4.0,4,5,3,4,5.0,3,2,10,508
+11558,25-34,10-20L,Private Sector,Tier 1,Flipkart,6+/month,11629.0,1,3,4.0,3,4,3,4,4.0,3,2,9,343
+11559,35-44,6-10L,Government,Tier 3,Flipkart,3-5/month,5576.0,4,4,4.0,4,5,4,5,4.0,5,3,10,442
+11560,45-54,6-10L,Student,Tier 3,Flipkart,3-5/month,9112.0,4,4,5.0,4,3,3,4,4.0,4,4,6,420
+11561,55+,6-10L,Other,Tier 3,Flipkart,3-5/month,8858.0,3,3,4.0,2,4,3,3,4.0,5,2,8,444
+11562,35-44,6-10L,Private Sector,Tier 1,Amazon,3-5/month,7661.0,3,5,3.0,3,4,2,3,3.0,4,2,9,264
+11563,45-54,10-20L,Student,Tier 1,Amazon,1-2/month,5311.0,3,3,4.0,4,4,3,4,4.0,3,2,9,427
+11564,45-54,<3L,Student,Tier 1,Flipkart,1-2/month,3610.0,4,3,2.0,3,4,2,3,4.0,3,3,4,392
+11565,45-54,20L+,Other,Tier 1,Flipkart,1-2/month,7650.0,3,5,4.0,4,4,3,4,4.0,5,3,7,247
+11566,25-34,10-20L,Private Sector,Tier 3,Flipkart,1-2/month,6520.0,3,5,5.0,5,4,3,4,5.0,5,1,10,340
+11567,18-24,10-20L,Government,Tier 1,Amazon,1-2/month,7222.0,3,3,4.0,4,4,3,4,3.0,5,2,7,578
+11568,18-24,6-10L,Student,Tier 2,Myntra,3-5/month,8228.0,4,4,4.0,3,4,3,3,3.0,3,4,7,323
+11569,25-34,10-20L,Student,Tier 3,Amazon,1-2/month,7470.0,2,4,4.0,2,4,5,4,4.0,5,1,9,325
+11570,25-34,3-6L,Self-employed,Tier 3,Flipkart,3-5/month,7833.0,2,4,5.0,4,4,3,4,4.0,4,1,8,403
+11571,25-34,10-20L,Student,Tier 2,Amazon,3-5/month,9546.0,4,3,5.0,5,4,5,3,5.0,5,3,9,309
+11572,25-34,<3L,Student,Tier 3,Flipkart,6+/month,8269.0,4,2,4.0,5,5,3,3,3.0,4,3,5,373
+11573,25-34,3-6L,Private Sector,Tier 1,Amazon,1-2/month,4189.0,3,3,4.0,4,4,3,4,4.0,4,2,10,317
+11574,45-54,3-6L,Self-employed,Tier 1,Flipkart,6+/month,10472.0,3,5,2.0,3,4,4,3,4.0,4,3,9,398
+11575,18-24,3-6L,Private Sector,Tier 1,Amazon,3-5/month,8472.0,4,5,5.0,4,3,3,4,3.0,4,2,8,354
+11576,18-24,3-6L,Student,Tier 3,Flipkart,Rarely,5892.0,3,4,4.0,4,4,3,5,4.0,2,1,9,545
+11577,45-54,10-20L,Other,Tier 3,Amazon,1-2/month,6452.0,4,3,4.0,4,3,5,4,4.0,3,4,10,364
+11578,45-54,3-6L,Government,Tier 1,Flipkart,1-2/month,4750.0,3,4,3.0,4,4,2,4,3.0,4,3,7,339
+11579,55+,10-20L,Self-employed,Tier 1,Amazon,3-5/month,7041.0,3,4,5.0,4,4,3,4,5.0,5,2,10,458
+11580,45-54,<3L,Self-employed,Tier 1,Amazon,3-5/month,7627.0,2,4,4.0,5,5,4,3,4.0,5,2,8,228
+11581,45-54,10-20L,Government,Tier 1,Flipkart,1-2/month,6105.0,4,2,4.0,5,5,5,3,4.0,4,2,7,521
+11582,25-34,10-20L,Private Sector,Tier 3,Amazon,3-5/month,11463.0,3,5,4.0,3,3,3,2,3.0,4,2,6,266
+11583,25-34,3-6L,Private Sector,Tier 1,Amazon,1-2/month,4635.0,4,5,4.0,3,3,5,4,4.0,5,3,9,473
+11584,25-34,6-10L,Government,Tier 2,Myntra,1-2/month,7845.0,4,3,3.0,2,4,4,4,4.0,2,3,9,498
+11585,35-44,10-20L,Government,Tier 2,Myntra,6+/month,12774.0,4,3,4.0,4,4,2,3,3.0,3,3,9,310
+11586,55+,10-20L,Other,Tier 1,Myntra,6+/month,11175.0,3,4,4.0,3,3,2,3,3.0,3,4,6,319
+11587,25-34,3-6L,Private Sector,Tier 1,Amazon,3-5/month,7709.0,4,4,3.0,4,4,4,4,4.0,4,3,9,350
+11588,25-34,6-10L,Private Sector,Tier 3,Flipkart,1-2/month,6644.0,3,4,4.0,4,4,3,5,4.0,2,1,8,419
+11589,25-34,3-6L,Private Sector,Tier 2,Myntra,Rarely,5297.0,2,4,3.0,4,3,4,4,5.0,4,1,10,265
+11590,18-24,3-6L,Private Sector,Tier 1,Amazon,1-2/month,6054.0,4,4,5.0,4,3,3,3,4.0,4,2,9,350
+11591,18-24,10-20L,Private Sector,Tier 1,Flipkart,1-2/month,7334.0,3,4,4.0,4,4,3,5,3.0,4,4,7,330
+11592,18-24,3-6L,Self-employed,Tier 3,Amazon,1-2/month,5837.0,5,4,3.0,4,4,3,5,4.0,4,3,8,251
+11593,55+,10-20L,Private Sector,Tier 3,Other,6+/month,12085.0,3,4,5.0,5,4,4,3,5.0,5,2,9,261
+11594,25-34,<3L,Student,Tier 3,Flipkart,3-5/month,5793.0,3,4,4.0,4,4,2,3,4.0,5,3,6,372
+11595,45-54,<3L,Private Sector,Tier 2,Flipkart,1-2/month,4581.0,4,5,4.0,4,4,4,4,4.0,4,1,6,370
+11596,35-44,20L+,Private Sector,Tier 3,Flipkart,1-2/month,7408.0,3,2,5.0,4,5,4,3,4.0,5,2,8,287
+11597,18-24,10-20L,Self-employed,Tier 1,Amazon,1-2/month,4912.0,3,3,5.0,4,3,3,4,3.0,3,3,7,368
+11598,18-24,10-20L,Private Sector,Tier 2,Amazon,1-2/month,6752.0,3,4,4.0,4,4,2,4,3.0,2,3,7,299
+11599,45-54,20L+,Private Sector,Tier 1,Flipkart,3-5/month,9363.0,3,3,4.0,3,4,4,4,3.0,5,3,8,484
+11600,25-34,3-6L,Private Sector,Tier 2,Flipkart,Rarely,3033.0,3,3,4.0,4,5,3,3,4.0,5,2,8,350
+11601,45-54,3-6L,Private Sector,Tier 3,Flipkart,3-5/month,7200.0,2,5,3.0,5,4,2,3,5.0,4,1,9,464
+11602,18-24,<3L,Student,Tier 3,Amazon,Rarely,3269.0,4,4,3.0,5,5,5,2,3.0,4,3,6,199
+11603,35-44,6-10L,Self-employed,Tier 2,Flipkart,1-2/month,7687.0,4,2,4.0,5,4,3,5,4.0,4,3,9,391
+11604,45-54,3-6L,Self-employed,Tier 2,Amazon,6+/month,10998.0,3,3,5.0,5,3,2,4,4.0,5,1,8,417
+11605,18-24,20L+,Private Sector,Tier 3,Amazon,1-2/month,8182.0,4,3,4.0,5,4,4,4,4.0,3,2,10,347
+11606,25-34,<3L,Private Sector,Tier 3,Other,Rarely,3444.0,4,4,3.0,4,4,4,4,3.0,4,3,7,309
+11607,55+,<3L,Student,Tier 2,Flipkart,3-5/month,5163.0,5,4,4.0,4,5,5,2,5.0,5,3,10,345
+11608,25-34,3-6L,Private Sector,Tier 1,Flipkart,1-2/month,5905.0,5,4,3.0,3,5,3,3,4.0,3,2,7,431
+11609,25-34,<3L,Private Sector,Tier 1,Other,Rarely,2958.0,5,4,2.0,4,3,3,3,3.0,3,4,8,245
+11610,25-34,3-6L,Government,Tier 3,Amazon,Rarely,3898.0,3,3,5.0,4,5,4,3,5.0,5,1,10,427
+11611,25-34,6-10L,Student,Tier 2,Other,Rarely,3902.0,4,3,3.0,4,5,4,2,4.0,3,1,6,390
+11612,35-44,3-6L,Government,Tier 2,Flipkart,1-2/month,5365.0,5,3,5.0,2,4,4,3,4.0,3,2,9,335
+11613,35-44,6-10L,Private Sector,Tier 2,Flipkart,1-2/month,6909.0,4,3,5.0,4,4,4,4,4.0,5,3,8,339
+11614,25-34,10-20L,Government,Tier 1,Amazon,3-5/month,9639.0,4,4,4.0,4,5,4,4,5.0,5,2,10,366
+11615,45-54,6-10L,Private Sector,Tier 1,Amazon,6+/month,12878.0,2,4,4.0,3,3,3,4,3.0,2,2,7,518
+11616,18-24,6-10L,Private Sector,Tier 3,Flipkart,Rarely,6405.0,5,4,5.0,4,4,4,5,4.0,4,3,5,393
+11617,18-24,3-6L,Private Sector,Tier 1,Amazon,1-2/month,3459.0,3,3,5.0,4,5,3,4,5.0,5,2,10,270
+11618,35-44,<3L,Self-employed,Tier 2,Amazon,Rarely,2476.0,2,5,4.0,5,4,4,3,3.0,5,3,8,319
+11619,55+,3-6L,Private Sector,Tier 2,Flipkart,1-2/month,3673.0,3,4,5.0,5,4,5,5,5.0,5,1,10,251
+11620,18-24,20L+,Student,Tier 3,Flipkart,1-2/month,7819.0,1,3,4.0,4,4,3,2,2.0,2,2,4,180
+11621,18-24,6-10L,Private Sector,Tier 1,Amazon,3-5/month,7526.0,3,4,4.0,4,3,5,2,3.0,3,4,7,250
+11622,25-34,3-6L,Private Sector,Tier 2,Flipkart,1-2/month,4860.0,5,3,3.0,4,3,3,3,3.0,5,4,6,371
+11623,45-54,3-6L,Government,Tier 1,Other,1-2/month,5105.0,3,2,4.0,4,4,3,4,3.0,4,4,4,481
+11624,18-24,10-20L,Private Sector,Tier 1,Myntra,3-5/month,9144.0,2,3,4.0,4,4,4,4,4.0,5,2,7,455
+11625,25-34,6-10L,Student,Tier 1,Myntra,3-5/month,6813.0,3,4,4.0,5,3,4,3,4.0,5,2,6,250
+11626,35-44,6-10L,Private Sector,Tier 1,Flipkart,1-2/month,4817.0,3,4,4.0,2,4,4,3,3.0,2,3,7,284
+11627,25-34,10-20L,Government,Tier 3,Amazon,1-2/month,6601.0,4,3,3.0,4,4,4,2,3.0,2,4,4,271
+11628,18-24,6-10L,Self-employed,Tier 3,Amazon,6+/month,12529.0,3,3,4.0,4,3,4,2,4.0,3,2,7,115
+11629,18-24,6-10L,Student,Tier 1,Other,1-2/month,5927.0,4,2,3.0,4,4,5,5,5.0,4,1,9,344
+11630,25-34,<3L,Private Sector,Tier 3,Flipkart,3-5/month,6138.0,3,5,4.0,2,5,4,3,4.0,3,3,9,436
+11631,25-34,<3L,Private Sector,Tier 2,Myntra,3-5/month,4917.0,5,4,5.0,4,4,3,5,3.0,3,3,10,336
+11633,35-44,6-10L,Private Sector,Tier 3,Amazon,1-2/month,5288.0,3,3,3.0,5,4,4,4,5.0,5,2,8,280
+11634,35-44,3-6L,Student,Tier 2,Amazon,Rarely,3167.0,3,5,5.0,4,5,4,4,3.0,5,3,6,329
+11635,55+,6-10L,Student,Tier 1,Flipkart,1-2/month,4406.0,3,4,4.0,3,5,4,4,5.0,5,2,10,433
+11636,25-34,<3L,Government,Tier 1,Amazon,1-2/month,3355.0,3,3,4.0,2,5,3,4,4.0,3,1,6,343
+11637,25-34,10-20L,Private Sector,Tier 2,Flipkart,3-5/month,7935.0,3,4,5.0,4,3,4,4,4.0,4,2,10,420
+11638,45-54,3-6L,Government,Tier 3,Myntra,3-5/month,7285.0,5,4,4.0,4,5,5,4,4.0,3,3,9,352
+11639,18-24,10-20L,Student,Tier 2,Flipkart,6+/month,11012.0,3,3,3.0,4,4,4,3,4.0,2,1,8,382
+11640,35-44,6-10L,Private Sector,Tier 1,Amazon,6+/month,11617.0,2,3,3.0,4,3,5,4,4.0,5,1,6,271
+11641,35-44,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,7278.0,3,3,4.0,4,4,4,3,5.0,5,2,10,295
+11642,18-24,<3L,Self-employed,Tier 3,Amazon,Rarely,5550.0,5,3,4.0,5,5,5,3,4.0,4,3,7,241
+11643,25-34,10-20L,Self-employed,Tier 1,Other,1-2/month,5066.0,3,4,5.0,4,5,4,4,4.0,4,2,8,417
+11644,18-24,<3L,Private Sector,Tier 2,Amazon,3-5/month,6995.0,4,4,4.0,3,3,4,4,4.0,3,2,8,332
+11645,18-24,<3L,Private Sector,Tier 2,Myntra,3-5/month,7007.0,5,4,5.0,3,4,4,3,5.0,5,2,7,25
+11646,25-34,10-20L,Private Sector,Tier 1,Flipkart,1-2/month,5672.0,3,4,4.0,5,4,3,3,2.0,3,2,5,406
+11647,25-34,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,7586.0,4,4,3.0,4,3,4,2,3.0,3,4,5,453
+11648,45-54,3-6L,Student,Tier 1,Flipkart,1-2/month,5993.0,3,2,3.0,3,3,5,2,2.0,2,3,4,283
+11649,45-54,3-6L,Private Sector,Tier 1,Amazon,1-2/month,5387.0,4,3,3.0,3,4,4,3,2.0,2,4,6,406
+11650,45-54,10-20L,Student,Tier 2,Flipkart,3-5/month,10046.0,3,4,3.0,4,4,4,4,4.0,3,3,9,340
+11651,25-34,3-6L,Self-employed,Tier 3,Myntra,1-2/month,3340.0,4,3,5.0,3,3,4,3,3.0,4,2,7,159
+11652,25-34,3-6L,Private Sector,Tier 1,Myntra,1-2/month,4542.0,4,4,4.0,4,4,4,5,3.0,3,4,5,546
+11653,25-34,3-6L,Private Sector,Tier 2,Amazon,3-5/month,8828.0,4,3,4.0,4,5,4,3,4.0,4,3,7,341
+11654,18-24,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,8321.0,3,4,5.0,4,4,4,3,5.0,5,2,9,379
+11655,55+,3-6L,Private Sector,Tier 1,Myntra,1-2/month,5786.0,3,5,3.0,5,4,4,3,3.0,3,3,3,301
+11656,25-34,<3L,Student,Tier 2,Myntra,3-5/month,7960.0,5,4,4.0,5,4,3,4,5.0,3,2,10,332
+11657,18-24,<3L,Self-employed,Tier 2,Flipkart,1-2/month,2925.0,4,2,5.0,3,4,3,3,5.0,4,3,7,375
+11658,45-54,3-6L,Self-employed,Tier 2,Amazon,3-5/month,8216.0,3,4,4.0,3,3,4,3,3.0,2,2,7,261
+11659,25-34,10-20L,Student,Tier 1,Other,Rarely,6458.0,3,5,5.0,4,3,4,3,5.0,5,2,7,521
+11660,18-24,<3L,Self-employed,Tier 2,Amazon,6+/month,9557.0,5,5,4.0,5,4,4,3,4.0,3,3,6,440
+11661,18-24,3-6L,Private Sector,Tier 1,Amazon,3-5/month,9866.0,4,4,5.0,4,3,3,4,5.0,5,2,10,409
+11662,35-44,10-20L,Student,Tier 3,Myntra,1-2/month,6777.0,3,2,5.0,4,5,3,3,5.0,5,3,10,347
+11663,35-44,10-20L,Private Sector,Tier 2,Amazon,1-2/month,4627.0,3,4,4.0,3,4,3,4,4.0,4,4,5,288
+11664,18-24,6-10L,Student,Tier 3,Myntra,1-2/month,6293.0,4,5,3.0,4,3,2,3,2.0,3,4,4,458
+11665,45-54,3-6L,Student,Tier 1,Amazon,3-5/month,6852.0,4,4,4.0,3,4,4,4,3.0,3,4,7,418
+11666,45-54,3-6L,Government,Tier 2,Myntra,3-5/month,8548.0,4,5,3.0,4,5,5,4,2.0,2,3,4,322
+11667,45-54,3-6L,Private Sector,Tier 2,Other,3-5/month,7993.0,5,3,4.0,4,4,4,5,5.0,5,3,9,257
+11668,18-24,<3L,Self-employed,Tier 1,Other,6+/month,9612.0,4,4,4.0,4,5,5,3,4.0,4,2,9,210
+11669,18-24,3-6L,Government,Tier 2,Other,1-2/month,6652.0,5,2,5.0,5,5,3,3,5.0,5,5,10,363
+11670,45-54,6-10L,Self-employed,Tier 2,Other,3-5/month,8996.0,3,3,4.0,4,5,4,4,4.0,4,1,7,336
+11671,25-34,3-6L,Private Sector,Tier 3,Amazon,1-2/month,4555.0,4,4,5.0,2,4,3,3,4.0,5,4,8,473
+11672,35-44,6-10L,Self-employed,Tier 1,Other,3-5/month,8013.0,4,3,2.0,4,5,3,4,4.0,3,3,8,454
+11673,35-44,3-6L,Private Sector,Tier 3,Other,1-2/month,5765.0,4,3,3.0,4,4,3,5,3.0,3,2,9,364
+11674,18-24,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,7172.0,4,3,3.0,4,5,2,3,4.0,5,4,8,352
+11675,35-44,10-20L,Private Sector,Tier 2,Amazon,Rarely,5199.0,4,4,5.0,4,4,3,5,5.0,5,1,10,251
+11676,55+,10-20L,Self-employed,Tier 2,Amazon,1-2/month,6633.0,5,3,4.0,5,5,4,3,5.0,5,2,10,461
+11677,35-44,3-6L,Student,Tier 1,Flipkart,1-2/month,4341.0,3,4,3.0,4,4,3,5,3.0,2,2,6,355
+11678,25-34,6-10L,Private Sector,Tier 3,Flipkart,6+/month,9441.0,3,4,4.0,4,4,3,4,4.0,3,2,7,418
+11679,45-54,3-6L,Self-employed,Tier 3,Amazon,1-2/month,5515.0,4,4,3.0,3,4,4,4,4.0,4,2,9,472
+11680,25-34,<3L,Private Sector,Tier 3,Amazon,1-2/month,2860.0,4,5,3.0,3,3,2,3,3.0,4,4,7,306
+11681,35-44,10-20L,Self-employed,Tier 3,Flipkart,1-2/month,5706.0,2,3,5.0,4,3,4,3,4.0,5,4,10,281
+11682,45-54,<3L,Private Sector,Tier 2,Amazon,1-2/month,3056.0,5,5,4.0,4,4,4,3,4.0,4,2,9,595
+11683,35-44,3-6L,Student,Tier 2,Other,6+/month,9316.0,3,5,4.0,3,5,4,4,5.0,5,1,10,416
+11684,25-34,6-10L,Private Sector,Tier 3,Amazon,6+/month,11834.0,3,3,4.0,4,3,4,3,4.0,3,3,9,334
+11685,18-24,<3L,Private Sector,Tier 1,Amazon,3-5/month,6650.0,3,4,4.0,4,4,4,4,4.0,5,2,7,478
+11686,18-24,<3L,Student,Tier 3,Amazon,3-5/month,6617.0,4,4,3.0,3,5,3,2,4.0,4,4,6,331
+11687,25-34,3-6L,Student,Tier 2,Myntra,1-2/month,4116.0,3,4,4.0,3,3,4,4,4.0,4,2,7,391
+11688,25-34,20L+,Student,Tier 2,Myntra,1-2/month,6660.0,2,4,4.0,4,5,5,5,5.0,5,1,10,306
+11689,35-44,6-10L,Self-employed,Tier 1,Amazon,3-5/month,8489.0,3,3,5.0,4,3,4,4,4.0,3,1,10,358
+11690,25-34,3-6L,Self-employed,Tier 1,Amazon,3-5/month,7453.0,3,4,5.0,3,3,4,4,2.0,2,4,6,334
+11691,35-44,<3L,Private Sector,Tier 1,Flipkart,1-2/month,5390.0,3,2,3.0,3,4,4,5,2.0,3,3,5,289
+11692,45-54,6-10L,Student,Tier 1,Amazon,3-5/month,9019.0,3,4,5.0,4,5,4,3,4.0,5,3,10,383
+11693,18-24,<3L,Private Sector,Tier 1,Flipkart,1-2/month,4423.0,5,5,4.0,4,4,4,3,3.0,3,3,6,299
+11694,35-44,6-10L,Self-employed,Tier 1,Amazon,1-2/month,4283.0,3,3,3.0,4,3,3,2,2.0,2,5,3,415
+11695,35-44,10-20L,Self-employed,Tier 1,Flipkart,1-2/month,5919.0,3,2,4.0,4,3,3,3,3.0,3,2,7,331
+11696,25-34,3-6L,Private Sector,Tier 2,Amazon,3-5/month,7412.0,4,4,4.0,4,5,4,5,5.0,5,1,10,197
+11697,18-24,3-6L,Student,Tier 1,Flipkart,3-5/month,6801.0,4,5,4.0,5,3,2,3,4.0,4,3,7,419
+11698,45-54,<3L,Self-employed,Tier 3,Flipkart,3-5/month,5901.0,5,4,4.0,4,5,4,2,4.0,4,2,5,421
+11699,55+,<3L,Self-employed,Tier 1,Amazon,3-5/month,6913.0,3,2,3.0,4,4,3,4,4.0,5,2,8,574
+11700,35-44,3-6L,Student,Tier 2,Amazon,3-5/month,9687.0,3,2,5.0,4,4,2,4,3.0,4,2,8,362
+11701,45-54,10-20L,Self-employed,Tier 1,Amazon,1-2/month,6161.0,4,4,2.0,4,4,3,4,4.0,2,2,3,377
+11702,55+,3-6L,Student,Tier 2,Amazon,3-5/month,7497.0,5,3,4.0,4,3,4,3,4.0,4,3,10,405
+11703,25-34,6-10L,Student,Tier 2,Other,1-2/month,4769.0,3,4,4.0,3,4,4,3,4.0,3,2,6,457
+11704,35-44,6-10L,Self-employed,Tier 2,Amazon,1-2/month,7069.0,3,4,4.0,3,3,4,3,3.0,3,2,8,451
+11705,25-34,<3L,Private Sector,Tier 1,Amazon,Rarely,4337.0,4,4,3.0,4,5,4,4,4.0,1,3,5,390
+11706,55+,<3L,Private Sector,Tier 2,Amazon,1-2/month,5375.0,3,5,5.0,4,3,2,3,3.0,4,4,4,357
+11707,18-24,3-6L,Self-employed,Tier 1,Myntra,1-2/month,6524.0,3,4,4.0,4,4,4,4,5.0,5,2,10,440
+11708,25-34,6-10L,Self-employed,Tier 2,Other,Rarely,4465.0,4,5,3.0,5,3,4,3,4.0,4,3,10,353
+11709,45-54,3-6L,Student,Tier 1,Myntra,1-2/month,5028.0,5,4,3.0,3,4,4,4,3.0,2,3,7,238
+11710,25-34,10-20L,Private Sector,Tier 2,Flipkart,3-5/month,10339.0,2,3,4.0,3,4,4,3,5.0,5,2,10,217
+11711,35-44,10-20L,Self-employed,Tier 1,Myntra,3-5/month,9369.0,4,3,3.0,3,5,2,3,2.0,3,4,3,332
+11712,25-34,10-20L,Private Sector,Tier 2,Amazon,Rarely,3503.0,3,3,5.0,3,4,3,4,4.0,4,2,7,371
+11713,55+,20L+,Other,Tier 1,Myntra,Rarely,6559.0,3,4,5.0,4,3,5,3,4.0,4,4,8,595
+11714,45-54,10-20L,Government,Tier 1,Myntra,1-2/month,6076.0,4,3,5.0,3,4,3,4,4.0,2,3,8,349
+11715,25-34,10-20L,Student,Tier 1,Amazon,3-5/month,9608.0,3,5,5.0,4,3,5,4,5.0,5,1,10,364
+11716,35-44,10-20L,Student,Tier 1,Flipkart,6+/month,12467.0,3,3,3.0,4,4,3,4,3.0,2,3,5,322
+11717,25-34,10-20L,Self-employed,Tier 2,Amazon,1-2/month,5034.0,4,4,3.0,3,5,5,2,5.0,5,1,10,419
+11718,35-44,10-20L,Other,Tier 3,Amazon,3-5/month,9042.0,3,3,2.0,3,4,3,3,2.0,3,3,6,387
+11719,35-44,20L+,Student,Tier 2,Myntra,3-5/month,9640.0,3,3,3.0,4,5,4,3,4.0,4,2,10,299
+11720,45-54,3-6L,Student,Tier 1,Amazon,6+/month,11127.0,3,5,5.0,4,3,3,3,4.0,3,2,7,264
+11721,18-24,6-10L,Self-employed,Tier 1,Flipkart,Rarely,5368.0,4,3,3.0,2,4,4,3,3.0,4,3,7,322
+11722,18-24,6-10L,Student,Tier 3,Other,3-5/month,9496.0,2,3,4.0,4,4,4,4,3.0,3,4,8,280
+11723,35-44,10-20L,Student,Tier 1,Flipkart,3-5/month,9173.0,2,3,3.0,2,3,3,4,4.0,4,1,8,338
+11724,25-34,3-6L,Self-employed,Tier 1,Amazon,1-2/month,5321.0,3,4,4.0,3,4,4,3,3.0,2,2,6,373
+11725,25-34,10-20L,Self-employed,Tier 3,Flipkart,Rarely,6533.0,3,3,5.0,5,4,3,4,3.0,4,2,3,312
+11726,18-24,10-20L,Self-employed,Tier 1,Myntra,Rarely,7518.0,2,3,3.0,5,4,4,4,3.0,3,2,7,498
+11727,25-34,20L+,Government,Tier 1,Amazon,1-2/month,8074.0,3,3,3.0,4,4,1,3,4.0,3,3,9,470
+11728,45-54,3-6L,Private Sector,Tier 1,Amazon,3-5/month,7686.0,3,4,5.0,3,5,3,4,5.0,5,2,10,338
+11729,18-24,6-10L,Self-employed,Tier 2,Flipkart,3-5/month,8539.0,4,4,4.0,3,4,5,3,2.0,4,4,4,268
+11730,25-34,10-20L,Private Sector,Tier 1,Other,1-2/month,6830.0,3,4,3.0,4,4,4,4,4.0,5,3,6,357
+11731,55+,20L+,Private Sector,Tier 2,Amazon,6+/month,12767.0,2,3,5.0,3,5,4,3,3.0,4,2,7,347
+11732,18-24,10-20L,Self-employed,Tier 1,Amazon,1-2/month,8549.0,3,3,3.0,3,3,4,3,3.0,5,4,7,354
+11733,35-44,6-10L,Government,Tier 1,Other,6+/month,10776.0,5,3,4.0,4,3,5,2,3.0,2,3,9,322
+11734,25-34,6-10L,Self-employed,Tier 1,Amazon,Rarely,5889.0,3,3,4.0,4,3,4,3,4.0,3,1,6,260
+11735,45-54,<3L,Student,Tier 3,Amazon,3-5/month,6737.0,4,3,4.0,4,4,3,4,4.0,4,3,7,363
+11736,35-44,20L+,Other,Tier 1,Flipkart,6+/month,11418.0,4,3,2.0,3,5,4,3,4.0,4,3,6,327
+11737,45-54,3-6L,Private Sector,Tier 2,Amazon,3-5/month,7331.0,4,4,4.0,3,4,4,3,3.0,3,3,8,335
+11738,18-24,6-10L,Government,Tier 1,Amazon,3-5/month,7658.0,4,3,4.0,4,5,4,3,4.0,3,3,10,369
+11739,25-34,10-20L,Self-employed,Tier 1,Flipkart,1-2/month,7120.0,3,3,4.0,3,4,3,5,3.0,3,3,10,353
+11740,35-44,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,7582.0,4,3,5.0,3,4,4,3,3.0,3,3,7,367
+11741,18-24,3-6L,Government,Tier 2,Flipkart,3-5/month,6580.0,3,5,5.0,4,3,5,2,5.0,5,3,10,322
+11742,18-24,<3L,Government,Tier 2,Amazon,1-2/month,5974.0,3,3,3.0,4,5,4,3,4.0,4,3,9,394
+11743,18-24,10-20L,Self-employed,Tier 3,Flipkart,6+/month,13081.0,4,4,4.0,3,4,2,3,3.0,2,4,8,292
+11744,55+,6-10L,Self-employed,Tier 3,Flipkart,1-2/month,7377.0,4,4,3.0,5,3,3,4,5.0,5,1,10,257
+11745,35-44,<3L,Government,Tier 2,Myntra,1-2/month,4863.0,4,4,4.0,4,5,3,4,3.0,5,5,8,275
+11746,35-44,6-10L,Student,Tier 2,Myntra,6+/month,11418.0,2,4,4.0,3,4,3,4,4.0,4,1,10,296
+11747,35-44,3-6L,Student,Tier 2,Flipkart,1-2/month,5933.0,3,4,3.0,4,5,2,3,3.0,4,3,7,238
+11748,25-34,10-20L,Other,Tier 2,Other,1-2/month,6080.0,3,4,4.0,3,5,5,3,5.0,4,1,10,199
+11749,25-34,3-6L,Other,Tier 1,Myntra,1-2/month,5417.0,4,4,3.0,4,4,3,5,4.0,4,4,9,408
+11750,25-34,3-6L,Other,Tier 3,Amazon,3-5/month,7342.0,3,5,3.0,4,5,3,1,4.0,3,2,8,481
+11751,35-44,<3L,Student,Tier 3,Other,6+/month,8835.0,4,4,4.0,4,4,2,4,3.0,3,4,7,413
+11752,18-24,6-10L,Private Sector,Tier 1,Other,Rarely,4965.0,5,2,3.0,4,5,4,4,5.0,4,2,9,314
+11753,45-54,3-6L,Self-employed,Tier 3,Amazon,3-5/month,7103.0,4,4,3.0,3,4,4,5,5.0,5,1,10,197
+11754,45-54,10-20L,Self-employed,Tier 3,Amazon,3-5/month,8582.0,3,4,5.0,5,4,3,2,4.0,4,3,10,378
+11755,25-34,3-6L,Student,Tier 1,Flipkart,3-5/month,7827.0,3,4,4.0,4,4,3,3,5.0,4,1,10,207
+11756,35-44,3-6L,Private Sector,Tier 3,Flipkart,3-5/month,8645.0,2,4,3.0,3,4,4,2,4.0,4,3,7,352
+11757,18-24,3-6L,Student,Tier 1,Myntra,6+/month,10036.0,3,2,4.0,4,4,3,2,3.0,4,3,7,284
+11758,55+,3-6L,Private Sector,Tier 1,Flipkart,1-2/month,4997.0,2,2,3.0,4,4,2,3,4.0,4,4,9,143
+11759,45-54,10-20L,Private Sector,Tier 1,Amazon,1-2/month,5911.0,3,5,3.0,4,5,3,4,3.0,4,2,7,501
+11760,45-54,<3L,Student,Tier 2,Amazon,3-5/month,6103.0,4,3,2.0,5,4,3,5,5.0,4,2,10,241
+11761,25-34,20L+,Student,Tier 1,Other,1-2/month,6715.0,2,4,4.0,5,5,4,3,5.0,5,1,7,326
+11762,18-24,3-6L,Self-employed,Tier 3,Amazon,1-2/month,5123.0,4,3,3.0,4,5,4,4,4.0,4,3,9,348
+11763,18-24,<3L,Self-employed,Tier 1,Flipkart,Rarely,4077.0,5,3,3.0,3,4,5,3,4.0,4,5,10,315
+11764,18-24,3-6L,Other,Tier 1,Amazon,Rarely,4488.0,5,4,4.0,3,4,2,4,4.0,4,3,10,404
+11765,18-24,<3L,Private Sector,Tier 2,Flipkart,6+/month,9199.0,4,4,4.0,2,5,4,4,4.0,5,1,10,290
+11766,18-24,10-20L,Private Sector,Tier 1,Flipkart,Rarely,6665.0,3,4,3.0,5,3,3,3,3.0,4,3,8,396
+11767,55+,6-10L,Private Sector,Tier 2,Amazon,3-5/month,9000.0,4,4,5.0,4,5,5,4,4.0,5,2,7,390
+11768,18-24,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,6689.0,5,4,5.0,4,3,5,2,5.0,5,2,9,229
+11769,18-24,6-10L,Private Sector,Tier 3,Flipkart,Rarely,5952.0,2,3,5.0,5,5,5,4,5.0,3,1,9,382
+11770,45-54,6-10L,Self-employed,Tier 2,Amazon,1-2/month,6244.0,5,3,5.0,3,4,4,4,5.0,5,1,8,260
+11771,35-44,20L+,Self-employed,Tier 1,Amazon,1-2/month,7109.0,3,4,4.0,3,4,4,4,4.0,5,4,10,249
+11773,35-44,6-10L,Private Sector,Tier 1,Flipkart,1-2/month,5927.0,3,3,4.0,4,5,3,3,4.0,4,2,9,321
+11774,45-54,10-20L,Private Sector,Tier 3,Flipkart,3-5/month,9291.0,3,3,4.0,3,3,3,4,4.0,3,4,9,395
+11775,35-44,10-20L,Private Sector,Tier 2,Myntra,1-2/month,6769.0,2,3,3.0,3,3,4,4,3.0,3,2,7,396
+11776,25-34,6-10L,Student,Tier 1,Amazon,Rarely,4546.0,3,4,3.0,4,5,5,4,4.0,3,3,9,224
+11777,35-44,6-10L,Government,Tier 1,Amazon,Rarely,3027.0,4,4,3.0,5,5,3,5,5.0,5,1,6,430
+11778,25-34,<3L,Private Sector,Tier 3,Flipkart,1-2/month,5124.0,4,4,4.0,4,4,3,2,3.0,5,4,7,387
+11779,25-34,10-20L,Government,Tier 1,Flipkart,1-2/month,6264.0,4,3,4.0,4,5,2,3,4.0,5,2,8,304
+11780,25-34,20L+,Student,Tier 2,Myntra,6+/month,13450.0,3,3,3.0,5,5,4,2,4.0,3,3,8,347
+11781,18-24,<3L,Other,Tier 2,Amazon,Rarely,3984.0,4,5,5.0,5,4,5,4,5.0,5,3,10,433
+11782,45-54,10-20L,Other,Tier 1,Flipkart,3-5/month,8487.0,4,3,3.0,4,5,5,4,5.0,4,2,9,330
+11783,25-34,20L+,Private Sector,Tier 2,Flipkart,3-5/month,10371.0,4,5,3.0,5,4,5,5,4.0,3,1,6,561
+11784,18-24,3-6L,Self-employed,Tier 1,Amazon,3-5/month,7684.0,4,5,4.0,4,4,4,4,3.0,2,3,5,502
+11785,18-24,6-10L,Private Sector,Tier 1,Flipkart,3-5/month,8297.0,4,4,4.0,5,3,4,4,4.0,4,3,6,371
+11786,45-54,10-20L,Government,Tier 3,Flipkart,Rarely,5376.0,4,2,3.0,4,3,5,4,3.0,4,4,5,338
+11787,25-34,20L+,Self-employed,Tier 2,Amazon,3-5/month,10965.0,5,3,4.0,4,5,3,3,3.0,3,5,5,342
+11788,35-44,<3L,Self-employed,Tier 3,Amazon,1-2/month,4008.0,5,3,3.0,4,4,3,4,4.0,5,4,6,303
+11789,45-54,3-6L,Self-employed,Tier 2,Amazon,3-5/month,7210.0,3,4,4.0,4,4,5,4,4.0,5,2,9,372
+11790,18-24,6-10L,Private Sector,Tier 1,Other,1-2/month,4836.0,3,3,4.0,5,5,3,2,5.0,5,1,8,425
+11791,35-44,3-6L,Self-employed,Tier 2,Amazon,3-5/month,8154.0,3,4,4.0,4,5,4,4,3.0,4,2,4,232
+11792,25-34,3-6L,Government,Tier 2,Amazon,3-5/month,6976.0,3,4,4.0,4,4,4,4,4.0,3,2,8,421
+11793,18-24,<3L,Student,Tier 1,Amazon,3-5/month,6427.0,4,5,4.0,3,3,4,5,4.0,4,3,6,449
+11794,35-44,<3L,Student,Tier 1,Amazon,1-2/month,4185.0,3,4,3.0,4,4,5,3,3.0,3,2,9,414
+11795,45-54,6-10L,Self-employed,Tier 2,Amazon,3-5/month,8206.0,4,3,4.0,3,3,5,3,4.0,4,2,8,348
+11796,25-34,6-10L,Private Sector,Tier 2,Flipkart,3-5/month,7024.0,2,4,4.0,4,4,4,4,5.0,5,2,7,410
+11797,25-34,6-10L,Private Sector,Tier 1,Amazon,1-2/month,3931.0,2,5,4.0,4,3,5,4,3.0,2,2,8,483
+11798,25-34,10-20L,Self-employed,Tier 3,Amazon,1-2/month,7012.0,3,4,3.0,4,3,3,3,3.0,3,3,7,354
+11799,25-34,3-6L,Government,Tier 1,Amazon,1-2/month,3398.0,3,4,5.0,5,2,3,2,5.0,5,1,9,362
+11800,35-44,3-6L,Private Sector,Tier 1,Amazon,1-2/month,6069.0,3,4,3.0,5,4,5,3,4.0,4,3,10,563
+11801,35-44,3-6L,Private Sector,Tier 1,Amazon,3-5/month,8253.0,3,4,4.0,4,2,5,3,5.0,4,1,8,389
+11802,35-44,3-6L,Private Sector,Tier 3,Flipkart,1-2/month,5152.0,3,4,3.0,4,4,3,3,4.0,4,1,10,264
+11803,18-24,3-6L,Self-employed,Tier 1,Flipkart,3-5/month,8670.0,4,4,3.0,3,4,4,4,5.0,4,3,9,443
+11804,35-44,<3L,Private Sector,Tier 2,Flipkart,3-5/month,6828.0,3,4,3.0,4,3,4,3,4.0,5,2,8,398
+11805,35-44,<3L,Private Sector,Tier 1,Amazon,3-5/month,8289.0,3,4,4.0,3,3,4,3,5.0,4,1,9,298
+11806,35-44,<3L,Government,Tier 2,Myntra,3-5/month,6439.0,4,4,2.0,3,4,5,4,3.0,4,3,6,255
+11807,18-24,6-10L,Government,Tier 2,Flipkart,3-5/month,6022.0,4,4,3.0,4,3,5,3,3.0,4,4,6,383
+11808,25-34,6-10L,Self-employed,Tier 1,Amazon,1-2/month,5878.0,5,3,2.0,3,4,4,5,3.0,2,4,4,354
+11809,25-34,20L+,Student,Tier 3,Flipkart,1-2/month,8787.0,3,3,5.0,4,3,4,4,5.0,5,2,10,242
+11810,18-24,10-20L,Self-employed,Tier 1,Myntra,3-5/month,9281.0,3,3,4.0,5,4,4,2,5.0,5,1,10,352
+11811,18-24,6-10L,Private Sector,Tier 1,Amazon,6+/month,10986.0,3,4,4.0,4,4,4,3,4.0,4,2,6,346
+11812,25-34,<3L,Student,Tier 2,Amazon,1-2/month,4946.0,4,3,4.0,2,4,2,3,4.0,4,3,9,354
+11813,35-44,6-10L,Government,Tier 2,Flipkart,6+/month,12324.0,4,4,4.0,4,5,4,3,4.0,4,4,10,407
+11814,18-24,<3L,Government,Tier 1,Amazon,6+/month,10073.0,5,5,5.0,3,4,4,4,4.0,5,3,7,193
+11815,45-54,3-6L,Private Sector,Tier 2,Other,1-2/month,7664.0,2,5,2.0,3,4,4,3,3.0,3,2,5,254
+11816,25-34,3-6L,Self-employed,Tier 1,Amazon,3-5/month,7034.0,3,5,5.0,5,4,3,3,3.0,4,3,8,314
+11817,35-44,3-6L,Private Sector,Tier 2,Amazon,3-5/month,8402.0,4,3,5.0,2,4,5,4,4.0,4,2,9,486
+11818,25-34,3-6L,Student,Tier 2,Amazon,1-2/month,5986.0,4,3,4.0,3,4,4,3,5.0,5,1,10,585
+11819,25-34,6-10L,Private Sector,Tier 3,Amazon,Rarely,4220.0,3,3,4.0,4,4,3,4,3.0,5,1,8,360
+11820,35-44,10-20L,Private Sector,Tier 2,Other,1-2/month,6218.0,2,4,1.0,3,4,3,2,3.0,2,3,7,364
+11821,45-54,10-20L,Government,Tier 2,Myntra,3-5/month,9716.0,4,3,3.0,3,4,4,3,3.0,3,3,9,128
+11822,25-34,6-10L,Self-employed,Tier 2,Other,1-2/month,6080.0,3,3,4.0,5,4,4,3,4.0,3,2,8,446
+11823,25-34,6-10L,Government,Tier 1,Flipkart,3-5/month,8454.0,2,3,5.0,4,4,3,4,3.0,5,3,7,403
+11824,35-44,<3L,Student,Tier 1,Flipkart,3-5/month,5378.0,4,4,4.0,4,4,4,3,4.0,4,2,10,387
+11825,35-44,6-10L,Private Sector,Tier 3,Amazon,3-5/month,8740.0,4,3,4.0,4,4,4,5,4.0,4,1,4,242
+11826,18-24,6-10L,Student,Tier 1,Amazon,1-2/month,6209.0,3,5,5.0,4,4,4,2,5.0,5,1,10,548
+11827,25-34,3-6L,Government,Tier 2,Other,1-2/month,5242.0,3,4,5.0,5,5,3,4,4.0,4,2,7,504
+11828,25-34,3-6L,Private Sector,Tier 1,Flipkart,1-2/month,5625.0,4,5,4.0,5,5,4,4,4.0,3,2,9,388
+11829,45-54,20L+,Private Sector,Tier 3,Flipkart,1-2/month,6882.0,4,3,5.0,3,4,4,4,4.0,5,2,10,454
+11830,25-34,6-10L,Self-employed,Tier 1,Flipkart,Rarely,4317.0,2,4,3.0,4,4,4,4,3.0,4,1,6,365
+11831,25-34,3-6L,Government,Tier 3,Myntra,Rarely,3982.0,3,4,3.0,4,5,3,5,4.0,5,1,7,438
+11832,55+,6-10L,Private Sector,Tier 2,Amazon,1-2/month,5532.0,3,4,4.0,3,4,3,5,4.0,3,2,8,236
+11833,25-34,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,9462.0,4,4,3.0,4,3,4,3,4.0,3,2,6,144
+11834,18-24,3-6L,Government,Tier 2,Flipkart,1-2/month,6121.0,3,5,3.0,4,5,4,4,3.0,3,1,10,239
+11835,18-24,3-6L,Private Sector,Tier 2,Myntra,1-2/month,4428.0,4,3,4.0,5,4,4,3,4.0,5,3,8,283
+11836,18-24,3-6L,Student,Tier 1,Amazon,6+/month,12633.0,4,4,4.0,5,4,4,3,5.0,5,3,10,299
+11837,18-24,6-10L,Self-employed,Tier 1,Amazon,1-2/month,5560.0,4,4,4.0,5,5,3,4,5.0,4,2,9,403
+11838,25-34,<3L,Private Sector,Tier 2,Flipkart,6+/month,10177.0,4,3,4.0,3,5,3,4,3.0,4,3,7,336
+11839,35-44,10-20L,Private Sector,Tier 2,Myntra,3-5/month,9608.0,3,5,2.0,3,4,4,2,2.0,1,4,7,357
+11840,35-44,3-6L,Student,Tier 1,Other,Rarely,2427.0,4,5,2.0,3,3,4,4,3.0,2,1,5,247
+11841,18-24,6-10L,Private Sector,Tier 3,Flipkart,6+/month,11237.0,2,2,3.0,5,4,4,4,3.0,3,3,6,239
+11842,25-34,6-10L,Private Sector,Tier 1,Amazon,6+/month,10934.0,3,4,3.0,3,5,3,3,4.0,3,3,10,364
+11843,18-24,6-10L,Private Sector,Tier 1,Amazon,3-5/month,8335.0,2,4,4.0,3,4,3,3,3.0,2,4,6,309
+11844,55+,6-10L,Private Sector,Tier 2,Flipkart,3-5/month,8483.0,3,4,5.0,3,4,5,4,5.0,5,1,9,360
+11845,18-24,20L+,Private Sector,Tier 1,Amazon,1-2/month,7180.0,3,5,4.0,5,5,5,5,5.0,5,1,10,412
+11846,35-44,6-10L,Self-employed,Tier 1,Flipkart,1-2/month,5839.0,2,5,3.0,4,4,3,4,4.0,5,3,10,516
+11847,25-34,10-20L,Other,Tier 2,Myntra,3-5/month,9759.0,3,4,3.0,4,5,5,4,2.0,3,4,8,358
+11848,35-44,6-10L,Student,Tier 1,Amazon,1-2/month,6221.0,3,5,5.0,3,4,3,3,3.0,4,4,6,532
+11849,25-34,3-6L,Student,Tier 1,Amazon,1-2/month,5337.0,3,4,5.0,4,5,3,3,5.0,5,1,9,399
+11850,35-44,3-6L,Self-employed,Tier 2,Amazon,Rarely,4333.0,3,3,4.0,3,5,3,4,3.0,3,3,6,426
+11851,18-24,3-6L,Other,Tier 2,Amazon,Rarely,5852.0,3,3,3.0,3,4,4,2,2.0,3,3,6,460
+11852,45-54,3-6L,Self-employed,Tier 3,Flipkart,1-2/month,5455.0,4,5,4.0,3,4,4,4,4.0,5,2,6,428
+11853,25-34,3-6L,Student,Tier 2,Amazon,1-2/month,4837.0,4,3,4.0,4,4,4,4,4.0,5,2,6,284
+11854,35-44,3-6L,Private Sector,Tier 2,Amazon,6+/month,9082.0,4,3,4.0,3,3,4,3,3.0,3,5,6,463
+11855,45-54,6-10L,Student,Tier 1,Amazon,1-2/month,4659.0,3,3,3.0,5,3,3,4,4.0,4,3,7,324
+11856,55+,3-6L,Self-employed,Tier 2,Amazon,1-2/month,4880.0,3,4,4.0,4,4,4,4,4.0,3,1,10,389
+11857,18-24,10-20L,Private Sector,Tier 1,Flipkart,1-2/month,6502.0,5,3,3.0,3,4,4,3,3.0,3,3,8,373
+11858,25-34,3-6L,Private Sector,Tier 1,Flipkart,3-5/month,7000.0,2,3,3.0,4,4,2,2,4.0,5,2,7,469
+11859,25-34,6-10L,Private Sector,Tier 3,Flipkart,3-5/month,8466.0,4,5,5.0,4,4,4,3,4.0,3,2,8,397
+11860,25-34,<3L,Private Sector,Tier 2,Flipkart,3-5/month,6338.0,5,4,4.0,3,4,4,5,4.0,5,2,4,228
+11861,35-44,3-6L,Private Sector,Tier 2,Amazon,6+/month,9977.0,4,5,4.0,4,4,3,4,4.0,5,3,7,559
+11862,55+,<3L,Student,Tier 1,Flipkart,6+/month,10701.0,4,4,4.0,2,5,3,3,4.0,4,2,10,439
+11863,55+,6-10L,Government,Tier 1,Amazon,3-5/month,9382.0,4,5,4.0,4,4,3,3,3.0,3,4,6,308
+11864,25-34,3-6L,Government,Tier 2,Other,3-5/month,6504.0,3,4,5.0,3,5,3,3,4.0,4,1,6,252
+11865,35-44,20L+,Government,Tier 2,Amazon,1-2/month,7469.0,3,4,5.0,3,4,5,3,4.0,4,2,10,450
+11866,45-54,3-6L,Private Sector,Tier 2,Flipkart,3-5/month,5785.0,3,4,4.0,5,5,5,4,4.0,4,3,6,263
+11867,55+,6-10L,Self-employed,Tier 1,Amazon,1-2/month,4623.0,3,4,4.0,3,4,1,4,3.0,3,3,9,436
+11868,18-24,3-6L,Government,Tier 1,Myntra,3-5/month,6970.0,3,5,3.0,4,4,4,5,3.0,2,3,10,462
+11869,25-34,6-10L,Student,Tier 2,Amazon,1-2/month,6971.0,4,5,5.0,4,5,4,3,2.0,3,4,5,298
+11870,45-54,3-6L,Student,Tier 2,Other,1-2/month,4599.0,3,4,4.0,4,3,3,4,3.0,2,3,9,290
+11871,25-34,3-6L,Private Sector,Tier 1,Amazon,Rarely,3466.0,4,4,3.0,4,2,4,4,4.0,2,3,4,315
+11872,25-34,3-6L,Private Sector,Tier 1,Myntra,3-5/month,7532.0,2,4,4.0,4,4,5,3,3.0,2,2,4,266
+11873,55+,<3L,Student,Tier 1,Flipkart,3-5/month,6883.0,4,4,4.0,5,3,3,3,5.0,5,2,8,382
+11874,55+,<3L,Student,Tier 1,Amazon,Rarely,2843.0,3,4,2.0,4,3,4,4,3.0,3,4,8,395
+11875,45-54,20L+,Student,Tier 2,Amazon,1-2/month,9038.0,2,2,3.0,3,3,5,5,4.0,4,3,8,429
+11876,45-54,3-6L,Private Sector,Tier 1,Amazon,1-2/month,5061.0,4,4,4.0,3,4,3,4,4.0,4,3,8,281
+11877,25-34,<3L,Private Sector,Tier 2,Myntra,3-5/month,6952.0,5,5,2.0,3,3,4,3,4.0,4,2,6,440
+11878,25-34,20L+,Student,Tier 2,Myntra,Rarely,5788.0,3,3,2.0,4,5,3,3,4.0,5,3,8,266
+11879,25-34,<3L,Government,Tier 3,Amazon,Rarely,3946.0,4,5,4.0,5,3,4,3,3.0,4,4,6,440
+11880,25-34,3-6L,Private Sector,Tier 3,Amazon,3-5/month,8611.0,3,4,4.0,4,4,5,4,5.0,5,2,8,219
+11881,25-34,6-10L,Private Sector,Tier 1,Amazon,3-5/month,9647.0,3,3,4.0,3,4,4,4,5.0,5,2,8,509
+11882,35-44,10-20L,Private Sector,Tier 1,Amazon,3-5/month,8114.0,4,4,5.0,4,5,4,3,3.0,4,4,7,310
+11883,25-34,6-10L,Self-employed,Tier 1,Flipkart,3-5/month,9141.0,3,4,4.0,5,4,2,1,4.0,5,1,7,417
+11884,35-44,3-6L,Other,Tier 2,Amazon,6+/month,11295.0,4,4,4.0,4,5,5,4,5.0,4,1,10,424
+11885,25-34,20L+,Private Sector,Tier 1,Amazon,1-2/month,8127.0,4,4,3.0,5,4,3,3,4.0,4,3,5,239
+11886,25-34,<3L,Student,Tier 1,Myntra,1-2/month,4567.0,3,4,3.0,3,4,3,3,4.0,1,3,6,439
+11887,18-24,20L+,Private Sector,Tier 1,Myntra,6+/month,12582.0,2,2,4.0,4,4,4,3,4.0,4,1,9,308
+11888,18-24,10-20L,Student,Tier 1,Myntra,Rarely,6342.0,3,3,4.0,3,5,4,4,3.0,3,4,6,331
+11889,45-54,10-20L,Self-employed,Tier 2,Amazon,3-5/month,9659.0,2,2,4.0,5,5,4,3,5.0,5,1,10,296
+11890,25-34,3-6L,Student,Tier 2,Other,Rarely,5609.0,3,4,4.0,4,4,4,4,4.0,4,2,10,513
+11891,18-24,<3L,Other,Tier 2,Flipkart,1-2/month,4829.0,5,5,5.0,5,4,4,4,4.0,5,1,6,249
+11892,35-44,6-10L,Private Sector,Tier 3,Flipkart,1-2/month,5854.0,3,4,4.0,4,4,4,3,3.0,3,3,7,401
+11893,25-34,6-10L,Private Sector,Tier 1,Amazon,3-5/month,5936.0,4,4,5.0,4,4,3,3,4.0,5,3,6,301
+11894,18-24,6-10L,Self-employed,Tier 1,Other,3-5/month,6700.0,3,4,3.0,3,5,3,4,3.0,4,4,7,464
+11895,25-34,10-20L,Student,Tier 1,Flipkart,Rarely,5145.0,5,2,4.0,4,4,4,3,3.0,3,4,6,581
+11896,18-24,6-10L,Self-employed,Tier 2,Myntra,1-2/month,4959.0,3,4,3.0,3,4,3,2,3.0,4,3,7,300
+11897,35-44,3-6L,Student,Tier 2,Flipkart,1-2/month,6033.0,4,3,4.0,5,4,3,5,4.0,5,3,10,373
+11898,25-34,3-6L,Self-employed,Tier 1,Myntra,1-2/month,4121.0,3,3,3.0,5,4,3,4,2.0,3,4,6,323
+11899,18-24,<3L,Private Sector,Tier 3,Flipkart,1-2/month,4199.0,3,5,3.0,3,3,4,3,4.0,3,2,10,459
+11900,18-24,<3L,Student,Tier 1,Other,6+/month,9734.0,5,5,2.0,4,4,5,2,4.0,5,3,8,336
+11901,35-44,<3L,Self-employed,Tier 1,Amazon,Rarely,4634.0,4,4,4.0,4,5,4,3,4.0,5,3,9,446
+11902,18-24,10-20L,Student,Tier 2,Amazon,1-2/month,6053.0,4,3,5.0,3,4,2,3,3.0,2,2,7,322
+11903,45-54,6-10L,Student,Tier 3,Flipkart,1-2/month,6357.0,3,3,4.0,4,4,4,3,4.0,4,1,8,573
+11904,18-24,6-10L,Self-employed,Tier 2,Flipkart,1-2/month,6126.0,4,4,4.0,5,5,3,2,5.0,5,2,10,152
+11905,35-44,3-6L,Private Sector,Tier 3,Flipkart,1-2/month,6113.0,3,5,4.0,4,4,4,3,3.0,3,2,6,396
+11906,25-34,6-10L,Self-employed,Tier 1,Flipkart,3-5/month,8915.0,2,4,4.0,5,2,3,3,4.0,3,1,10,359
+11907,25-34,10-20L,Private Sector,Tier 2,Flipkart,3-5/month,8770.0,3,2,4.0,3,3,3,3,2.0,3,3,6,356
+11908,18-24,10-20L,Private Sector,Tier 3,Myntra,3-5/month,7273.0,3,4,4.0,4,4,4,3,4.0,3,3,8,387
+11909,45-54,6-10L,Private Sector,Tier 2,Amazon,1-2/month,5741.0,4,2,3.0,3,3,3,4,3.0,3,4,6,366
+11910,45-54,10-20L,Student,Tier 1,Myntra,3-5/month,8782.0,4,4,4.0,4,4,4,5,5.0,5,2,10,381
+11911,18-24,6-10L,Other,Tier 3,Amazon,6+/month,11707.0,4,3,4.0,4,4,3,3,3.0,3,3,9,399
+11912,18-24,3-6L,Student,Tier 1,Flipkart,6+/month,10136.0,5,3,3.0,4,5,3,3,3.0,3,5,7,526
+11913,45-54,10-20L,Private Sector,Tier 1,Other,6+/month,13127.0,2,4,2.0,5,3,4,2,2.0,3,3,6,97
+11914,25-34,3-6L,Private Sector,Tier 3,Amazon,1-2/month,5312.0,5,4,3.0,4,4,4,3,3.0,2,4,9,535
+11915,18-24,3-6L,Private Sector,Tier 3,Amazon,6+/month,9972.0,5,4,4.0,3,4,4,2,4.0,3,2,8,603
+11916,18-24,3-6L,Private Sector,Tier 3,Amazon,3-5/month,7088.0,3,5,5.0,3,4,3,4,3.0,2,2,7,194
+11917,35-44,6-10L,Self-employed,Tier 3,Flipkart,3-5/month,9886.0,2,4,4.0,4,4,3,3,3.0,3,4,7,365
+11918,35-44,6-10L,Self-employed,Tier 1,Amazon,3-5/month,8748.0,2,3,5.0,5,2,3,4,5.0,5,1,9,490
+11919,35-44,6-10L,Self-employed,Tier 3,Amazon,6+/month,12394.0,3,4,3.0,4,4,4,5,4.0,5,3,10,447
+11920,55+,3-6L,Private Sector,Tier 1,Other,1-2/month,4363.0,5,4,4.0,3,4,3,3,3.0,3,3,6,519
+11921,25-34,3-6L,Private Sector,Tier 2,Amazon,3-5/month,6880.0,4,5,5.0,5,5,4,3,4.0,5,3,8,395
+11922,25-34,10-20L,Student,Tier 1,Flipkart,3-5/month,8187.0,3,4,5.0,4,5,4,5,4.0,4,2,10,167
+11923,25-34,3-6L,Self-employed,Tier 3,Flipkart,3-5/month,7666.0,3,4,4.0,4,4,5,4,4.0,3,3,5,484
+11924,25-34,10-20L,Private Sector,Tier 2,Amazon,3-5/month,8643.0,2,2,5.0,3,4,4,4,4.0,4,3,9,420
+11925,18-24,3-6L,Private Sector,Tier 3,Amazon,1-2/month,4859.0,4,4,4.0,4,5,4,4,4.0,5,1,7,499
+11926,18-24,6-10L,Student,Tier 1,Other,1-2/month,5622.0,3,4,5.0,4,5,2,4,4.0,3,2,8,214
+11927,25-34,6-10L,Self-employed,Tier 1,Flipkart,1-2/month,5235.0,5,3,5.0,4,4,4,4,4.0,5,4,6,244
+11928,35-44,10-20L,Self-employed,Tier 1,Amazon,3-5/month,8638.0,4,3,3.0,3,5,4,5,3.0,3,4,6,362
+11929,18-24,<3L,Self-employed,Tier 1,Myntra,3-5/month,7852.0,4,4,4.0,4,4,3,3,4.0,3,3,8,487
+11930,25-34,10-20L,Student,Tier 2,Flipkart,3-5/month,7438.0,3,4,2.0,3,3,5,4,2.0,2,3,5,513
+11931,35-44,6-10L,Other,Tier 1,Amazon,3-5/month,8462.0,3,3,5.0,5,4,3,3,4.0,5,2,10,291
+11932,35-44,6-10L,Private Sector,Tier 2,Flipkart,3-5/month,9392.0,3,3,4.0,4,4,3,4,5.0,5,2,6,321
+11933,35-44,6-10L,Private Sector,Tier 1,Flipkart,Rarely,4685.0,2,3,5.0,3,2,4,3,4.0,4,2,8,633
+11934,45-54,<3L,Private Sector,Tier 1,Amazon,3-5/month,6374.0,4,4,4.0,3,4,3,2,4.0,5,2,8,307
+11935,35-44,6-10L,Private Sector,Tier 2,Other,6+/month,12282.0,3,4,2.0,4,4,3,4,3.0,3,3,7,424
+11936,18-24,3-6L,Private Sector,Tier 1,Amazon,3-5/month,6614.0,4,3,5.0,3,4,3,3,4.0,5,3,8,317
+11937,25-34,3-6L,Private Sector,Tier 1,Amazon,6+/month,10780.0,4,3,4.0,4,3,3,3,3.0,5,5,5,405
+11938,35-44,6-10L,Private Sector,Tier 1,Amazon,6+/month,10514.0,3,4,3.0,3,4,3,5,3.0,3,4,4,278
+11939,18-24,6-10L,Government,Tier 1,Myntra,1-2/month,4267.0,3,4,5.0,3,4,4,4,4.0,4,2,9,280
+11940,18-24,<3L,Self-employed,Tier 2,Flipkart,3-5/month,6713.0,4,4,5.0,4,5,3,3,4.0,4,2,7,325
+11941,18-24,<3L,Government,Tier 1,Other,3-5/month,5713.0,4,5,4.0,4,4,2,1,4.0,4,3,9,308
+11942,25-34,<3L,Private Sector,Tier 1,Amazon,1-2/month,4639.0,5,5,4.0,5,5,4,4,5.0,5,3,8,331
+11943,25-34,<3L,Student,Tier 2,Myntra,1-2/month,5654.0,3,5,4.0,4,3,3,4,4.0,4,3,9,410
+11944,18-24,6-10L,Self-employed,Tier 2,Flipkart,1-2/month,7619.0,4,5,3.0,3,4,4,4,4.0,3,3,8,540
+11945,45-54,<3L,Student,Tier 2,Amazon,1-2/month,4734.0,5,5,3.0,3,5,5,4,2.0,4,4,5,304
+11946,45-54,10-20L,Private Sector,Tier 1,Amazon,3-5/month,9717.0,3,3,5.0,4,3,4,3,5.0,5,2,9,266
+11947,18-24,3-6L,Student,Tier 3,Myntra,Rarely,4559.0,4,4,4.0,4,4,5,3,4.0,3,3,8,361
+11948,45-54,<3L,Government,Tier 1,Amazon,1-2/month,4305.0,4,5,3.0,5,3,4,3,4.0,4,3,8,279
+11949,18-24,10-20L,Private Sector,Tier 1,Flipkart,1-2/month,4868.0,5,5,3.0,4,3,4,3,3.0,4,3,9,205
+11950,45-54,3-6L,Government,Tier 3,Flipkart,1-2/month,6764.0,4,3,5.0,2,4,3,4,3.0,4,3,4,461
+11951,55+,3-6L,Private Sector,Tier 2,Amazon,6+/month,9856.0,4,4,2.0,3,4,4,4,3.0,2,5,6,368
+11952,18-24,20L+,Private Sector,Tier 2,Other,1-2/month,8494.0,3,3,4.0,3,4,3,4,3.0,4,2,8,377
+11953,35-44,20L+,Private Sector,Tier 3,Myntra,Rarely,6633.0,2,5,5.0,4,4,3,2,2.0,3,3,6,177
+11954,55+,6-10L,Student,Tier 1,Flipkart,6+/month,10572.0,2,3,5.0,3,3,3,2,4.0,5,2,10,304
+11955,45-54,<3L,Private Sector,Tier 3,Flipkart,3-5/month,7131.0,5,3,4.0,4,3,3,3,4.0,3,3,8,225
+11956,55+,6-10L,Government,Tier 2,Flipkart,3-5/month,10070.0,3,2,5.0,3,3,4,3,3.0,1,4,5,358
+11957,25-34,20L+,Private Sector,Tier 1,Myntra,3-5/month,10832.0,3,4,5.0,4,5,3,4,5.0,4,2,8,373
+11958,18-24,20L+,Student,Tier 1,Amazon,Rarely,5689.0,3,5,4.0,4,5,4,2,4.0,5,1,8,373
+11959,45-54,<3L,Government,Tier 1,Flipkart,3-5/month,6209.0,4,4,4.0,5,4,3,5,4.0,4,2,9,297
+11960,35-44,3-6L,Private Sector,Tier 3,Amazon,1-2/month,5390.0,3,4,5.0,4,4,4,3,4.0,5,2,8,279
+11961,35-44,3-6L,Student,Tier 1,Flipkart,1-2/month,5151.0,3,4,3.0,3,5,5,5,4.0,5,3,8,342
+11962,25-34,<3L,Student,Tier 1,Flipkart,1-2/month,5730.0,4,4,4.0,5,4,5,4,4.0,4,3,9,394
+11963,35-44,6-10L,Private Sector,Tier 2,Amazon,3-5/month,8816.0,3,4,4.0,4,5,5,3,5.0,4,1,10,305
+11964,18-24,3-6L,Private Sector,Tier 2,Other,1-2/month,3777.0,3,4,4.0,4,3,4,5,4.0,2,2,7,271
+11965,35-44,3-6L,Government,Tier 1,Amazon,1-2/month,5713.0,5,3,4.0,3,4,3,4,5.0,3,1,8,275
+11966,18-24,<3L,Private Sector,Tier 3,Amazon,Rarely,3389.0,3,4,4.0,4,4,4,4,4.0,3,2,10,297
+11967,35-44,6-10L,Self-employed,Tier 2,Amazon,3-5/month,8183.0,3,4,4.0,3,4,3,3,3.0,4,2,8,317
+11968,45-54,<3L,Private Sector,Tier 3,Flipkart,1-2/month,4874.0,4,5,5.0,4,3,2,4,4.0,4,3,7,256
+11969,25-34,3-6L,Private Sector,Tier 1,Amazon,1-2/month,6379.0,5,5,4.0,4,5,4,4,5.0,4,2,9,318
+11970,25-34,<3L,Self-employed,Tier 1,Flipkart,1-2/month,5530.0,2,4,4.0,3,4,3,3,3.0,3,2,8,477
+11971,25-34,20L+,Private Sector,Tier 2,Flipkart,3-5/month,8775.0,4,4,3.0,3,5,2,3,4.0,3,3,6,332
+11972,55+,<3L,Student,Tier 1,Amazon,1-2/month,4597.0,3,4,3.0,4,4,3,4,3.0,4,4,7,242
+11973,35-44,6-10L,Private Sector,Tier 2,Other,6+/month,11046.0,4,3,4.0,3,4,3,4,4.0,4,2,8,145
+11974,25-34,<3L,Other,Tier 1,Amazon,1-2/month,3136.0,3,3,3.0,3,4,4,4,4.0,5,2,6,534
+11975,18-24,<3L,Other,Tier 2,Flipkart,Rarely,3452.0,5,4,4.0,4,5,4,4,4.0,2,3,10,468
+11976,18-24,3-6L,Private Sector,Tier 3,Amazon,1-2/month,6960.0,4,3,4.0,4,3,5,3,4.0,5,2,8,387
+11977,25-34,<3L,Self-employed,Tier 3,Flipkart,Rarely,2009.0,3,4,5.0,4,3,3,3,4.0,4,1,9,470
+11978,55+,<3L,Private Sector,Tier 3,Myntra,1-2/month,4628.0,4,5,3.0,4,3,3,2,2.0,2,3,3,410
+11979,35-44,6-10L,Student,Tier 3,Amazon,1-2/month,5899.0,4,3,3.0,4,4,3,4,4.0,5,2,10,353
+11980,18-24,6-10L,Government,Tier 1,Amazon,6+/month,11709.0,3,4,5.0,4,5,5,3,5.0,5,2,10,242
+11981,45-54,<3L,Private Sector,Tier 1,Amazon,1-2/month,3784.0,4,3,4.0,3,3,3,3,3.0,4,3,4,541
+11982,25-34,3-6L,Private Sector,Tier 3,Amazon,1-2/month,4017.0,4,3,4.0,3,4,3,4,2.0,2,5,5,318
+11983,45-54,6-10L,Self-employed,Tier 3,Other,1-2/month,4709.0,2,5,4.0,4,4,4,4,4.0,4,2,10,324
+11984,18-24,3-6L,Private Sector,Tier 3,Flipkart,1-2/month,6498.0,3,3,4.0,4,5,5,3,4.0,3,1,7,364
+11985,35-44,3-6L,Government,Tier 2,Flipkart,1-2/month,4416.0,4,3,3.0,3,5,5,3,4.0,4,3,9,365
+11986,45-54,<3L,Private Sector,Tier 1,Other,1-2/month,4200.0,3,4,5.0,3,4,2,4,3.0,4,4,4,415
+11987,25-34,3-6L,Student,Tier 3,Myntra,Rarely,6094.0,4,4,3.0,4,5,4,3,4.0,5,2,7,404
+11988,35-44,3-6L,Private Sector,Tier 3,Myntra,1-2/month,4639.0,4,4,5.0,4,5,4,3,4.0,4,2,9,305
+11989,55+,20L+,Other,Tier 2,Amazon,6+/month,13058.0,3,5,3.0,4,3,4,4,4.0,3,2,7,362
+11990,18-24,20L+,Private Sector,Tier 3,Amazon,3-5/month,10407.0,4,3,4.0,4,4,4,4,3.0,3,4,6,412
+11991,18-24,20L+,Student,Tier 2,Amazon,6+/month,13664.0,2,3,4.0,4,3,5,3,5.0,5,1,7,297
+11992,35-44,3-6L,Government,Tier 3,Amazon,1-2/month,4102.0,3,5,2.0,4,4,4,3,4.0,3,1,9,497
+11993,25-34,<3L,Other,Tier 1,Amazon,6+/month,9508.0,5,5,4.0,4,5,4,5,4.0,2,2,6,358
+11994,18-24,3-6L,Self-employed,Tier 3,Amazon,1-2/month,5572.0,5,4,2.0,4,4,4,3,4.0,3,3,10,512
+11995,25-34,3-6L,Private Sector,Tier 1,Amazon,Rarely,5936.0,5,3,4.0,2,5,5,4,4.0,4,3,7,228
+11996,35-44,<3L,Private Sector,Tier 1,Flipkart,3-5/month,6165.0,4,5,5.0,3,5,3,4,3.0,3,3,8,422
+11997,25-34,<3L,Private Sector,Tier 1,Amazon,Rarely,3106.0,4,4,3.0,3,3,2,4,3.0,4,3,8,275
+11998,25-34,3-6L,Self-employed,Tier 2,Amazon,1-2/month,5678.0,4,4,3.0,4,2,3,3,3.0,4,3,5,300
+11999,45-54,3-6L,Self-employed,Tier 1,Amazon,3-5/month,8058.0,5,3,4.0,4,5,4,3,5.0,4,1,9,446
+12000,25-34,<3L,Self-employed,Tier 3,Flipkart,3-5/month,7462.0,4,4,4.0,4,5,5,3,3.0,2,3,6,338
